@@ -1,0 +1,3883 @@
+Year,match_round,match_home_team,match_away_team,venue_name,match_attendance
+1999,1,Adelaide,Western Bulldogs,Football Park,39135
+1999,1,Brisbane,St Kilda,Gabba,20172
+1999,1,Collingwood,Hawthorn,MCG,48620
+1999,1,Essendon,Carlton,MCG,71501
+1999,1,Fremantle,West Coast,Subiaco,32680
+1999,1,Geelong,North Melbourne,MCG,33674
+1999,1,Melbourne,Richmond,MCG,47620
+1999,1,Sydney,Port Adelaide,SCG,28264
+1999,2,Carlton,Collingwood,MCG,70506
+1999,2,Hawthorn,Adelaide,Waverley Park,29135
+1999,2,North Melbourne,Essendon,MCG,48383
+1999,2,Port Adelaide,Fremantle,Football Park,28384
+1999,2,Richmond,Sydney,MCG,40462
+1999,2,St Kilda,Melbourne,Waverley Park,37232
+1999,2,West Coast,Brisbane,Subiaco,29932
+1999,2,Western Bulldogs,Geelong,Ikon Park,22162
+1999,3,Adelaide,St Kilda,Football Park,41708
+1999,3,Brisbane,Port Adelaide,Gabba,21092
+1999,3,Collingwood,West Coast,Victoria Park,19441
+1999,3,Essendon,Sydney,MCG,50324
+1999,3,Fremantle,Hawthorn,Subiaco,22552
+1999,3,Geelong,Melbourne,GMHBA Stadium,27417
+1999,3,Richmond,North Melbourne,MCG,46173
+1999,3,Western Bulldogs,Carlton,Ikon Park,27649
+1999,4,Brisbane,Adelaide,Gabba,21360
+1999,4,Carlton,Fremantle,Ikon Park,19100
+1999,4,Collingwood,Richmond,MCG,49609
+1999,4,Melbourne,Hawthorn,MCG,46289
+1999,4,Port Adelaide,Geelong,Football Park,34570
+1999,4,St Kilda,Western Bulldogs,Waverley Park,33581
+1999,4,Sydney,North Melbourne,SCG,29617
+1999,4,West Coast,Essendon,Subiaco,32893
+1999,5,Adelaide,Sydney,Football Park,42641
+1999,5,Carlton,Geelong,Ikon Park,31189
+1999,5,Essendon,Collingwood,MCG,73118
+1999,5,Fremantle,Brisbane,Subiaco,24044
+1999,5,Hawthorn,West Coast,Waverley Park,27370
+1999,5,Melbourne,Port Adelaide,MCG,24533
+1999,5,North Melbourne,St Kilda,SCG,11706
+1999,5,Western Bulldogs,Richmond,MCG,43043
+1999,6,Adelaide,Port Adelaide,Football Park,45615
+1999,6,Brisbane,Melbourne,Gabba,21753
+1999,6,Collingwood,North Melbourne,MCG,38245
+1999,6,Geelong,Hawthorn,GMHBA Stadium,27341
+1999,6,Richmond,Essendon,MCG,59458
+1999,6,St Kilda,Carlton,MCG,43777
+1999,6,Sydney,Fremantle,SCG,24629
+1999,6,West Coast,Western Bulldogs,Subiaco,32370
+1999,7,Brisbane,Collingwood,Gabba,22023
+1999,7,Carlton,Richmond,MCG,52103
+1999,7,Fremantle,Geelong,Subiaco,17620
+1999,7,Melbourne,Essendon,MCG,51722
+1999,7,North Melbourne,Adelaide,MCG,22006
+1999,7,Port Adelaide,Western Bulldogs,Football Park,28525
+1999,7,St Kilda,West Coast,Waverley Park,28240
+1999,7,Sydney,Hawthorn,SCG,25823
+1999,8,Collingwood,Fremantle,MCG,26339
+1999,8,Essendon,St Kilda,MCG,62928
+1999,8,Geelong,Sydney,GMHBA Stadium,21581
+1999,8,Hawthorn,North Melbourne,Waverley Park,21114
+1999,8,Port Adelaide,Carlton,Football Park,30557
+1999,8,Richmond,Brisbane,MCG,28217
+1999,8,West Coast,Adelaide,Subiaco,32484
+1999,8,Western Bulldogs,Melbourne,Ikon Park,18226
+1999,9,Adelaide,Richmond,Football Park,38151
+1999,9,Brisbane,Geelong,Gabba,22948
+1999,9,Carlton,Melbourne,Ikon Park,24669
+1999,9,Collingwood,Western Bulldogs,MCG,44457
+1999,9,Fremantle,North Melbourne,Subiaco,24218
+1999,9,Hawthorn,Essendon,Waverley Park,46479
+1999,9,St Kilda,Port Adelaide,Waverley Park,22232
+1999,9,Sydney,West Coast,SCG,36787
+1999,10,Adelaide,Essendon,Football Park,39389
+1999,10,Brisbane,Western Bulldogs,Gabba,17665
+1999,10,Geelong,St Kilda,GMHBA Stadium,22906
+1999,10,Melbourne,Fremantle,MCG,19178
+1999,10,North Melbourne,Port Adelaide,MCG,16429
+1999,10,Richmond,Hawthorn,MCG,45382
+1999,10,Sydney,Collingwood,SCG,41280
+1999,10,West Coast,Carlton,Subiaco,33313
+1999,11,Carlton,Brisbane,Ikon Park,24235
+1999,11,Collingwood,Melbourne,MCG,40031
+1999,11,Essendon,Geelong,MCG,61783
+1999,11,Fremantle,Adelaide,Subiaco,23814
+1999,11,North Melbourne,West Coast,SCG,15230
+1999,11,Port Adelaide,Richmond,Football Park,25753
+1999,11,St Kilda,Sydney,Waverley Park,46880
+1999,11,Western Bulldogs,Hawthorn,Ikon Park,18977
+1999,12,Adelaide,Collingwood,Football Park,36737
+1999,12,Brisbane,Essendon,Gabba,24989
+1999,12,Carlton,Sydney,Ikon Park,26006
+1999,12,Hawthorn,St Kilda,Waverley Park,36381
+1999,12,Melbourne,North Melbourne,MCG,28350
+1999,12,Richmond,Geelong,MCG,36013
+1999,12,West Coast,Port Adelaide,Subiaco,32596
+1999,12,Western Bulldogs,Fremantle,Ikon Park,13513
+1999,13,Essendon,Western Bulldogs,MCG,55230
+1999,13,Fremantle,Richmond,Subiaco,22865
+1999,13,Geelong,West Coast,GMHBA Stadium,19093
+1999,13,Melbourne,Adelaide,MCG,23371
+1999,13,North Melbourne,Carlton,MCG,36558
+1999,13,Port Adelaide,Hawthorn,Football Park,28739
+1999,13,St Kilda,Collingwood,Waverley Park,40790
+1999,13,Sydney,Brisbane,SCG,25528
+1999,14,Adelaide,Geelong,Football Park,40209
+1999,14,Collingwood,Port Adelaide,MCG,29462
+1999,14,Essendon,Fremantle,MCG,35273
+1999,14,Hawthorn,Carlton,Waverley Park,48353
+1999,14,North Melbourne,Brisbane,MCG,24189
+1999,14,St Kilda,Richmond,Waverley Park,43614
+1999,14,Sydney,Western Bulldogs,SCG,28420
+1999,14,West Coast,Melbourne,Subiaco,33541
+1999,15,Brisbane,Hawthorn,Gabba,22758
+1999,15,Carlton,Adelaide,Ikon Park,22720
+1999,15,Fremantle,St Kilda,Subiaco,24411
+1999,15,Geelong,Collingwood,GMHBA Stadium,24395
+1999,15,Melbourne,Sydney,MCG,35500
+1999,15,Port Adelaide,Essendon,Football Park,34671
+1999,15,Richmond,West Coast,MCG,32564
+1999,15,Western Bulldogs,North Melbourne,MCG,44683
+1999,16,Carlton,Essendon,MCG,66207
+1999,16,Hawthorn,Collingwood,Waverley Park,40319
+1999,16,North Melbourne,Geelong,SCG,10676
+1999,16,Port Adelaide,Sydney,Football Park,30750
+1999,16,Richmond,Melbourne,MCG,44898
+1999,16,St Kilda,Brisbane,Waverley Park,22268
+1999,16,West Coast,Fremantle,Subiaco,36763
+1999,16,Western Bulldogs,Adelaide,MCG,27747
+1999,17,Adelaide,Hawthorn,Football Park,38679
+1999,17,Brisbane,West Coast,Gabba,22186
+1999,17,Collingwood,Carlton,MCG,53560
+1999,17,Essendon,North Melbourne,MCG,68831
+1999,17,Fremantle,Port Adelaide,WACA,22987
+1999,17,Geelong,Western Bulldogs,GMHBA Stadium,19951
+1999,17,Melbourne,St Kilda,MCG,28854
+1999,17,Sydney,Richmond,SCG,29507
+1999,18,Carlton,Western Bulldogs,Ikon Park,24483
+1999,18,Hawthorn,Fremantle,Waverley Park,13941
+1999,18,Melbourne,Geelong,MCG,27408
+1999,18,North Melbourne,Richmond,MCG,38196
+1999,18,Port Adelaide,Brisbane,Football Park,33345
+1999,18,St Kilda,Adelaide,Waverley Park,20131
+1999,18,Sydney,Essendon,SCG,31776
+1999,18,West Coast,Collingwood,WACA,26126
+1999,19,Adelaide,Brisbane,Football Park,33398
+1999,19,Essendon,West Coast,MCG,55096
+1999,19,Fremantle,Carlton,WACA,23372
+1999,19,Geelong,Port Adelaide,GMHBA Stadium,17234
+1999,19,Hawthorn,Melbourne,Waverley Park,16665
+1999,19,North Melbourne,Sydney,SCG,27964
+1999,19,Richmond,Collingwood,MCG,47621
+1999,19,Western Bulldogs,St Kilda,Ikon Park,15804
+1999,20,Brisbane,Fremantle,Gabba,23845
+1999,20,Collingwood,Essendon,MCG,56129
+1999,20,Geelong,Carlton,MCG,42272
+1999,20,Port Adelaide,Melbourne,Football Park,26000
+1999,20,Richmond,Western Bulldogs,MCG,31062
+1999,20,St Kilda,North Melbourne,Waverley Park,26261
+1999,20,Sydney,Adelaide,SCG,34299
+1999,20,West Coast,Hawthorn,WACA,24835
+1999,21,Carlton,St Kilda,Ikon Park,24185
+1999,21,Essendon,Richmond,MCG,48835
+1999,21,Fremantle,Sydney,WACA,25126
+1999,21,Hawthorn,Geelong,Waverley Park,31603
+1999,21,Melbourne,Brisbane,MCG,18679
+1999,21,North Melbourne,Collingwood,MCG,33449
+1999,21,Port Adelaide,Adelaide,Football Park,42669
+1999,21,Western Bulldogs,West Coast,Ikon Park,17267
+1999,22,Adelaide,North Melbourne,Football Park,37662
+1999,22,Collingwood,Brisbane,Victoria Park,24493
+1999,22,Essendon,Melbourne,MCG,47480
+1999,22,Geelong,Fremantle,GMHBA Stadium,17378
+1999,22,Hawthorn,Sydney,Waverley Park,72130
+1999,22,Richmond,Carlton,MCG,34013
+1999,22,West Coast,St Kilda,WACA,24696
+1999,22,Western Bulldogs,Port Adelaide,Ikon Park,15183
+2000,1,Adelaide,Western Bulldogs,Football Park,37222
+2000,1,Carlton,Brisbane,Ikon Park,22374
+2000,1,Essendon,Port Adelaide,Marvel Stadium,43012
+2000,1,Fremantle,Geelong,Subiaco,19777
+2000,1,Hawthorn,Collingwood,MCG,53776
+2000,1,North Melbourne,West Coast,MCG,20580
+2000,1,Richmond,Melbourne,MCG,41648
+2000,1,St Kilda,Sydney,Marvel Stadium,31440
+2000,2,Carlton,Hawthorn,Ikon Park,21161
+2000,2,Collingwood,Adelaide,MCG,33076
+2000,2,Essendon,Richmond,MCG,49521
+2000,2,Geelong,St Kilda,GMHBA Stadium,20476
+2000,2,Melbourne,North Melbourne,MCG,23348
+2000,2,Port Adelaide,Fremantle,Football Park,24695
+2000,2,West Coast,Sydney,Subiaco,38127
+2000,2,Western Bulldogs,Brisbane,Marvel Stadium,24460
+2000,3,Adelaide,Geelong,Football Park,39179
+2000,3,Collingwood,Carlton,MCG,82669
+2000,3,Fremantle,Essendon,Subiaco,27230
+2000,3,Hawthorn,Brisbane,MCG,20374
+2000,3,Richmond,North Melbourne,MCG,37543
+2000,3,St Kilda,West Coast,Marvel Stadium,21215
+2000,3,Sydney,Melbourne,SCG,26920
+2000,3,Western Bulldogs,Port Adelaide,Marvel Stadium,18134
+2000,4,Hawthorn,Essendon,MCG,46889
+2000,4,Melbourne,St Kilda,MCG,31642
+2000,4,North Melbourne,Geelong,Marvel Stadium,34623
+2000,4,Port Adelaide,Brisbane,Football Park,24458
+2000,4,Richmond,Fremantle,Marvel Stadium,23578
+2000,4,Sydney,Collingwood,SCG,34687
+2000,4,West Coast,Adelaide,WACA,26008
+2000,4,Western Bulldogs,Carlton,Marvel Stadium,30576
+2000,5,Brisbane,Adelaide,Gabba,26395
+2000,5,Essendon,Carlton,MCG,64658
+2000,5,Fremantle,Melbourne,WACA,20484
+2000,5,Geelong,West Coast,GMHBA Stadium,22623
+2000,5,North Melbourne,Sydney,SCG,19306
+2000,5,Port Adelaide,Hawthorn,Football Park,22086
+2000,5,St Kilda,Richmond,Marvel Stadium,26374
+2000,5,Western Bulldogs,Collingwood,Marvel Stadium,45141
+2000,6,Adelaide,Hawthorn,Football Park,38158
+2000,6,Carlton,Port Adelaide,Ikon Park,16415
+2000,6,Collingwood,North Melbourne,MCG,55802
+2000,6,Geelong,Melbourne,GMHBA Stadium,26761
+2000,6,St Kilda,Brisbane,Marvel Stadium,18194
+2000,6,Sydney,Richmond,SCG,25049
+2000,6,West Coast,Fremantle,Subiaco,40519
+2000,6,Western Bulldogs,Essendon,Marvel Stadium,42029
+2000,7,Collingwood,Essendon,MCG,88390
+2000,7,Fremantle,Brisbane,Subiaco,19800
+2000,7,Hawthorn,Western Bulldogs,MCG,29405
+2000,7,Melbourne,West Coast,Marvel Stadium,20774
+2000,7,Port Adelaide,Adelaide,Football Park,41101
+2000,7,Richmond,Carlton,MCG,63149
+2000,7,St Kilda,North Melbourne,Marvel Stadium,25977
+2000,7,Sydney,Geelong,SCG,27040
+2000,8,Brisbane,Essendon,Gabba,31887
+2000,8,Carlton,Sydney,Ikon Park,19964
+2000,8,Collingwood,Fremantle,Marvel Stadium,33947
+2000,8,Geelong,Richmond,Marvel Stadium,35171
+2000,8,North Melbourne,Hawthorn,MCG,36514
+2000,8,Port Adelaide,Melbourne,Football Park,22490
+2000,8,St Kilda,Adelaide,Marvel Stadium,20125
+2000,8,West Coast,Western Bulldogs,WACA,26554
+2000,9,Adelaide,North Melbourne,Football Park,40402
+2000,9,Brisbane,Collingwood,Gabba,29046
+2000,9,Fremantle,Carlton,Subiaco,28421
+2000,9,Hawthorn,Geelong,MCG,39116
+2000,9,Melbourne,Essendon,MCG,62606
+2000,9,Richmond,West Coast,Marvel Stadium,26304
+2000,9,Sydney,Port Adelaide,SCG,22446
+2000,9,Western Bulldogs,St Kilda,Marvel Stadium,35505
+2000,10,Essendon,Adelaide,Marvel Stadium,34626
+2000,10,Melbourne,Brisbane,Marvel Stadium,24908
+2000,10,North Melbourne,Fremantle,MCG,12400
+2000,10,Port Adelaide,Geelong,Football Park,19511
+2000,10,Richmond,Collingwood,MCG,64769
+2000,10,St Kilda,Carlton,Marvel Stadium,38151
+2000,10,West Coast,Hawthorn,Subiaco,37549
+2000,10,Western Bulldogs,Sydney,SCG,18817
+2000,11,Adelaide,Melbourne,Football Park,37871
+2000,11,Carlton,North Melbourne,Ikon Park,28944
+2000,11,Collingwood,West Coast,Marvel Stadium,29072
+2000,11,Fremantle,Western Bulldogs,Subiaco,20821
+2000,11,Geelong,Essendon,Marvel Stadium,47071
+2000,11,Hawthorn,Richmond,MCG,41057
+2000,11,St Kilda,Port Adelaide,Marvel Stadium,17509
+2000,11,Sydney,Brisbane,SCG,19789
+2000,12,Adelaide,Sydney,Football Park,30350
+2000,12,Brisbane,Richmond,Gabba,29967
+2000,12,Collingwood,Geelong,MCG,34367
+2000,12,Essendon,St Kilda,Marvel Stadium,39836
+2000,12,Hawthorn,Fremantle,Marvel Stadium,16004
+2000,12,North Melbourne,Port Adelaide,SCG,7334
+2000,12,West Coast,Carlton,Subiaco,39968
+2000,12,Western Bulldogs,Melbourne,Marvel Stadium,26180
+2000,13,Brisbane,West Coast,Gabba,25359
+2000,13,Essendon,North Melbourne,MCG,67172
+2000,13,Fremantle,St Kilda,Subiaco,21278
+2000,13,Geelong,Western Bulldogs,Marvel Stadium,30573
+2000,13,Melbourne,Carlton,MCG,41889
+2000,13,Port Adelaide,Collingwood,Football Park,22691
+2000,13,Richmond,Adelaide,Marvel Stadium,32959
+2000,13,Sydney,Hawthorn,SCG,21353
+2000,14,Adelaide,Fremantle,Football Park,40917
+2000,14,Carlton,Geelong,Ikon Park,31988
+2000,14,Melbourne,Collingwood,MCG,39710
+2000,14,North Melbourne,Brisbane,Marvel Stadium,26326
+2000,14,Richmond,Western Bulldogs,MCG,49557
+2000,14,St Kilda,Hawthorn,MCG,21744
+2000,14,Sydney,Essendon,SCG,29199
+2000,14,West Coast,Port Adelaide,Subiaco,31996
+2000,15,Carlton,Adelaide,Ikon Park,25563
+2000,15,Collingwood,St Kilda,MCG,35542
+2000,15,Essendon,West Coast,Marvel Stadium,39694
+2000,15,Fremantle,Sydney,Subiaco,20465
+2000,15,Geelong,Brisbane,GMHBA Stadium,21003
+2000,15,Hawthorn,Melbourne,MCG,39215
+2000,15,Port Adelaide,Richmond,Football Park,26053
+2000,15,Western Bulldogs,North Melbourne,Marvel Stadium,27695
+2000,16,Brisbane,Carlton,Gabba,34743
+2000,16,Collingwood,Hawthorn,Marvel Stadium,38745
+2000,16,Geelong,Fremantle,GMHBA Stadium,17399
+2000,16,Melbourne,Richmond,MCG,43200
+2000,16,Port Adelaide,Essendon,Football Park,35129
+2000,16,Sydney,St Kilda,SCG,22154
+2000,16,West Coast,North Melbourne,Subiaco,36461
+2000,16,Western Bulldogs,Adelaide,Marvel Stadium,22229
+2000,17,Adelaide,Collingwood,Football Park,40171
+2000,17,Brisbane,Western Bulldogs,Gabba,24662
+2000,17,Fremantle,Port Adelaide,WACA,10826
+2000,17,Hawthorn,Carlton,MCG,48268
+2000,17,North Melbourne,Melbourne,Marvel Stadium,30423
+2000,17,Richmond,Essendon,MCG,73465
+2000,17,St Kilda,Geelong,Marvel Stadium,23870
+2000,17,Sydney,West Coast,SCG,22002
+2000,18,Brisbane,Hawthorn,Gabba,26782
+2000,18,Carlton,Collingwood,Ikon Park,30096
+2000,18,Essendon,Fremantle,Marvel Stadium,34567
+2000,18,Geelong,Adelaide,GMHBA Stadium,20480
+2000,18,Melbourne,Sydney,MCG,33923
+2000,18,North Melbourne,Richmond,SCG,9198
+2000,18,Port Adelaide,Western Bulldogs,Football Park,21783
+2000,18,West Coast,St Kilda,WACA,22232
+2000,19,Adelaide,West Coast,Football Park,35425
+2000,19,Brisbane,Port Adelaide,Gabba,21956
+2000,19,Carlton,Western Bulldogs,Ikon Park,25397
+2000,19,Collingwood,Sydney,MCG,33182
+2000,19,Essendon,Hawthorn,Marvel Stadium,46946
+2000,19,Fremantle,Richmond,WACA,19116
+2000,19,Geelong,North Melbourne,Marvel Stadium,37446
+2000,19,St Kilda,Melbourne,Marvel Stadium,24039
+2000,20,Adelaide,Brisbane,Football Park,40817
+2000,20,Carlton,Essendon,MCG,91571
+2000,20,Collingwood,Western Bulldogs,Marvel Stadium,30342
+2000,20,Hawthorn,Port Adelaide,MCG,18976
+2000,20,Melbourne,Fremantle,Marvel Stadium,16120
+2000,20,Richmond,St Kilda,MCG,35463
+2000,20,Sydney,North Melbourne,SCG,30551
+2000,20,West Coast,Geelong,Subiaco,30615
+2000,21,Brisbane,St Kilda,Gabba,25603
+2000,21,Essendon,Western Bulldogs,Marvel Stadium,45725
+2000,21,Fremantle,West Coast,Subiaco,37710
+2000,21,Hawthorn,Adelaide,MCG,25512
+2000,21,Melbourne,Geelong,MCG,75033
+2000,21,North Melbourne,Collingwood,Marvel Stadium,30003
+2000,21,Port Adelaide,Carlton,Football Park,30152
+2000,21,Richmond,Sydney,Marvel Stadium,35697
+2000,22,Adelaide,Port Adelaide,Football Park,42659
+2000,22,Brisbane,Fremantle,Gabba,25070
+2000,22,Carlton,Richmond,MCG,65078
+2000,22,Essendon,Collingwood,MCG,66122
+2000,22,Geelong,Sydney,GMHBA Stadium,26011
+2000,22,North Melbourne,St Kilda,Marvel Stadium,16310
+2000,22,West Coast,Melbourne,Subiaco,34471
+2000,22,Western Bulldogs,Hawthorn,Marvel Stadium,45527
+2001,1,Fremantle,Carlton,Subiaco,23716
+2001,1,Geelong,West Coast,GMHBA Stadium,20149
+2001,1,Hawthorn,Collingwood,MCG,52190
+2001,1,Melbourne,Richmond,MCG,44466
+2001,1,North Melbourne,Essendon,MCG,56028
+2001,1,Port Adelaide,Brisbane,Football Park,25948
+2001,1,Sydney,Adelaide,SCG,31174
+2001,1,Western Bulldogs,St Kilda,Marvel Stadium,30047
+2001,2,Adelaide,Melbourne,Football Park,35653
+2001,2,Brisbane,North Melbourne,Gabba,22970
+2001,2,Carlton,Hawthorn,Ikon Park,27597
+2001,2,Collingwood,Fremantle,Marvel Stadium,26067
+2001,2,Essendon,Port Adelaide,Marvel Stadium,34918
+2001,2,Richmond,Western Bulldogs,MCG,36427
+2001,2,St Kilda,Geelong,Marvel Stadium,33867
+2001,2,West Coast,Sydney,Subiaco,32673
+2001,3,Adelaide,Port Adelaide,Football Park,40296
+2001,3,Carlton,Essendon,MCG,63088
+2001,3,Fremantle,Hawthorn,Subiaco,20703
+2001,3,Melbourne,Geelong,MCG,48551
+2001,3,North Melbourne,Sydney,SCG,22395
+2001,3,Richmond,Brisbane,MCG,31688
+2001,3,St Kilda,West Coast,Marvel Stadium,19496
+2001,3,Western Bulldogs,Collingwood,Marvel Stadium,37598
+2001,4,Carlton,Adelaide,Ikon Park,21110
+2001,4,Collingwood,Richmond,MCG,78638
+2001,4,Fremantle,West Coast,Subiaco,38804
+2001,4,Geelong,North Melbourne,GMHBA Stadium,14298
+2001,4,Hawthorn,Melbourne,MCG,30113
+2001,4,Port Adelaide,St Kilda,Football Park,27017
+2001,4,Sydney,Essendon,SCG,40131
+2001,4,Western Bulldogs,Brisbane,Marvel Stadium,20322
+2001,5,Adelaide,North Melbourne,Football Park,37596
+2001,5,Brisbane,Fremantle,Gabba,20059
+2001,5,Carlton,St Kilda,Ikon Park,24385
+2001,5,Essendon,Collingwood,MCG,83905
+2001,5,Geelong,Port Adelaide,GMHBA Stadium,18736
+2001,5,Melbourne,Sydney,MCG,31168
+2001,5,West Coast,Richmond,Subiaco,38424
+2001,5,Western Bulldogs,Hawthorn,Marvel Stadium,34400
+2001,6,Brisbane,Geelong,Gabba,25881
+2001,6,Collingwood,Carlton,MCG,73572
+2001,6,Essendon,West Coast,Marvel Stadium,33829
+2001,6,Fremantle,Melbourne,Subiaco,19775
+2001,6,Hawthorn,Adelaide,University of Tasmania Stadium,17460
+2001,6,North Melbourne,Richmond,Marvel Stadium,39773
+2001,6,Port Adelaide,Western Bulldogs,Football Park,30197
+2001,6,St Kilda,Sydney,Marvel Stadium,28933
+2001,7,Adelaide,Fremantle,Football Park,38292
+2001,7,Collingwood,North Melbourne,Marvel Stadium,34600
+2001,7,Geelong,Carlton,MCG,29150
+2001,7,Melbourne,Western Bulldogs,MCG,32299
+2001,7,Richmond,Essendon,MCG,77576
+2001,7,St Kilda,Hawthorn,Marvel Stadium,37940
+2001,7,Sydney,Brisbane,SCG,22390
+2001,7,West Coast,Port Adelaide,Subiaco,28026
+2001,8,Carlton,Brisbane,Ikon Park,21997
+2001,8,Fremantle,Geelong,Subiaco,20231
+2001,8,Hawthorn,West Coast,MCG,22988
+2001,8,Melbourne,Essendon,MCG,47452
+2001,8,North Melbourne,St Kilda,UNSW Canberra Oval,10958
+2001,8,Port Adelaide,Collingwood,Football Park,34232
+2001,8,Richmond,Adelaide,MCG,29073
+2001,8,Western Bulldogs,Sydney,SCG,22874
+2001,9,Brisbane,Adelaide,Gabba,24122
+2001,9,Collingwood,St Kilda,MCG,49937
+2001,9,Essendon,Hawthorn,Marvel Stadium,50701
+2001,9,Geelong,Richmond,GMHBA Stadium,27421
+2001,9,North Melbourne,Carlton,MCG,43624
+2001,9,Port Adelaide,Melbourne,Football Park,22423
+2001,9,Sydney,Fremantle,SCG,20611
+2001,9,West Coast,Western Bulldogs,Subiaco,30063
+2001,10,Adelaide,Geelong,Football Park,40466
+2001,10,Brisbane,Essendon,Gabba,36149
+2001,10,Carlton,West Coast,Ikon Park,19757
+2001,10,Collingwood,Sydney,Marvel Stadium,42640
+2001,10,Fremantle,Richmond,Subiaco,19626
+2001,10,Hawthorn,Port Adelaide,MCG,28228
+2001,10,St Kilda,Melbourne,Marvel Stadium,30497
+2001,10,Western Bulldogs,North Melbourne,Marvel Stadium,32793
+2001,11,Adelaide,Western Bulldogs,Football Park,38829
+2001,11,Geelong,Hawthorn,Marvel Stadium,37526
+2001,11,Melbourne,Collingwood,MCG,62761
+2001,11,North Melbourne,Fremantle,Marvel Stadium,18023
+2001,11,Richmond,Carlton,MCG,71767
+2001,11,St Kilda,Essendon,Marvel Stadium,40075
+2001,11,Sydney,Port Adelaide,SCG,28187
+2001,11,West Coast,Brisbane,Subiaco,25588
+2001,12,Collingwood,West Coast,Marvel Stadium,36589
+2001,12,Essendon,Adelaide,Marvel Stadium,38816
+2001,12,Fremantle,St Kilda,Subiaco,19857
+2001,12,Geelong,Western Bulldogs,GMHBA Stadium,22771
+2001,12,Hawthorn,North Melbourne,MCG,41295
+2001,12,Melbourne,Brisbane,Gabba,23740
+2001,12,Port Adelaide,Carlton,Football Park,35805
+2001,12,Richmond,Sydney,Marvel Stadium,37196
+2001,13,Adelaide,Collingwood,Football Park,39010
+2001,13,Brisbane,Hawthorn,Gabba,30573
+2001,13,Carlton,Western Bulldogs,Ikon Park,30067
+2001,13,Essendon,Fremantle,Marvel Stadium,29528
+2001,13,North Melbourne,Port Adelaide,UNSW Canberra Oval,10030
+2001,13,St Kilda,Richmond,Marvel Stadium,40783
+2001,13,Sydney,Geelong,SCG,26760
+2001,13,West Coast,Melbourne,Subiaco,29783
+2001,14,Adelaide,West Coast,Football Park,31534
+2001,14,Brisbane,St Kilda,Gabba,22911
+2001,14,Fremantle,Port Adelaide,Subiaco,15961
+2001,14,Geelong,Collingwood,Marvel Stadium,50160
+2001,14,Melbourne,North Melbourne,MCG,27464
+2001,14,Richmond,Hawthorn,MCG,52189
+2001,14,Sydney,Carlton,SCG,30488
+2001,14,Western Bulldogs,Essendon,Marvel Stadium,48728
+2001,15,Carlton,Melbourne,Ikon Park,23901
+2001,15,Collingwood,Brisbane,MCG,45016
+2001,15,Essendon,Geelong,Marvel Stadium,48152
+2001,15,Hawthorn,Sydney,MCG,34394
+2001,15,Port Adelaide,Richmond,Football Park,26773
+2001,15,St Kilda,Adelaide,Marvel Stadium,26560
+2001,15,West Coast,North Melbourne,Subiaco,34259
+2001,15,Western Bulldogs,Fremantle,Marvel Stadium,15111
+2001,16,Adelaide,Sydney,Football Park,46852
+2001,16,Brisbane,Port Adelaide,Gabba,29547
+2001,16,Carlton,Fremantle,Ikon Park,15622
+2001,16,Collingwood,Hawthorn,MCG,52381
+2001,16,Essendon,North Melbourne,MCG,51878
+2001,16,Richmond,Melbourne,MCG,37938
+2001,16,St Kilda,Western Bulldogs,Marvel Stadium,21665
+2001,16,West Coast,Geelong,Subiaco,31456
+2001,17,Fremantle,Collingwood,Subiaco,20498
+2001,17,Geelong,St Kilda,GMHBA Stadium,22414
+2001,17,Hawthorn,Carlton,MCG,52472
+2001,17,Melbourne,Adelaide,MCG,17566
+2001,17,North Melbourne,Brisbane,Marvel Stadium,26776
+2001,17,Port Adelaide,Essendon,Football Park,37930
+2001,17,Sydney,West Coast,SCG,20669
+2001,17,Western Bulldogs,Richmond,Marvel Stadium,43595
+2001,18,Brisbane,Western Bulldogs,Gabba,26872
+2001,18,Essendon,Carlton,MCG,75873
+2001,18,Geelong,Melbourne,MCG,31074
+2001,18,Hawthorn,Fremantle,Marvel Stadium,16595
+2001,18,Port Adelaide,Adelaide,Football Park,49846
+2001,18,Richmond,Collingwood,MCG,69930
+2001,18,Sydney,North Melbourne,SCG,32689
+2001,18,West Coast,St Kilda,Subiaco,31358
+2001,19,Adelaide,Carlton,Football Park,44542
+2001,19,Brisbane,Richmond,Gabba,31324
+2001,19,Collingwood,Western Bulldogs,MCG,38793
+2001,19,Essendon,Sydney,Marvel Stadium,45057
+2001,19,Melbourne,Hawthorn,MCG,26632
+2001,19,North Melbourne,Geelong,Marvel Stadium,30919
+2001,19,St Kilda,Port Adelaide,Marvel Stadium,14018
+2001,19,West Coast,Fremantle,Subiaco,41285
+2001,20,Collingwood,Essendon,MCG,71518
+2001,20,Fremantle,Brisbane,Subiaco,15136
+2001,20,Hawthorn,Western Bulldogs,MCG,26642
+2001,20,North Melbourne,Adelaide,Marvel Stadium,25340
+2001,20,Port Adelaide,Geelong,Football Park,25536
+2001,20,Richmond,West Coast,Marvel Stadium,25856
+2001,20,St Kilda,Carlton,Marvel Stadium,34521
+2001,20,Sydney,Melbourne,SCG,28367
+2001,21,Adelaide,Hawthorn,Football Park,42827
+2001,21,Carlton,Collingwood,MCG,70051
+2001,21,Geelong,Brisbane,GMHBA Stadium,24325
+2001,21,Melbourne,Fremantle,Marvel Stadium,12566
+2001,21,Richmond,North Melbourne,MCG,37776
+2001,21,Sydney,St Kilda,SCG,26334
+2001,21,West Coast,Essendon,Subiaco,36445
+2001,21,Western Bulldogs,Port Adelaide,Marvel Stadium,19649
+2001,22,Brisbane,Sydney,Gabba,33606
+2001,22,Carlton,Geelong,Ikon Park,26314
+2001,22,Essendon,Richmond,MCG,77028
+2001,22,Fremantle,Adelaide,Subiaco,19535
+2001,22,Hawthorn,St Kilda,MCG,24113
+2001,22,North Melbourne,Collingwood,UNSW Canberra Oval,13117
+2001,22,Port Adelaide,West Coast,Football Park,22976
+2001,22,Western Bulldogs,Melbourne,Marvel Stadium,21146
+2002,1,Geelong,Essendon,MCG,42746
+2002,1,Hawthorn,Melbourne,MCG,43484
+2002,1,Port Adelaide,North Melbourne,Football Park,28578
+2002,1,Richmond,Collingwood,MCG,65316
+2002,1,St Kilda,Carlton,Marvel Stadium,33359
+2002,1,Sydney,Brisbane,SCG,24052
+2002,1,West Coast,Fremantle,Subiaco,39467
+2002,1,Western Bulldogs,Adelaide,Marvel Stadium,18475
+2002,2,Adelaide,Geelong,Football Park,44386
+2002,2,Brisbane,Hawthorn,Gabba,25660
+2002,2,Carlton,Sydney,Ikon Park,22435
+2002,2,Collingwood,West Coast,MCG,29348
+2002,2,Essendon,Richmond,MCG,67453
+2002,2,Fremantle,St Kilda,Subiaco,21138
+2002,2,Melbourne,Port Adelaide,MCG,19611
+2002,2,North Melbourne,Western Bulldogs,Marvel Stadium,25985
+2002,3,Adelaide,Sydney,Football Park,42246
+2002,3,Brisbane,Essendon,Gabba,35898
+2002,3,Carlton,Collingwood,MCG,63864
+2002,3,Hawthorn,Fremantle,University of Tasmania Stadium,15066
+2002,3,North Melbourne,Geelong,Marvel Stadium,27286
+2002,3,Richmond,Melbourne,MCG,37154
+2002,3,St Kilda,Port Adelaide,Marvel Stadium,17641
+2002,3,West Coast,Western Bulldogs,Subiaco,31854
+2002,4,Collingwood,Hawthorn,MCG,48476
+2002,4,Essendon,Adelaide,Marvel Stadium,40322
+2002,4,Fremantle,Richmond,Subiaco,23571
+2002,4,Geelong,St Kilda,GMHBA Stadium,23563
+2002,4,Melbourne,West Coast,Ikon Park,9421
+2002,4,Port Adelaide,Carlton,Football Park,29486
+2002,4,Sydney,North Melbourne,SCG,23775
+2002,4,Western Bulldogs,Brisbane,Marvel Stadium,23928
+2002,5,Adelaide,Port Adelaide,Football Park,49513
+2002,5,Carlton,North Melbourne,Marvel Stadium,35138
+2002,5,Collingwood,Essendon,MCG,84894
+2002,5,Geelong,Fremantle,GMHBA Stadium,20075
+2002,5,Hawthorn,Richmond,MCG,39694
+2002,5,St Kilda,Sydney,Marvel Stadium,21007
+2002,5,West Coast,Brisbane,Subiaco,33313
+2002,5,Western Bulldogs,Melbourne,Marvel Stadium,30789
+2002,6,Brisbane,Geelong,Gabba,27015
+2002,6,Carlton,Western Bulldogs,Marvel Stadium,29783
+2002,6,Fremantle,Essendon,Subiaco,25319
+2002,6,North Melbourne,Hawthorn,MCG,33345
+2002,6,Port Adelaide,West Coast,Football Park,27056
+2002,6,Richmond,Adelaide,Marvel Stadium,23355
+2002,6,St Kilda,Collingwood,Marvel Stadium,46089
+2002,6,Sydney,Melbourne,SCG,23578
+2002,7,Adelaide,Fremantle,Football Park,44058
+2002,7,Brisbane,Port Adelaide,Gabba,24538
+2002,7,Essendon,Carlton,MCG,55633
+2002,7,Hawthorn,Geelong,MCG,38709
+2002,7,Melbourne,St Kilda,MCG,20892
+2002,7,Richmond,Sydney,Marvel Stadium,29303
+2002,7,West Coast,North Melbourne,Subiaco,32815
+2002,7,Western Bulldogs,Collingwood,Marvel Stadium,34400
+2002,8,Collingwood,Brisbane,Marvel Stadium,46279
+2002,8,Essendon,St Kilda,Marvel Stadium,34262
+2002,8,Fremantle,Melbourne,Subiaco,25027
+2002,8,Hawthorn,Carlton,MCG,39142
+2002,8,North Melbourne,Adelaide,UNSW Canberra Oval,7671
+2002,8,Port Adelaide,Geelong,Football Park,18193
+2002,8,Richmond,West Coast,MCG,22647
+2002,8,Western Bulldogs,Sydney,SCG,20934
+2002,9,Brisbane,Fremantle,Gabba,21709
+2002,9,Carlton,Adelaide,Ikon Park,19305
+2002,9,Geelong,Western Bulldogs,GMHBA Stadium,22033
+2002,9,Melbourne,North Melbourne,MCG,28625
+2002,9,Port Adelaide,Collingwood,Football Park,35834
+2002,9,St Kilda,Richmond,Marvel Stadium,30336
+2002,9,Sydney,Essendon,ANZ Stadium,54129
+2002,9,West Coast,Hawthorn,Subiaco,38646
+2002,10,Adelaide,Brisbane,Football Park,47279
+2002,10,Collingwood,Sydney,Marvel Stadium,45269
+2002,10,Fremantle,Carlton,Subiaco,27277
+2002,10,Geelong,Melbourne,GMHBA Stadium,20031
+2002,10,Hawthorn,Port Adelaide,University of Tasmania Stadium,18112
+2002,10,North Melbourne,Essendon,MCG,34352
+2002,10,Richmond,Western Bulldogs,MCG,31586
+2002,10,St Kilda,West Coast,Marvel Stadium,18876
+2002,11,Adelaide,Hawthorn,Football Park,42162
+2002,11,Brisbane,St Kilda,Gabba,23157
+2002,11,Essendon,Port Adelaide,Marvel Stadium,40044
+2002,11,Geelong,Carlton,Marvel Stadium,37294
+2002,11,Melbourne,Collingwood,MCG,65860
+2002,11,North Melbourne,Richmond,Marvel Stadium,30889
+2002,11,West Coast,Sydney,Subiaco,35014
+2002,11,Western Bulldogs,Fremantle,Ikon Park,11539
+2002,12,Brisbane,North Melbourne,Gabba,27940
+2002,12,Carlton,West Coast,Ikon Park,16353
+2002,12,Essendon,Hawthorn,MCG,40470
+2002,12,Fremantle,Collingwood,Subiaco,33088
+2002,12,Melbourne,Adelaide,Ikon Park,12210
+2002,12,Port Adelaide,Richmond,Football Park,25770
+2002,12,Sydney,Geelong,SCG,21767
+2002,12,Western Bulldogs,St Kilda,Marvel Stadium,29453
+2002,13,Brisbane,Carlton,Gabba,27324
+2002,13,Collingwood,North Melbourne,Marvel Stadium,48288
+2002,13,Essendon,Melbourne,Marvel Stadium,41817
+2002,13,Port Adelaide,Western Bulldogs,Football Park,24751
+2002,13,Richmond,Geelong,MCG,30197
+2002,13,St Kilda,Hawthorn,Marvel Stadium,28928
+2002,13,Sydney,Fremantle,SCG,16844
+2002,13,West Coast,Adelaide,Subiaco,34937
+2002,14,Adelaide,Collingwood,Football Park,46368
+2002,14,Carlton,Richmond,MCG,36941
+2002,14,Fremantle,Port Adelaide,Subiaco,24193
+2002,14,Geelong,West Coast,GMHBA Stadium,18608
+2002,14,Hawthorn,Sydney,MCG,25079
+2002,14,Melbourne,Brisbane,Gabba,25166
+2002,14,St Kilda,North Melbourne,Marvel Stadium,23864
+2002,14,Western Bulldogs,Essendon,Marvel Stadium,44864
+2002,15,Adelaide,St Kilda,Football Park,29895
+2002,15,Carlton,Melbourne,Marvel Stadium,37915
+2002,15,Collingwood,Geelong,MCG,65331
+2002,15,Hawthorn,Western Bulldogs,Marvel Stadium,35434
+2002,15,North Melbourne,Fremantle,UNSW Canberra Oval,9242
+2002,15,Richmond,Brisbane,Marvel Stadium,22642
+2002,15,Sydney,Port Adelaide,SCG,18974
+2002,15,West Coast,Essendon,Subiaco,37600
+2002,16,Adelaide,Western Bulldogs,Football Park,41247
+2002,16,Brisbane,Sydney,Gabba,25720
+2002,16,Carlton,St Kilda,Marvel Stadium,33813
+2002,16,Collingwood,Richmond,MCG,48620
+2002,16,Essendon,Geelong,Marvel Stadium,47778
+2002,16,Fremantle,West Coast,Subiaco,41779
+2002,16,Melbourne,Hawthorn,MCG,37442
+2002,16,North Melbourne,Port Adelaide,Ikon Park,9398
+2002,17,Geelong,Adelaide,GMHBA Stadium,24325
+2002,17,Hawthorn,Brisbane,MCG,35202
+2002,17,Port Adelaide,Melbourne,Football Park,25283
+2002,17,Richmond,Essendon,MCG,39650
+2002,17,St Kilda,Fremantle,Ikon Park,8078
+2002,17,Sydney,Carlton,ANZ Stadium,34404
+2002,17,West Coast,Collingwood,Subiaco,38877
+2002,17,Western Bulldogs,North Melbourne,Marvel Stadium,31576
+2002,18,Collingwood,Carlton,MCG,54233
+2002,18,Essendon,Brisbane,Marvel Stadium,43036
+2002,18,Fremantle,Hawthorn,Subiaco,24332
+2002,18,Geelong,North Melbourne,GMHBA Stadium,23163
+2002,18,Melbourne,Richmond,MCG,28815
+2002,18,Port Adelaide,St Kilda,Football Park,22885
+2002,18,Sydney,Adelaide,SCG,18766
+2002,18,Western Bulldogs,West Coast,Ikon Park,11809
+2002,19,Adelaide,Essendon,Football Park,43720
+2002,19,Brisbane,Western Bulldogs,Gabba,27443
+2002,19,Carlton,Port Adelaide,Ikon Park,14115
+2002,19,Hawthorn,Collingwood,MCG,53750
+2002,19,North Melbourne,Sydney,SCG,14776
+2002,19,Richmond,Fremantle,MCG,19519
+2002,19,St Kilda,Geelong,Marvel Stadium,25552
+2002,19,West Coast,Melbourne,Subiaco,36195
+2002,20,Brisbane,West Coast,Gabba,29436
+2002,20,Essendon,Collingwood,MCG,69613
+2002,20,Fremantle,Geelong,Subiaco,22610
+2002,20,Melbourne,Western Bulldogs,MCG,29225
+2002,20,North Melbourne,Carlton,Marvel Stadium,23532
+2002,20,Port Adelaide,Adelaide,Football Park,50275
+2002,20,Richmond,Hawthorn,MCG,39391
+2002,20,Sydney,St Kilda,SCG,16079
+2002,21,Adelaide,Richmond,Football Park,42878
+2002,21,Collingwood,St Kilda,MCG,42056
+2002,21,Essendon,Fremantle,Marvel Stadium,32667
+2002,21,Geelong,Brisbane,GMHBA Stadium,24003
+2002,21,Hawthorn,North Melbourne,MCG,32393
+2002,21,Melbourne,Sydney,MCG,27146
+2002,21,West Coast,Port Adelaide,Subiaco,36502
+2002,21,Western Bulldogs,Carlton,Marvel Stadium,22938
+2002,22,Carlton,Essendon,MCG,46649
+2002,22,Collingwood,Western Bulldogs,MCG,43894
+2002,22,Fremantle,Adelaide,Subiaco,21610
+2002,22,Geelong,Hawthorn,Marvel Stadium,41600
+2002,22,North Melbourne,West Coast,UNSW Canberra Oval,11613
+2002,22,Port Adelaide,Brisbane,Football Park,46439
+2002,22,St Kilda,Melbourne,Marvel Stadium,34185
+2002,22,Sydney,Richmond,ANZ Stadium,40386
+2003,1,Adelaide,Fremantle,Football Park,45436
+2003,1,Brisbane,Essendon,Gabba,36197
+2003,1,Collingwood,Richmond,MCG,61058
+2003,1,Melbourne,Hawthorn,MCG,41888
+2003,1,North Melbourne,St Kilda,MCG,28361
+2003,1,Sydney,Carlton,ANZ Stadium,30803
+2003,1,West Coast,Port Adelaide,Subiaco,35083
+2003,1,Western Bulldogs,Geelong,Marvel Stadium,27931
+2003,2,Carlton,Collingwood,MCG,51894
+2003,2,Essendon,Melbourne,MCG,43448
+2003,2,Fremantle,Sydney,Subiaco,24887
+2003,2,Geelong,North Melbourne,GMHBA Stadium,22588
+2003,2,Hawthorn,West Coast,University of Tasmania Stadium,16217
+2003,2,Port Adelaide,Brisbane,Football Park,27876
+2003,2,Richmond,Western Bulldogs,Marvel Stadium,28847
+2003,2,St Kilda,Adelaide,Marvel Stadium,19131
+2003,3,Collingwood,Geelong,MCG,43979
+2003,3,Essendon,Carlton,MCG,44268
+2003,3,Melbourne,Western Bulldogs,Marvel Stadium,20790
+2003,3,North Melbourne,Brisbane,Marvel Stadium,24359
+2003,3,Port Adelaide,Hawthorn,Football Park,24902
+2003,3,Richmond,Fremantle,MCG,19677
+2003,3,Sydney,Adelaide,SCG,23651
+2003,3,West Coast,St Kilda,Subiaco,32009
+2003,4,Adelaide,West Coast,Football Park,43525
+2003,4,Brisbane,Collingwood,Gabba,36803
+2003,4,Carlton,Port Adelaide,Ikon Park,22507
+2003,4,Fremantle,North Melbourne,Subiaco,25435
+2003,4,Geelong,Melbourne,GMHBA Stadium,23001
+2003,4,Hawthorn,Sydney,MCG,26359
+2003,4,St Kilda,Richmond,Marvel Stadium,44382
+2003,4,Western Bulldogs,Essendon,Marvel Stadium,35238
+2003,5,Adelaide,Port Adelaide,Football Park,51140
+2003,5,Brisbane,Western Bulldogs,Gabba,24341
+2003,5,Essendon,Collingwood,MCG,62589
+2003,5,Fremantle,West Coast,Subiaco,41654
+2003,5,Hawthorn,Richmond,MCG,45140
+2003,5,North Melbourne,Carlton,Marvel Stadium,38094
+2003,5,St Kilda,Geelong,Marvel Stadium,27240
+2003,5,Sydney,Melbourne,SCG,24286
+2003,6,Carlton,Hawthorn,Ikon Park,27725
+2003,6,Collingwood,Sydney,Marvel Stadium,41874
+2003,6,Fremantle,Essendon,Subiaco,28492
+2003,6,Geelong,Brisbane,GMHBA Stadium,21246
+2003,6,Melbourne,West Coast,MCG,17534
+2003,6,North Melbourne,Adelaide,Marvel Stadium,38469
+2003,6,Port Adelaide,Richmond,Football Park,29608
+2003,6,Western Bulldogs,St Kilda,Marvel Stadium,27278
+2003,7,Adelaide,Collingwood,Football Park,44706
+2003,7,Hawthorn,North Melbourne,Marvel Stadium,32435
+2003,7,Melbourne,Port Adelaide,MCG,12410
+2003,7,Richmond,Essendon,MCG,52196
+2003,7,St Kilda,Carlton,Marvel Stadium,45122
+2003,7,Sydney,Brisbane,SCG,23276
+2003,7,West Coast,Geelong,Subiaco,36268
+2003,7,Western Bulldogs,Fremantle,Marvel Stadium,12542
+2003,8,Brisbane,Adelaide,Gabba,34469
+2003,8,Carlton,Western Bulldogs,Ikon Park,20602
+2003,8,Collingwood,West Coast,Marvel Stadium,39912
+2003,8,Fremantle,St Kilda,Subiaco,26723
+2003,8,Hawthorn,Essendon,MCG,48006
+2003,8,Port Adelaide,North Melbourne,Football Park,24702
+2003,8,Richmond,Melbourne,MCG,38063
+2003,8,Sydney,Geelong,SCG,22483
+2003,9,Adelaide,Western Bulldogs,Football Park,44342
+2003,9,Carlton,Brisbane,Ikon Park,24906
+2003,9,Collingwood,St Kilda,Marvel Stadium,46096
+2003,9,Essendon,Port Adelaide,Marvel Stadium,35390
+2003,9,Geelong,Hawthorn,Marvel Stadium,28001
+2003,9,Melbourne,Fremantle,MCG,17009
+2003,9,North Melbourne,Sydney,UNSW Canberra Oval,13832
+2003,9,West Coast,Richmond,Subiaco,40313
+2003,10,Essendon,West Coast,Marvel Stadium,32715
+2003,10,Fremantle,Carlton,Subiaco,33250
+2003,10,Geelong,Adelaide,GMHBA Stadium,19608
+2003,10,Melbourne,Brisbane,Gabba,29634
+2003,10,Port Adelaide,Collingwood,Football Park,43321
+2003,10,Richmond,Sydney,MCG,34569
+2003,10,St Kilda,Hawthorn,MCG,25745
+2003,10,Western Bulldogs,North Melbourne,Marvel Stadium,24682
+2003,11,Geelong,Carlton,Marvel Stadium,43587
+2003,11,Hawthorn,Adelaide,MCG,25841
+2003,11,Melbourne,Collingwood,MCG,60010
+2003,11,North Melbourne,Richmond,Marvel Stadium,43200
+2003,11,Port Adelaide,Fremantle,Football Park,30745
+2003,11,St Kilda,Brisbane,Marvel Stadium,30313
+2003,11,Sydney,Essendon,ANZ Stadium,45917
+2003,11,West Coast,Western Bulldogs,Subiaco,38540
+2003,12,Adelaide,Melbourne,Football Park,40178
+2003,12,Brisbane,West Coast,Gabba,31185
+2003,12,Collingwood,Hawthorn,MCG,47365
+2003,12,Essendon,North Melbourne,Marvel Stadium,45331
+2003,12,Fremantle,Geelong,Subiaco,30127
+2003,12,Richmond,Carlton,MCG,36557
+2003,12,St Kilda,Port Adelaide,University of Tasmania Stadium,17763
+2003,12,Western Bulldogs,Sydney,SCG,21742
+2003,13,Brisbane,Richmond,Gabba,32623
+2003,13,Carlton,Adelaide,Ikon Park,19242
+2003,13,Essendon,Geelong,Marvel Stadium,48374
+2003,13,Hawthorn,Fremantle,University of Tasmania Stadium,17212
+2003,13,Melbourne,St Kilda,MCG,29339
+2003,13,Port Adelaide,Sydney,Football Park,24272
+2003,13,West Coast,North Melbourne,Subiaco,36641
+2003,13,Western Bulldogs,Collingwood,Marvel Stadium,42952
+2003,14,Adelaide,Richmond,Football Park,44809
+2003,14,Carlton,Melbourne,Ikon Park,24289
+2003,14,Fremantle,Brisbane,Subiaco,28450
+2003,14,Geelong,Port Adelaide,GMHBA Stadium,19770
+2003,14,Hawthorn,Western Bulldogs,MCG,31390
+2003,14,North Melbourne,Collingwood,Marvel Stadium,53312
+2003,14,St Kilda,Essendon,Marvel Stadium,49148
+2003,14,Sydney,West Coast,SCG,31121
+2003,15,Adelaide,Essendon,Football Park,41758
+2003,15,Brisbane,Hawthorn,Gabba,29684
+2003,15,Collingwood,Fremantle,MCG,40964
+2003,15,North Melbourne,Melbourne,MCG,24618
+2003,15,Richmond,Geelong,Marvel Stadium,38546
+2003,15,Sydney,St Kilda,SCG,27550
+2003,15,West Coast,Carlton,Subiaco,39129
+2003,15,Western Bulldogs,Port Adelaide,Marvel Stadium,14784
+2003,16,Carlton,Sydney,Ikon Park,21463
+2003,16,Essendon,Brisbane,Marvel Stadium,47744
+2003,16,Fremantle,Adelaide,Subiaco,31225
+2003,16,Geelong,Western Bulldogs,GMHBA Stadium,22067
+2003,16,Hawthorn,Melbourne,MCG,32029
+2003,16,Port Adelaide,West Coast,Football Park,37624
+2003,16,Richmond,Collingwood,MCG,54655
+2003,16,St Kilda,North Melbourne,Marvel Stadium,25381
+2003,17,Adelaide,St Kilda,Football Park,44667
+2003,17,Brisbane,Port Adelaide,Gabba,32043
+2003,17,Collingwood,Carlton,MCG,54500
+2003,17,Melbourne,Essendon,MCG,33368
+2003,17,North Melbourne,Geelong,UNSW Canberra Oval,10253
+2003,17,Sydney,Fremantle,SCG,30228
+2003,17,West Coast,Hawthorn,Subiaco,40127
+2003,17,Western Bulldogs,Richmond,Marvel Stadium,25204
+2003,18,Adelaide,Sydney,Football Park,46945
+2003,18,Brisbane,North Melbourne,Gabba,28044
+2003,18,Carlton,Essendon,MCG,40697
+2003,18,Fremantle,Richmond,Subiaco,31725
+2003,18,Geelong,Collingwood,Marvel Stadium,45887
+2003,18,Hawthorn,Port Adelaide,MCG,21415
+2003,18,St Kilda,West Coast,Marvel Stadium,21531
+2003,18,Western Bulldogs,Melbourne,Marvel Stadium,20714
+2003,19,Collingwood,Brisbane,MCG,61868
+2003,19,Essendon,Western Bulldogs,Marvel Stadium,36138
+2003,19,Melbourne,Geelong,MCG,22508
+2003,19,North Melbourne,Fremantle,MCG,18486
+2003,19,Port Adelaide,Carlton,Football Park,31083
+2003,19,Richmond,St Kilda,Marvel Stadium,41514
+2003,19,Sydney,Hawthorn,SCG,33473
+2003,19,West Coast,Adelaide,Subiaco,39681
+2003,20,Brisbane,Sydney,Gabba,32988
+2003,20,Carlton,St Kilda,Ikon Park,22361
+2003,20,Collingwood,Adelaide,Marvel Stadium,45367
+2003,20,Essendon,Richmond,MCG,40846
+2003,20,Fremantle,Western Bulldogs,Subiaco,35518
+2003,20,Geelong,West Coast,GMHBA Stadium,19202
+2003,20,North Melbourne,Hawthorn,Marvel Stadium,29234
+2003,20,Port Adelaide,Melbourne,Football Park,28032
+2003,21,Adelaide,North Melbourne,Football Park,42259
+2003,21,Brisbane,Geelong,Gabba,30515
+2003,21,Essendon,Fremantle,Marvel Stadium,42256
+2003,21,Hawthorn,Carlton,MCG,30406
+2003,21,Richmond,Port Adelaide,Marvel Stadium,15920
+2003,21,St Kilda,Western Bulldogs,University of Tasmania Stadium,15637
+2003,21,Sydney,Collingwood,ANZ Stadium,72393
+2003,21,West Coast,Melbourne,Subiaco,38029
+2003,22,Carlton,North Melbourne,Marvel Stadium,26138
+2003,22,Collingwood,Essendon,MCG,68381
+2003,22,Geelong,St Kilda,GMHBA Stadium,20728
+2003,22,Melbourne,Sydney,MCG,22969
+2003,22,Port Adelaide,Adelaide,Football Park,48131
+2003,22,Richmond,Hawthorn,MCG,31389
+2003,22,West Coast,Fremantle,Subiaco,43027
+2003,22,Western Bulldogs,Brisbane,Marvel Stadium,22361
+2004,1,Brisbane,Sydney,Gabba,34028
+2004,1,Fremantle,Carlton,Subiaco,34177
+2004,1,Hawthorn,Melbourne,MCG,38351
+2004,1,North Melbourne,Adelaide,MCG,19231
+2004,1,Port Adelaide,Essendon,Football Park,28413
+2004,1,Richmond,Collingwood,MCG,55622
+2004,1,St Kilda,Geelong,Marvel Stadium,35042
+2004,1,Western Bulldogs,West Coast,Marvel Stadium,18841
+2004,2,Adelaide,Brisbane,Football Park,41095
+2004,2,Carlton,Geelong,Ikon Park,25037
+2004,2,Collingwood,Western Bulldogs,MCG,40044
+2004,2,Essendon,St Kilda,Marvel Stadium,44876
+2004,2,Hawthorn,North Melbourne,MCG,35305
+2004,2,Melbourne,Richmond,MCG,33406
+2004,2,Sydney,Fremantle,SCG,21366
+2004,2,West Coast,Port Adelaide,Subiaco,39760
+2004,3,Brisbane,Collingwood,Gabba,36467
+2004,3,Essendon,West Coast,Marvel Stadium,33195
+2004,3,Fremantle,Adelaide,Subiaco,32575
+2004,3,North Melbourne,Carlton,MCG,36273
+2004,3,Port Adelaide,Hawthorn,Football Park,27421
+2004,3,St Kilda,Richmond,Marvel Stadium,43468
+2004,3,Sydney,Geelong,SCG,25451
+2004,3,Western Bulldogs,Melbourne,MCG,27767
+2004,4,Adelaide,St Kilda,Football Park,42219
+2004,4,Carlton,Essendon,MCG,60864
+2004,4,Collingwood,Fremantle,Marvel Stadium,34416
+2004,4,Geelong,Richmond,Marvel Stadium,31375
+2004,4,Hawthorn,Western Bulldogs,MCG,24959
+2004,4,Melbourne,Port Adelaide,MCG,20093
+2004,4,North Melbourne,Sydney,UNSW Canberra Oval,14891
+2004,4,West Coast,Brisbane,Subiaco,39666
+2004,5,Brisbane,Hawthorn,Gabba,34526
+2004,5,Carlton,West Coast,Ikon Park,18018
+2004,5,Collingwood,Essendon,MCG,57294
+2004,5,Fremantle,Geelong,Subiaco,35021
+2004,5,Port Adelaide,Western Bulldogs,Football Park,26839
+2004,5,Richmond,Adelaide,Marvel Stadium,25267
+2004,5,St Kilda,North Melbourne,Marvel Stadium,38896
+2004,5,Sydney,Melbourne,ANZ Stadium,33127
+2004,6,Essendon,Sydney,MCG,38946
+2004,6,Geelong,Adelaide,GMHBA Stadium,18224
+2004,6,Melbourne,Carlton,MCG,38799
+2004,6,North Melbourne,Western Bulldogs,UNSW Canberra Oval,7222
+2004,6,Port Adelaide,Collingwood,Football Park,31174
+2004,6,Richmond,Hawthorn,Marvel Stadium,37947
+2004,6,St Kilda,Brisbane,Marvel Stadium,52539
+2004,6,West Coast,Fremantle,Subiaco,42135
+2004,7,Carlton,Collingwood,MCG,56617
+2004,7,Fremantle,St Kilda,Subiaco,39931
+2004,7,Hawthorn,Geelong,Marvel Stadium,28612
+2004,7,Melbourne,West Coast,MCG,21145
+2004,7,North Melbourne,Brisbane,Marvel Stadium,27511
+2004,7,Port Adelaide,Adelaide,Football Park,44733
+2004,7,Sydney,Richmond,SCG,23014
+2004,7,Western Bulldogs,Essendon,Marvel Stadium,45119
+2004,8,Adelaide,Essendon,Football Park,46309
+2004,8,Brisbane,Carlton,Gabba,34368
+2004,8,Geelong,Melbourne,GMHBA Stadium,21157
+2004,8,Hawthorn,Fremantle,University of Tasmania Stadium,14554
+2004,8,North Melbourne,Port Adelaide,Marvel Stadium,16910
+2004,8,Richmond,Western Bulldogs,MCG,33960
+2004,8,St Kilda,Collingwood,Marvel Stadium,47898
+2004,8,West Coast,Sydney,Subiaco,38870
+2004,9,Carlton,Western Bulldogs,Ikon Park,26041
+2004,9,Collingwood,Adelaide,Marvel Stadium,37881
+2004,9,Fremantle,Brisbane,Subiaco,32575
+2004,9,Geelong,Essendon,Marvel Stadium,51400
+2004,9,Melbourne,North Melbourne,MCG,31291
+2004,9,Port Adelaide,Richmond,Football Park,25761
+2004,9,St Kilda,West Coast,Marvel Stadium,30478
+2004,9,Sydney,Hawthorn,SCG,25127
+2004,10,Carlton,St Kilda,Marvel Stadium,37136
+2004,10,Essendon,Fremantle,Marvel Stadium,38411
+2004,10,Hawthorn,Adelaide,MCG,22942
+2004,10,Melbourne,Brisbane,Gabba,32902
+2004,10,North Melbourne,Collingwood,Marvel Stadium,44833
+2004,10,Port Adelaide,Geelong,Football Park,29177
+2004,10,West Coast,Richmond,Subiaco,38517
+2004,10,Western Bulldogs,Sydney,SCG,23479
+2004,11,Adelaide,Carlton,Football Park,41617
+2004,11,Brisbane,Port Adelaide,Gabba,34241
+2004,11,Collingwood,West Coast,Marvel Stadium,44401
+2004,11,Fremantle,Melbourne,Subiaco,33125
+2004,11,Hawthorn,Essendon,MCG,42682
+2004,11,North Melbourne,Richmond,Marvel Stadium,31700
+2004,11,Sydney,St Kilda,SCG,36039
+2004,11,Western Bulldogs,Geelong,Marvel Stadium,31811
+2004,12,Carlton,Hawthorn,Marvel Stadium,47302
+2004,12,Essendon,Brisbane,Marvel Stadium,50003
+2004,12,Geelong,North Melbourne,GMHBA Stadium,21612
+2004,12,Melbourne,Collingwood,MCG,56988
+2004,12,Port Adelaide,Sydney,Football Park,28032
+2004,12,Richmond,Fremantle,MCG,18666
+2004,12,West Coast,Adelaide,Subiaco,37580
+2004,12,Western Bulldogs,St Kilda,MCG,28306
+2004,13,Adelaide,Western Bulldogs,Football Park,36774
+2004,13,Essendon,Melbourne,MCG,47314
+2004,13,Fremantle,Port Adelaide,Subiaco,36507
+2004,13,Geelong,Brisbane,GMHBA Stadium,17648
+2004,13,North Melbourne,West Coast,UNSW Canberra Oval,8542
+2004,13,Richmond,Carlton,Marvel Stadium,46618
+2004,13,St Kilda,Hawthorn,Marvel Stadium,36925
+2004,13,Sydney,Collingwood,ANZ Stadium,50091
+2004,14,Adelaide,Melbourne,Football Park,39288
+2004,14,Brisbane,Richmond,Gabba,32744
+2004,14,Carlton,Sydney,Ikon Park,26172
+2004,14,Collingwood,Hawthorn,MCG,44329
+2004,14,Essendon,North Melbourne,Marvel Stadium,49419
+2004,14,St Kilda,Port Adelaide,University of Tasmania Stadium,19223
+2004,14,West Coast,Geelong,Subiaco,36668
+2004,14,Western Bulldogs,Fremantle,Marvel Stadium,18734
+2004,15,Brisbane,Western Bulldogs,Gabba,29295
+2004,15,Collingwood,Geelong,Marvel Stadium,50627
+2004,15,Fremantle,North Melbourne,Subiaco,37077
+2004,15,Hawthorn,West Coast,University of Tasmania Stadium,15581
+2004,15,Melbourne,St Kilda,MCG,54409
+2004,15,Port Adelaide,Carlton,Football Park,30109
+2004,15,Richmond,Essendon,MCG,48286
+2004,15,Sydney,Adelaide,SCG,28493
+2004,16,Adelaide,Fremantle,Football Park,34855
+2004,16,Carlton,North Melbourne,Ikon Park,20732
+2004,16,Collingwood,Brisbane,MCG,34326
+2004,16,Geelong,Sydney,GMHBA Stadium,20515
+2004,16,Hawthorn,Port Adelaide,MCG,11682
+2004,16,Melbourne,Western Bulldogs,Marvel Stadium,25107
+2004,16,Richmond,St Kilda,Marvel Stadium,34631
+2004,16,West Coast,Essendon,Subiaco,40674
+2004,17,Brisbane,Adelaide,Gabba,33443
+2004,17,Fremantle,Sydney,Subiaco,35037
+2004,17,Geelong,Carlton,Marvel Stadium,43210
+2004,17,North Melbourne,Hawthorn,MCG,20018
+2004,17,Port Adelaide,West Coast,Football Park,26286
+2004,17,Richmond,Melbourne,MCG,25211
+2004,17,St Kilda,Essendon,Marvel Stadium,50392
+2004,17,Western Bulldogs,Collingwood,Marvel Stadium,32675
+2004,18,Adelaide,North Melbourne,Football Park,37562
+2004,18,Carlton,Fremantle,Ikon Park,17092
+2004,18,Collingwood,Richmond,MCG,39933
+2004,18,Essendon,Port Adelaide,Marvel Stadium,35711
+2004,18,Geelong,St Kilda,GMHBA Stadium,21673
+2004,18,Melbourne,Hawthorn,MCG,28392
+2004,18,Sydney,Brisbane,SCG,34926
+2004,18,West Coast,Western Bulldogs,Subiaco,36028
+2004,19,Brisbane,West Coast,Gabba,31754
+2004,19,Essendon,Carlton,MCG,45083
+2004,19,Fremantle,Collingwood,Subiaco,40901
+2004,19,Port Adelaide,Melbourne,Football Park,30702
+2004,19,Richmond,Geelong,MCG,33176
+2004,19,St Kilda,Adelaide,University of Tasmania Stadium,17101
+2004,19,Sydney,North Melbourne,SCG,24028
+2004,19,Western Bulldogs,Hawthorn,Marvel Stadium,22330
+2004,20,Adelaide,Richmond,Football Park,35896
+2004,20,Essendon,Collingwood,MCG,52983
+2004,20,Geelong,Fremantle,GMHBA Stadium,15209
+2004,20,Hawthorn,Brisbane,MCG,17159
+2004,20,Melbourne,Sydney,Marvel Stadium,34991
+2004,20,North Melbourne,St Kilda,Marvel Stadium,41664
+2004,20,West Coast,Carlton,Subiaco,39631
+2004,20,Western Bulldogs,Port Adelaide,TIO Stadium,13271
+2004,21,Adelaide,Geelong,Football Park,37576
+2004,21,Brisbane,St Kilda,Gabba,35823
+2004,21,Carlton,Melbourne,Ikon Park,22254
+2004,21,Collingwood,Port Adelaide,MCG,27226
+2004,21,Fremantle,West Coast,Subiaco,41907
+2004,21,Hawthorn,Richmond,MCG,27007
+2004,21,Sydney,Essendon,ANZ Stadium,46440
+2004,21,Western Bulldogs,North Melbourne,Marvel Stadium,24741
+2004,22,Adelaide,Port Adelaide,Football Park,45473
+2004,22,Brisbane,North Melbourne,Gabba,33122
+2004,22,Collingwood,Carlton,MCG,60898
+2004,22,Essendon,Western Bulldogs,Marvel Stadium,39894
+2004,22,Geelong,Hawthorn,GMHBA Stadium,21192
+2004,22,Richmond,Sydney,MCG,29777
+2004,22,St Kilda,Fremantle,Marvel Stadium,35329
+2004,22,West Coast,Melbourne,Subiaco,39882
+2005,1,Adelaide,West Coast,Football Park,39055
+2005,1,Brisbane,St Kilda,Gabba,33369
+2005,1,Collingwood,Western Bulldogs,MCG,53259
+2005,1,Fremantle,Port Adelaide,Subiaco,33704
+2005,1,Melbourne,Essendon,MCG,47849
+2005,1,North Melbourne,Carlton,Marvel Stadium,40345
+2005,1,Richmond,Geelong,MCG,48251
+2005,1,Sydney,Hawthorn,SCG,27274
+2005,2,Carlton,Essendon,MCG,56446
+2005,2,Collingwood,Adelaide,Marvel Stadium,31464
+2005,2,Hawthorn,Richmond,MCG,33409
+2005,2,North Melbourne,Sydney,UNSW Canberra Oval,13481
+2005,2,Port Adelaide,Brisbane,Football Park,34892
+2005,2,St Kilda,Fremantle,University of Tasmania Stadium,12465
+2005,2,West Coast,Geelong,Subiaco,39578
+2005,2,Western Bulldogs,Melbourne,Marvel Stadium,26307
+2005,3,Adelaide,Port Adelaide,Football Park,44807
+2005,3,Brisbane,Sydney,Gabba,33960
+2005,3,Carlton,Collingwood,MCG,61608
+2005,3,Essendon,Hawthorn,MCG,44971
+2005,3,Fremantle,West Coast,Subiaco,42027
+2005,3,Melbourne,Geelong,MCG,51793
+2005,3,St Kilda,North Melbourne,Marvel Stadium,36140
+2005,3,Western Bulldogs,Richmond,Marvel Stadium,30871
+2005,4,Geelong,Essendon,Marvel Stadium,48653
+2005,4,Hawthorn,Brisbane,MCG,27778
+2005,4,North Melbourne,Collingwood,MCG,51565
+2005,4,Port Adelaide,Carlton,Football Park,33519
+2005,4,Richmond,Fremantle,MCG,24242
+2005,4,St Kilda,Melbourne,Marvel Stadium,40004
+2005,4,Sydney,Adelaide,SCG,30478
+2005,4,West Coast,Western Bulldogs,Subiaco,39124
+2005,5,Brisbane,West Coast,Gabba,33007
+2005,5,Essendon,Collingwood,MCG,70033
+2005,5,Fremantle,Carlton,Subiaco,36056
+2005,5,North Melbourne,Hawthorn,MCG,38764
+2005,5,Port Adelaide,Geelong,Football Park,33405
+2005,5,St Kilda,Richmond,Marvel Stadium,49580
+2005,5,Sydney,Melbourne,SCG,29099
+2005,5,Western Bulldogs,Adelaide,Marvel Stadium,27900
+2005,6,Adelaide,North Melbourne,Football Park,41867
+2005,6,Carlton,Hawthorn,Marvel Stadium,49018
+2005,6,Collingwood,St Kilda,MCG,44122
+2005,6,Essendon,Brisbane,Marvel Stadium,44055
+2005,6,Geelong,Western Bulldogs,GMHBA Stadium,23019
+2005,6,Melbourne,Fremantle,MCG,21963
+2005,6,Richmond,Port Adelaide,Marvel Stadium,21301
+2005,6,West Coast,Sydney,Subiaco,39687
+2005,7,Brisbane,Western Bulldogs,Gabba,30639
+2005,7,Fremantle,Collingwood,Subiaco,36491
+2005,7,Geelong,St Kilda,Marvel Stadium,44814
+2005,7,Hawthorn,West Coast,University of Tasmania Stadium,16933
+2005,7,Melbourne,Adelaide,MCG,39475
+2005,7,Port Adelaide,North Melbourne,Football Park,27050
+2005,7,Richmond,Carlton,MCG,52234
+2005,7,Sydney,Essendon,ANZ Stadium,31668
+2005,8,Adelaide,Brisbane,Football Park,42357
+2005,8,Carlton,Geelong,Marvel Stadium,45758
+2005,8,Collingwood,Richmond,MCG,54330
+2005,8,Essendon,Fremantle,Marvel Stadium,30383
+2005,8,Hawthorn,Melbourne,MCG,38587
+2005,8,North Melbourne,Western Bulldogs,Marvel Stadium,32901
+2005,8,Sydney,Port Adelaide,SCG,24226
+2005,8,West Coast,St Kilda,Subiaco,41177
+2005,9,Brisbane,Richmond,Gabba,33684
+2005,9,Carlton,Melbourne,Ikon Park,30052
+2005,9,Collingwood,West Coast,MCG,31105
+2005,9,Fremantle,Hawthorn,Subiaco,35393
+2005,9,Geelong,North Melbourne,GMHBA Stadium,24102
+2005,9,Port Adelaide,Essendon,Football Park,33648
+2005,9,St Kilda,Adelaide,Marvel Stadium,35100
+2005,9,Western Bulldogs,Sydney,SCG,22358
+2005,10,Adelaide,Carlton,Football Park,43277
+2005,10,Brisbane,North Melbourne,Gabba,29500
+2005,10,Essendon,Western Bulldogs,Marvel Stadium,40454
+2005,10,Geelong,Fremantle,GMHBA Stadium,20869
+2005,10,Hawthorn,Collingwood,MCG,49927
+2005,10,Melbourne,Richmond,Marvel Stadium,44263
+2005,10,St Kilda,Sydney,Marvel Stadium,37014
+2005,10,West Coast,Port Adelaide,Subiaco,40188
+2005,11,Adelaide,Essendon,Football Park,43486
+2005,11,Carlton,Sydney,Marvel Stadium,30973
+2005,11,Collingwood,Geelong,Marvel Stadium,48261
+2005,11,Fremantle,Brisbane,Subiaco,34143
+2005,11,North Melbourne,Melbourne,UNSW Canberra Oval,12626
+2005,11,Richmond,West Coast,MCG,31704
+2005,11,St Kilda,Port Adelaide,University of Tasmania Stadium,17402
+2005,11,Western Bulldogs,Hawthorn,Marvel Stadium,29240
+2005,12,Carlton,Brisbane,Marvel Stadium,37880
+2005,12,Geelong,Adelaide,GMHBA Stadium,23506
+2005,12,Hawthorn,St Kilda,MCG,33905
+2005,12,Melbourne,Collingwood,MCG,65347
+2005,12,North Melbourne,Richmond,Marvel Stadium,40444
+2005,12,Port Adelaide,Western Bulldogs,Football Park,27079
+2005,12,Sydney,Fremantle,SCG,24933
+2005,12,West Coast,Essendon,Subiaco,38558
+2005,13,Brisbane,Geelong,Gabba,31307
+2005,13,Essendon,St Kilda,Marvel Stadium,48342
+2005,13,Fremantle,North Melbourne,Subiaco,33550
+2005,13,Melbourne,West Coast,MCG,35653
+2005,13,Port Adelaide,Hawthorn,Football Park,30212
+2005,13,Richmond,Adelaide,Marvel Stadium,27092
+2005,13,Sydney,Collingwood,ANZ Stadium,44387
+2005,13,Western Bulldogs,Carlton,TIO Stadium,13037
+2005,14,Adelaide,Fremantle,Football Park,41794
+2005,14,Collingwood,Port Adelaide,Marvel Stadium,35844
+2005,14,Essendon,North Melbourne,Marvel Stadium,48696
+2005,14,Geelong,Hawthorn,Marvel Stadium,36667
+2005,14,Melbourne,Brisbane,Gabba,31259
+2005,14,Richmond,Sydney,MCG,34572
+2005,14,West Coast,Carlton,Subiaco,39928
+2005,14,Western Bulldogs,St Kilda,MCG,33622
+2005,15,Brisbane,Collingwood,Gabba,37224
+2005,15,Fremantle,Western Bulldogs,Subiaco,30991
+2005,15,Hawthorn,Adelaide,University of Tasmania Stadium,16287
+2005,15,North Melbourne,West Coast,Marvel Stadium,33151
+2005,15,Port Adelaide,Melbourne,Football Park,28040
+2005,15,Richmond,Essendon,MCG,49975
+2005,15,St Kilda,Carlton,Marvel Stadium,39181
+2005,15,Sydney,Geelong,SCG,28185
+2005,16,Adelaide,Western Bulldogs,Football Park,40264
+2005,16,Carlton,Fremantle,MCG,16076
+2005,16,Collingwood,Essendon,MCG,52507
+2005,16,Geelong,Port Adelaide,GMHBA Stadium,19362
+2005,16,Hawthorn,North Melbourne,Marvel Stadium,23722
+2005,16,Melbourne,Sydney,Marvel Stadium,28749
+2005,16,Richmond,St Kilda,MCG,40043
+2005,16,West Coast,Brisbane,Subiaco,41524
+2005,17,Brisbane,Essendon,Gabba,36077
+2005,17,Fremantle,Melbourne,Subiaco,31028
+2005,17,Hawthorn,Carlton,MCG,31459
+2005,17,North Melbourne,Adelaide,Marvel Stadium,25263
+2005,17,Port Adelaide,Richmond,Football Park,27455
+2005,17,St Kilda,Collingwood,Marvel Stadium,45576
+2005,17,Sydney,West Coast,SCG,37071
+2005,17,Western Bulldogs,Geelong,Marvel Stadium,29351
+2005,18,Adelaide,Sydney,Football Park,45629
+2005,18,Carlton,Richmond,Marvel Stadium,34925
+2005,18,Collingwood,Fremantle,MCG,26586
+2005,18,Essendon,Geelong,Marvel Stadium,47122
+2005,18,Melbourne,St Kilda,MCG,39584
+2005,18,North Melbourne,Port Adelaide,UNSW Canberra Oval,10431
+2005,18,West Coast,Hawthorn,Subiaco,39412
+2005,18,Western Bulldogs,Brisbane,Marvel Stadium,29200
+2005,19,Adelaide,Melbourne,Football Park,42843
+2005,19,Brisbane,Hawthorn,Gabba,31946
+2005,19,Carlton,Port Adelaide,MCG,16371
+2005,19,Collingwood,North Melbourne,Marvel Stadium,33587
+2005,19,Essendon,Sydney,Marvel Stadium,41629
+2005,19,Fremantle,Richmond,Subiaco,36026
+2005,19,St Kilda,Geelong,Marvel Stadium,46848
+2005,19,Western Bulldogs,West Coast,MCG,27693
+2005,20,Collingwood,Carlton,MCG,48287
+2005,20,Geelong,Melbourne,GMHBA Stadium,20148
+2005,20,Hawthorn,Essendon,MCG,32053
+2005,20,North Melbourne,St Kilda,Marvel Stadium,39777
+2005,20,Port Adelaide,Adelaide,Football Park,45199
+2005,20,Richmond,Western Bulldogs,Marvel Stadium,33482
+2005,20,Sydney,Brisbane,ANZ Stadium,43512
+2005,20,West Coast,Fremantle,Subiaco,40720
+2005,21,Adelaide,Collingwood,Football Park,40372
+2005,21,Brisbane,Port Adelaide,Gabba,35221
+2005,21,Essendon,Carlton,MCG,37481
+2005,21,Fremantle,St Kilda,Subiaco,38057
+2005,21,Geelong,West Coast,GMHBA Stadium,20372
+2005,21,Melbourne,Western Bulldogs,MCG,32621
+2005,21,Richmond,Hawthorn,Marvel Stadium,30906
+2005,21,Sydney,North Melbourne,SCG,34975
+2005,22,Carlton,North Melbourne,Marvel Stadium,27625
+2005,22,Essendon,Melbourne,MCG,55016
+2005,22,Geelong,Richmond,GMHBA Stadium,24096
+2005,22,Hawthorn,Sydney,MCG,31891
+2005,22,Port Adelaide,Fremantle,Football Park,41518
+2005,22,St Kilda,Brisbane,Marvel Stadium,46105
+2005,22,West Coast,Adelaide,Subiaco,43044
+2005,22,Western Bulldogs,Collingwood,Marvel Stadium,41947
+2006,1,Collingwood,Adelaide,Marvel Stadium,35434
+2006,1,Essendon,Sydney,Marvel Stadium,45355
+2006,1,Geelong,Brisbane,GMHBA Stadium,23029
+2006,1,Hawthorn,Fremantle,University of Tasmania Stadium,13862
+2006,1,Melbourne,Carlton,Marvel Stadium,31139
+2006,1,Port Adelaide,North Melbourne,Football Park,27680
+2006,1,West Coast,St Kilda,Subiaco,40036
+2006,1,Western Bulldogs,Richmond,Marvel Stadium,43532
+2006,2,Adelaide,West Coast,Football Park,43206
+2006,2,Brisbane,Essendon,Gabba,34357
+2006,2,Fremantle,Carlton,Subiaco,34553
+2006,2,Geelong,North Melbourne,GMHBA Stadium,22839
+2006,2,Hawthorn,Collingwood,Marvel Stadium,43296
+2006,2,Richmond,St Kilda,Marvel Stadium,40740
+2006,2,Sydney,Port Adelaide,SCG,33551
+2006,2,Western Bulldogs,Melbourne,Marvel Stadium,28478
+2006,3,Carlton,Sydney,Marvel Stadium,36930
+2006,3,Essendon,Western Bulldogs,Marvel Stadium,43947
+2006,3,Geelong,Hawthorn,GMHBA Stadium,24026
+2006,3,Melbourne,Adelaide,Metricon Stadium,8258
+2006,3,North Melbourne,Collingwood,Marvel Stadium,48721
+2006,3,Port Adelaide,Fremantle,Football Park,25042
+2006,3,St Kilda,Brisbane,Marvel Stadium,35760
+2006,3,West Coast,Richmond,Subiaco,39436
+2006,4,Brisbane,Richmond,Gabba,30266
+2006,4,Carlton,Hawthorn,Marvel Stadium,45102
+2006,4,Collingwood,Essendon,MCG,91234
+2006,4,Fremantle,Adelaide,Subiaco,35090
+2006,4,North Melbourne,West Coast,UNSW Canberra Oval,9541
+2006,4,Port Adelaide,St Kilda,Football Park,32188
+2006,4,Sydney,Melbourne,SCG,29167
+2006,4,Western Bulldogs,Geelong,Marvel Stadium,45922
+2006,5,Adelaide,Western Bulldogs,Football Park,41057
+2006,5,Collingwood,Port Adelaide,Marvel Stadium,32276
+2006,5,Hawthorn,Essendon,MCG,40179
+2006,5,Melbourne,North Melbourne,MCG,30392
+2006,5,Richmond,Carlton,MCG,54815
+2006,5,St Kilda,Fremantle,University of Tasmania Stadium,15282
+2006,5,Sydney,Geelong,ANZ Stadium,37032
+2006,5,West Coast,Brisbane,Subiaco,40519
+2006,6,Adelaide,Port Adelaide,Football Park,42723
+2006,6,Brisbane,Sydney,Gabba,29872
+2006,6,Carlton,Collingwood,MCG,59675
+2006,6,Essendon,Richmond,MCG,58439
+2006,6,Fremantle,West Coast,Subiaco,42213
+2006,6,Melbourne,Geelong,MCG,36041
+2006,6,North Melbourne,Hawthorn,Marvel Stadium,28470
+2006,6,St Kilda,Western Bulldogs,Marvel Stadium,42760
+2006,7,Carlton,Essendon,MCG,32976
+2006,7,Hawthorn,Brisbane,Metricon Stadium,12315
+2006,7,Melbourne,Fremantle,MCG,23368
+2006,7,North Melbourne,Adelaide,Marvel Stadium,16064
+2006,7,Port Adelaide,Western Bulldogs,Football Park,20233
+2006,7,Richmond,Sydney,Marvel Stadium,36477
+2006,7,St Kilda,Geelong,Marvel Stadium,48313
+2006,7,West Coast,Collingwood,Subiaco,42033
+2006,8,Carlton,St Kilda,MCG,39908
+2006,8,Collingwood,Geelong,MCG,69819
+2006,8,Essendon,West Coast,Marvel Stadium,31434
+2006,8,Fremantle,North Melbourne,Subiaco,34072
+2006,8,Hawthorn,Melbourne,MCG,42985
+2006,8,Port Adelaide,Brisbane,Football Park,21970
+2006,8,Richmond,Adelaide,Marvel Stadium,24461
+2006,8,Western Bulldogs,Sydney,SCG,31756
+2006,9,Adelaide,Carlton,Football Park,41157
+2006,9,Brisbane,Fremantle,Gabba,29999
+2006,9,Collingwood,Western Bulldogs,MCG,67920
+2006,9,Essendon,Port Adelaide,Marvel Stadium,29232
+2006,9,Geelong,Richmond,GMHBA Stadium,23386
+2006,9,Hawthorn,Sydney,MCG,28766
+2006,9,St Kilda,North Melbourne,Marvel Stadium,30904
+2006,9,West Coast,Melbourne,Subiaco,41032
+2006,10,Adelaide,Essendon,Football Park,42025
+2006,10,Carlton,Port Adelaide,Marvel Stadium,18665
+2006,10,Collingwood,Brisbane,MCG,54820
+2006,10,Fremantle,Richmond,Subiaco,36032
+2006,10,Geelong,West Coast,GMHBA Stadium,20428
+2006,10,Melbourne,St Kilda,MCG,41665
+2006,10,North Melbourne,Sydney,UNSW Canberra Oval,14922
+2006,10,Western Bulldogs,Hawthorn,Marvel Stadium,29960
+2006,11,Brisbane,Adelaide,Gabba,27516
+2006,11,Geelong,Essendon,Marvel Stadium,43600
+2006,11,Melbourne,Collingwood,MCG,78773
+2006,11,Port Adelaide,Hawthorn,Football Park,24511
+2006,11,Richmond,North Melbourne,MCG,42841
+2006,11,Sydney,St Kilda,SCG,31146
+2006,11,West Coast,Carlton,Subiaco,40090
+2006,11,Western Bulldogs,Fremantle,Marvel Stadium,23805
+2006,12,Brisbane,Western Bulldogs,Gabba,27745
+2006,12,Essendon,Melbourne,Marvel Stadium,35019
+2006,12,Fremantle,Geelong,Subiaco,34236
+2006,12,Hawthorn,Richmond,University of Tasmania Stadium,20971
+2006,12,North Melbourne,Carlton,Marvel Stadium,34110
+2006,12,Port Adelaide,West Coast,Football Park,28125
+2006,12,St Kilda,Adelaide,Marvel Stadium,34170
+2006,12,Sydney,Collingwood,ANZ Stadium,60307
+2006,13,Adelaide,Geelong,Football Park,41752
+2006,13,Brisbane,Carlton,Gabba,29516
+2006,13,Melbourne,Port Adelaide,MCG,24283
+2006,13,North Melbourne,Essendon,Marvel Stadium,33747
+2006,13,Richmond,Collingwood,MCG,63016
+2006,13,St Kilda,Hawthorn,Marvel Stadium,33869
+2006,13,Sydney,Fremantle,SCG,24114
+2006,13,West Coast,Western Bulldogs,Subiaco,40375
+2006,14,Carlton,Geelong,Marvel Stadium,32096
+2006,14,Fremantle,Essendon,Subiaco,34608
+2006,14,Hawthorn,West Coast,MCG,21989
+2006,14,Melbourne,Brisbane,Gabba,25541
+2006,14,Port Adelaide,Richmond,Football Park,25067
+2006,14,St Kilda,Collingwood,Marvel Stadium,48564
+2006,14,Sydney,Adelaide,SCG,36104
+2006,14,Western Bulldogs,North Melbourne,MCG,28173
+2006,15,Adelaide,Hawthorn,Football Park,37446
+2006,15,Carlton,Western Bulldogs,Marvel Stadium,26418
+2006,15,Collingwood,Fremantle,MCG,30373
+2006,15,Essendon,St Kilda,MCG,33082
+2006,15,Geelong,Port Adelaide,GMHBA Stadium,19149
+2006,15,North Melbourne,Brisbane,Marvel Stadium,22947
+2006,15,Richmond,Melbourne,MCG,60086
+2006,15,West Coast,Sydney,Subiaco,40688
+2006,16,Adelaide,North Melbourne,Football Park,47487
+2006,16,Brisbane,Hawthorn,Gabba,26738
+2006,16,Collingwood,West Coast,Marvel Stadium,38777
+2006,16,Essendon,Carlton,MCG,49181
+2006,16,Fremantle,Melbourne,Subiaco,36244
+2006,16,Geelong,Western Bulldogs,Marvel Stadium,39417
+2006,16,St Kilda,Port Adelaide,University of Tasmania Stadium,16588
+2006,16,Sydney,Richmond,SCG,28371
+2006,17,Carlton,Fremantle,Marvel Stadium,17518
+2006,17,Collingwood,Hawthorn,MCG,54306
+2006,17,Essendon,Brisbane,Marvel Stadium,32761
+2006,17,Melbourne,Western Bulldogs,MCG,36466
+2006,17,North Melbourne,Geelong,UNSW Canberra Oval,9561
+2006,17,Port Adelaide,Sydney,Football Park,23183
+2006,17,St Kilda,Richmond,MCG,43250
+2006,17,West Coast,Adelaide,Subiaco,40380
+2006,18,Adelaide,Collingwood,Football Park,45658
+2006,18,Brisbane,Geelong,Gabba,28055
+2006,18,Carlton,Melbourne,Marvel Stadium,24113
+2006,18,Fremantle,Hawthorn,Subiaco,35017
+2006,18,North Melbourne,Port Adelaide,Marvel Stadium,14815
+2006,18,Richmond,Western Bulldogs,MCG,36339
+2006,18,St Kilda,West Coast,Marvel Stadium,40177
+2006,18,Sydney,Essendon,SCG,25465
+2006,19,Adelaide,Fremantle,Football Park,43127
+2006,19,Essendon,Collingwood,MCG,62940
+2006,19,Geelong,St Kilda,Marvel Stadium,40986
+2006,19,Hawthorn,Carlton,MCG,36817
+2006,19,Melbourne,Sydney,MCG,43794
+2006,19,Richmond,Brisbane,Marvel Stadium,27211
+2006,19,West Coast,North Melbourne,Subiaco,40067
+2006,19,Western Bulldogs,Port Adelaide,TIO Stadium,14100
+2006,20,Brisbane,West Coast,Gabba,23764
+2006,20,Carlton,Richmond,Marvel Stadium,37094
+2006,20,Essendon,Hawthorn,Marvel Stadium,44275
+2006,20,Fremantle,St Kilda,Subiaco,39069
+2006,20,Geelong,Sydney,GMHBA Stadium,21775
+2006,20,North Melbourne,Melbourne,MCG,29457
+2006,20,Port Adelaide,Collingwood,Football Park,30281
+2006,20,Western Bulldogs,Adelaide,MCG,29988
+2006,21,Collingwood,Carlton,MCG,57719
+2006,21,Geelong,Melbourne,GMHBA Stadium,23068
+2006,21,Hawthorn,North Melbourne,University of Tasmania Stadium,18836
+2006,21,Port Adelaide,Adelaide,Football Park,41549
+2006,21,Richmond,Essendon,MCG,48710
+2006,21,Sydney,Brisbane,ANZ Stadium,37659
+2006,21,West Coast,Fremantle,Subiaco,43527
+2006,21,Western Bulldogs,St Kilda,Marvel Stadium,47120
+2006,22,Adelaide,Melbourne,Football Park,41364
+2006,22,Brisbane,St Kilda,Gabba,27101
+2006,22,Collingwood,North Melbourne,MCG,49040
+2006,22,Fremantle,Port Adelaide,Subiaco,41121
+2006,22,Hawthorn,Geelong,Marvel Stadium,28188
+2006,22,Richmond,West Coast,MCG,35016
+2006,22,Sydney,Carlton,SCG,33943
+2006,22,Western Bulldogs,Essendon,Marvel Stadium,42956
+2007,1,Adelaide,Essendon,Football Park,43064
+2007,1,Brisbane,Hawthorn,Gabba,27104
+2007,1,Carlton,Richmond,MCG,59847
+2007,1,Fremantle,Port Adelaide,Subiaco,37425
+2007,1,Melbourne,St Kilda,MCG,49490
+2007,1,North Melbourne,Collingwood,MCG,42402
+2007,1,Sydney,West Coast,ANZ Stadium,62586
+2007,1,Western Bulldogs,Geelong,Marvel Stadium,42626
+2007,2,Brisbane,St Kilda,Gabba,28266
+2007,2,Essendon,Fremantle,Marvel Stadium,32623
+2007,2,Geelong,Carlton,Marvel Stadium,41113
+2007,2,Hawthorn,Melbourne,MCG,43197
+2007,2,Port Adelaide,North Melbourne,Football Park,25054
+2007,2,Richmond,Sydney,MCG,37985
+2007,2,West Coast,Collingwood,Subiaco,40413
+2007,2,Western Bulldogs,Adelaide,MCG,27199
+2007,3,Carlton,Essendon,MCG,64710
+2007,3,Collingwood,Richmond,MCG,70569
+2007,3,Fremantle,West Coast,Subiaco,42051
+2007,3,Melbourne,Geelong,MCG,38438
+2007,3,North Melbourne,Hawthorn,Marvel Stadium,28481
+2007,3,Port Adelaide,Adelaide,Football Park,36959
+2007,3,St Kilda,Western Bulldogs,Marvel Stadium,38474
+2007,3,Sydney,Brisbane,SCG,24854
+2007,4,Adelaide,Sydney,Football Park,43752
+2007,4,Collingwood,Port Adelaide,MCG,35355
+2007,4,Hawthorn,Geelong,University of Tasmania Stadium,17120
+2007,4,Melbourne,Fremantle,MCG,16654
+2007,4,North Melbourne,Brisbane,Metricon Stadium,11133
+2007,4,Richmond,Western Bulldogs,MCG,36821
+2007,4,St Kilda,Essendon,Marvel Stadium,47605
+2007,4,West Coast,Carlton,Subiaco,41016
+2007,5,Carlton,Brisbane,Marvel Stadium,33598
+2007,5,Essendon,Collingwood,MCG,90508
+2007,5,Fremantle,Adelaide,Subiaco,37172
+2007,5,Geelong,North Melbourne,GMHBA Stadium,21468
+2007,5,Hawthorn,Western Bulldogs,MCG,31982
+2007,5,Port Adelaide,St Kilda,Football Park,24438
+2007,5,Richmond,West Coast,MCG,27326
+2007,5,Sydney,Melbourne,SCG,23354
+2007,6,Adelaide,Collingwood,Football Park,43915
+2007,6,Brisbane,Fremantle,Gabba,27175
+2007,6,Essendon,Hawthorn,MCG,52047
+2007,6,Melbourne,Port Adelaide,MCG,16266
+2007,6,North Melbourne,Sydney,Marvel Stadium,27045
+2007,6,Richmond,Geelong,Marvel Stadium,34584
+2007,6,St Kilda,Carlton,Marvel Stadium,45513
+2007,6,West Coast,Western Bulldogs,Subiaco,40668
+2007,7,Brisbane,Adelaide,Gabba,26978
+2007,7,Collingwood,Carlton,MCG,77321
+2007,7,Fremantle,Hawthorn,Subiaco,36481
+2007,7,Geelong,West Coast,GMHBA Stadium,22014
+2007,7,North Melbourne,Essendon,Marvel Stadium,42730
+2007,7,Port Adelaide,Richmond,Football Park,26232
+2007,7,St Kilda,Sydney,Marvel Stadium,37816
+2007,7,Western Bulldogs,Melbourne,Marvel Stadium,24584
+2007,8,Adelaide,Richmond,Football Park,40742
+2007,8,Essendon,Brisbane,Marvel Stadium,35034
+2007,8,Geelong,Fremantle,GMHBA Stadium,20435
+2007,8,Hawthorn,St Kilda,MCG,36069
+2007,8,North Melbourne,Carlton,Metricon Stadium,11647
+2007,8,Sydney,Port Adelaide,SCG,25423
+2007,8,West Coast,Melbourne,Subiaco,40068
+2007,8,Western Bulldogs,Collingwood,Marvel Stadium,46990
+2007,9,Brisbane,Collingwood,Gabba,32225
+2007,9,Carlton,Adelaide,Marvel Stadium,27504
+2007,9,Fremantle,St Kilda,Subiaco,39034
+2007,9,Hawthorn,West Coast,University of Tasmania Stadium,18112
+2007,9,Melbourne,North Melbourne,MCG,30662
+2007,9,Port Adelaide,Geelong,Football Park,26465
+2007,9,Richmond,Essendon,MCG,61837
+2007,9,Western Bulldogs,Sydney,UNSW Canberra Oval,14517
+2007,10,Carlton,Western Bulldogs,MCG,37535
+2007,10,Collingwood,Fremantle,MCG,44480
+2007,10,Melbourne,Adelaide,MCG,23657
+2007,10,Port Adelaide,Hawthorn,Football Park,23945
+2007,10,Richmond,Brisbane,Marvel Stadium,28093
+2007,10,St Kilda,Geelong,Marvel Stadium,42188
+2007,10,Sydney,Essendon,SCG,26647
+2007,10,West Coast,North Melbourne,Subiaco,40751
+2007,11,Adelaide,Geelong,Football Park,43108
+2007,11,Brisbane,Western Bulldogs,Gabba,29873
+2007,11,Carlton,Port Adelaide,Marvel Stadium,29678
+2007,11,Essendon,West Coast,Marvel Stadium,48913
+2007,11,Fremantle,Richmond,Subiaco,37177
+2007,11,Hawthorn,Sydney,MCG,48398
+2007,11,Melbourne,Collingwood,MCG,70660
+2007,11,St Kilda,North Melbourne,Marvel Stadium,34569
+2007,12,Carlton,Hawthorn,Marvel Stadium,53459
+2007,12,Geelong,Brisbane,GMHBA Stadium,21212
+2007,12,North Melbourne,Adelaide,Metricon Stadium,11178
+2007,12,Port Adelaide,Essendon,Football Park,25242
+2007,12,Richmond,Melbourne,MCG,46161
+2007,12,Sydney,Collingwood,ANZ Stadium,64222
+2007,12,West Coast,St Kilda,Subiaco,39401
+2007,12,Western Bulldogs,Fremantle,TIO Stadium,11449
+2007,13,Adelaide,West Coast,Football Park,42127
+2007,13,Brisbane,Port Adelaide,Gabba,22124
+2007,13,Collingwood,Hawthorn,Marvel Stadium,50248
+2007,13,Essendon,Melbourne,Marvel Stadium,47552
+2007,13,Fremantle,Carlton,Subiaco,36307
+2007,13,Geelong,Sydney,GMHBA Stadium,23040
+2007,13,North Melbourne,Western Bulldogs,MCG,39433
+2007,13,St Kilda,Richmond,Marvel Stadium,38689
+2007,14,Adelaide,Hawthorn,Football Park,34733
+2007,14,Carlton,Melbourne,MCG,33085
+2007,14,Collingwood,St Kilda,MCG,57247
+2007,14,Essendon,Geelong,Marvel Stadium,51156
+2007,14,Richmond,North Melbourne,Marvel Stadium,33583
+2007,14,Sydney,Fremantle,SCG,25943
+2007,14,West Coast,Brisbane,Subiaco,40763
+2007,14,Western Bulldogs,Port Adelaide,Marvel Stadium,22691
+2007,15,Essendon,Western Bulldogs,Marvel Stadium,45283
+2007,15,Fremantle,North Melbourne,Subiaco,37002
+2007,15,Geelong,Collingwood,MCG,85497
+2007,15,Hawthorn,Richmond,MCG,41770
+2007,15,Melbourne,Brisbane,Gabba,22708
+2007,15,Port Adelaide,West Coast,Football Park,27879
+2007,15,St Kilda,Adelaide,Marvel Stadium,32210
+2007,15,Sydney,Carlton,SCG,24858
+2007,16,Adelaide,Fremantle,Football Park,40190
+2007,16,Brisbane,Carlton,Gabba,27163
+2007,16,Collingwood,Essendon,MCG,65531
+2007,16,Geelong,Western Bulldogs,Marvel Stadium,44688
+2007,16,North Melbourne,Melbourne,Marvel Stadium,20187
+2007,16,Richmond,Port Adelaide,MCG,22395
+2007,16,St Kilda,Hawthorn,Marvel Stadium,37847
+2007,16,West Coast,Sydney,Subiaco,40014
+2007,17,Carlton,St Kilda,Marvel Stadium,32327
+2007,17,Collingwood,Brisbane,MCG,45096
+2007,17,Essendon,Adelaide,Marvel Stadium,35010
+2007,17,Fremantle,Geelong,Subiaco,36741
+2007,17,Hawthorn,North Melbourne,University of Tasmania Stadium,19114
+2007,17,Port Adelaide,Melbourne,Football Park,23485
+2007,17,Sydney,Richmond,SCG,23199
+2007,17,Western Bulldogs,West Coast,Marvel Stadium,30900
+2007,18,Adelaide,Port Adelaide,Football Park,42335
+2007,18,Brisbane,North Melbourne,Gabba,29233
+2007,18,Carlton,Collingwood,MCG,56341
+2007,18,Geelong,Richmond,GMHBA Stadium,21951
+2007,18,Hawthorn,Essendon,MCG,55019
+2007,18,Melbourne,Sydney,UNSW Canberra Oval,11266
+2007,18,West Coast,Fremantle,Subiaco,43096
+2007,18,Western Bulldogs,St Kilda,Marvel Stadium,33600
+2007,19,Fremantle,Essendon,Subiaco,38274
+2007,19,Geelong,Adelaide,GMHBA Stadium,21267
+2007,19,Hawthorn,Brisbane,MCG,39007
+2007,19,Melbourne,Western Bulldogs,Marvel Stadium,18946
+2007,19,North Melbourne,West Coast,Marvel Stadium,26113
+2007,19,Port Adelaide,Carlton,Football Park,27603
+2007,19,Richmond,Collingwood,MCG,49550
+2007,19,Sydney,St Kilda,ANZ Stadium,63369
+2007,20,Adelaide,Western Bulldogs,Football Park,41437
+2007,20,Brisbane,Sydney,Gabba,33077
+2007,20,Collingwood,Melbourne,MCG,46277
+2007,20,Essendon,Carlton,MCG,48638
+2007,20,Hawthorn,Port Adelaide,University of Tasmania Stadium,15264
+2007,20,North Melbourne,Geelong,Marvel Stadium,48501
+2007,20,St Kilda,Fremantle,Marvel Stadium,24041
+2007,20,West Coast,Richmond,Subiaco,39752
+2007,21,Adelaide,Brisbane,Football Park,46507
+2007,21,Carlton,North Melbourne,Marvel Stadium,29334
+2007,21,Collingwood,Sydney,MCG,63842
+2007,21,Essendon,Richmond,MCG,88468
+2007,21,Fremantle,Melbourne,Subiaco,34549
+2007,21,Geelong,Port Adelaide,GMHBA Stadium,24331
+2007,21,St Kilda,West Coast,Marvel Stadium,38183
+2007,21,Western Bulldogs,Hawthorn,Marvel Stadium,32734
+2007,22,Brisbane,Geelong,Gabba,34107
+2007,22,Collingwood,Adelaide,Marvel Stadium,47915
+2007,22,Melbourne,Carlton,MCG,26156
+2007,22,Port Adelaide,Fremantle,Football Park,39270
+2007,22,Richmond,St Kilda,MCG,42472
+2007,22,Sydney,Hawthorn,SCG,27498
+2007,22,West Coast,Essendon,Subiaco,42761
+2007,22,Western Bulldogs,North Melbourne,Marvel Stadium,29261
+2008,1,Carlton,Richmond,MCG,72552
+2008,1,Collingwood,Fremantle,MCG,45383
+2008,1,Hawthorn,Melbourne,MCG,40141
+2008,1,North Melbourne,Essendon,Marvel Stadium,48100
+2008,1,Port Adelaide,Geelong,Football Park,28206
+2008,1,St Kilda,Sydney,Marvel Stadium,36614
+2008,1,West Coast,Brisbane,Subiaco,39591
+2008,1,Western Bulldogs,Adelaide,Marvel Stadium,24835
+2008,2,Adelaide,West Coast,Football Park,38162
+2008,2,Brisbane,Collingwood,Gabba,33867
+2008,2,Fremantle,Hawthorn,Subiaco,38022
+2008,2,Geelong,Essendon,Marvel Stadium,50636
+2008,2,Melbourne,Western Bulldogs,MCG,27821
+2008,2,Richmond,North Melbourne,MCG,39292
+2008,2,St Kilda,Carlton,Marvel Stadium,43396
+2008,2,Sydney,Port Adelaide,SCG,24761
+2008,3,Adelaide,Port Adelaide,Football Park,45524
+2008,3,Brisbane,Sydney,Gabba,29061
+2008,3,Essendon,Carlton,MCG,64388
+2008,3,Geelong,Melbourne,GMHBA Stadium,23570
+2008,3,North Melbourne,Hawthorn,Marvel Stadium,39816
+2008,3,Richmond,Collingwood,MCG,70832
+2008,3,West Coast,Fremantle,Subiaco,39027
+2008,3,Western Bulldogs,St Kilda,Marvel Stadium,38667
+2008,4,Carlton,Collingwood,MCG,77873
+2008,4,Essendon,Western Bulldogs,Marvel Stadium,47641
+2008,4,Fremantle,Richmond,Subiaco,37541
+2008,4,Hawthorn,Adelaide,University of Tasmania Stadium,15124
+2008,4,North Melbourne,Melbourne,MCG,23427
+2008,4,Port Adelaide,Brisbane,Football Park,25205
+2008,4,St Kilda,Geelong,Marvel Stadium,44368
+2008,4,Sydney,West Coast,ANZ Stadium,44235
+2008,5,Adelaide,Fremantle,Football Park,39554
+2008,5,Brisbane,Hawthorn,Gabba,30019
+2008,5,Collingwood,North Melbourne,MCG,51990
+2008,5,Geelong,Sydney,GMHBA Stadium,24368
+2008,5,Melbourne,Carlton,MCG,44759
+2008,5,St Kilda,Essendon,Marvel Stadium,46792
+2008,5,West Coast,Port Adelaide,Subiaco,38302
+2008,5,Western Bulldogs,Richmond,Marvel Stadium,37767
+2008,6,Brisbane,Melbourne,Gabba,22878
+2008,6,Carlton,Adelaide,MCG,41033
+2008,6,Collingwood,Essendon,MCG,88999
+2008,6,Fremantle,Geelong,Subiaco,38022
+2008,6,Hawthorn,Richmond,MCG,46076
+2008,6,North Melbourne,Sydney,Marvel Stadium,28392
+2008,6,Port Adelaide,St Kilda,Football Park,20517
+2008,6,Western Bulldogs,West Coast,Marvel Stadium,29927
+2008,7,Adelaide,North Melbourne,Football Park,41898
+2008,7,Essendon,Port Adelaide,Marvel Stadium,28409
+2008,7,Geelong,Brisbane,GMHBA Stadium,23388
+2008,7,Hawthorn,Collingwood,MCG,76048
+2008,7,Melbourne,Fremantle,MCG,19423
+2008,7,Richmond,St Kilda,Marvel Stadium,40585
+2008,7,Sydney,Western Bulldogs,SCG,29018
+2008,7,West Coast,Carlton,Subiaco,41254
+2008,8,Adelaide,Melbourne,Football Park,35649
+2008,8,Carlton,Brisbane,Marvel Stadium,38675
+2008,8,Fremantle,Western Bulldogs,Subiaco,35624
+2008,8,Hawthorn,Port Adelaide,University of Tasmania Stadium,15682
+2008,8,North Melbourne,West Coast,Metricon Stadium,6354
+2008,8,Richmond,Geelong,MCG,37275
+2008,8,St Kilda,Collingwood,Marvel Stadium,48417
+2008,8,Sydney,Essendon,ANZ Stadium,34904
+2008,9,Brisbane,St Kilda,Gabba,27566
+2008,9,Carlton,Fremantle,Marvel Stadium,28955
+2008,9,Collingwood,Geelong,MCG,78206
+2008,9,Essendon,Richmond,MCG,60333
+2008,9,Melbourne,Hawthorn,MCG,41341
+2008,9,Port Adelaide,Sydney,Football Park,25013
+2008,9,West Coast,Adelaide,Subiaco,35348
+2008,9,Western Bulldogs,North Melbourne,Marvel Stadium,34971
+2008,10,Adelaide,Essendon,Football Park,41897
+2008,10,Brisbane,North Melbourne,Gabba,22118
+2008,10,Collingwood,West Coast,MCG,52968
+2008,10,Fremantle,Port Adelaide,Subiaco,34236
+2008,10,Geelong,Carlton,Marvel Stadium,46231
+2008,10,Hawthorn,Western Bulldogs,University of Tasmania Stadium,19378
+2008,10,St Kilda,Melbourne,Marvel Stadium,27854
+2008,10,Sydney,Richmond,SCG,26852
+2008,11,Brisbane,Fremantle,Gabba,24506
+2008,11,Essendon,Hawthorn,Marvel Stadium,46377
+2008,11,Melbourne,Collingwood,MCG,59548
+2008,11,North Melbourne,Geelong,Marvel Stadium,38373
+2008,11,Port Adelaide,Carlton,Football Park,29240
+2008,11,Richmond,Adelaide,MCG,32767
+2008,11,St Kilda,Western Bulldogs,Marvel Stadium,38914
+2008,11,West Coast,Sydney,Subiaco,38802
+2008,12,Adelaide,Hawthorn,Football Park,44559
+2008,12,Collingwood,Carlton,MCG,80310
+2008,12,Essendon,West Coast,Marvel Stadium,33386
+2008,12,Fremantle,North Melbourne,Subiaco,34105
+2008,12,Geelong,Port Adelaide,GMHBA Stadium,21642
+2008,12,Richmond,Melbourne,Marvel Stadium,27348
+2008,12,Sydney,St Kilda,SCG,25996
+2008,12,Western Bulldogs,Brisbane,MCG,39320
+2008,13,Brisbane,Adelaide,Gabba,29964
+2008,13,Carlton,Essendon,MCG,59177
+2008,13,Collingwood,Western Bulldogs,Marvel Stadium,44885
+2008,13,Hawthorn,North Melbourne,MCG,42508
+2008,13,Melbourne,Sydney,UNSW Canberra Oval,11437
+2008,13,Port Adelaide,Richmond,Football Park,20923
+2008,13,St Kilda,Fremantle,Marvel Stadium,22440
+2008,13,West Coast,Geelong,Subiaco,38414
+2008,14,Adelaide,Geelong,Football Park,44377
+2008,14,Fremantle,Essendon,Subiaco,34239
+2008,14,Hawthorn,West Coast,MCG,29138
+2008,14,Melbourne,Brisbane,MCG,23278
+2008,14,North Melbourne,St Kilda,Metricon Stadium,9128
+2008,14,Richmond,Carlton,MCG,73503
+2008,14,Sydney,Collingwood,ANZ Stadium,59266
+2008,14,Western Bulldogs,Port Adelaide,TIO Stadium,11373
+2008,15,Carlton,St Kilda,MCG,55658
+2008,15,Collingwood,Adelaide,MCG,52592
+2008,15,Essendon,Brisbane,Marvel Stadium,40053
+2008,15,Geelong,Fremantle,GMHBA Stadium,21293
+2008,15,Hawthorn,Sydney,MCG,49529
+2008,15,Port Adelaide,North Melbourne,Football Park,19851
+2008,15,West Coast,Richmond,Subiaco,37085
+2008,15,Western Bulldogs,Melbourne,Marvel Stadium,27446
+2008,16,Brisbane,West Coast,Gabba,27784
+2008,16,Carlton,Sydney,Marvel Stadium,38401
+2008,16,Fremantle,Melbourne,Subiaco,31638
+2008,16,Geelong,Western Bulldogs,GMHBA Stadium,24805
+2008,16,North Melbourne,Collingwood,Marvel Stadium,46610
+2008,16,Port Adelaide,Adelaide,Football Park,31662
+2008,16,Richmond,Essendon,MCG,56746
+2008,16,St Kilda,Hawthorn,Marvel Stadium,41886
+2008,17,Essendon,Collingwood,MCG,64785
+2008,17,Hawthorn,Geelong,MCG,86179
+2008,17,Melbourne,North Melbourne,MCG,21330
+2008,17,Port Adelaide,Fremantle,Football Park,19072
+2008,17,Richmond,Brisbane,Marvel Stadium,31275
+2008,17,Sydney,Adelaide,SCG,26260
+2008,17,West Coast,St Kilda,Subiaco,34037
+2008,17,Western Bulldogs,Carlton,Marvel Stadium,37879
+2008,18,Adelaide,Carlton,Football Park,40730
+2008,18,Collingwood,Hawthorn,MCG,58307
+2008,18,Essendon,Melbourne,MCG,46334
+2008,18,Fremantle,West Coast,Subiaco,42096
+2008,18,Geelong,Richmond,Marvel Stadium,42238
+2008,18,North Melbourne,Brisbane,Metricon Stadium,10037
+2008,18,St Kilda,Port Adelaide,Marvel Stadium,22878
+2008,18,Western Bulldogs,Sydney,UNSW Canberra Oval,13550
+2008,19,Adelaide,Richmond,Football Park,37562
+2008,19,Carlton,Port Adelaide,Marvel Stadium,29696
+2008,19,Collingwood,St Kilda,MCG,52135
+2008,19,Hawthorn,Brisbane,University of Tasmania Stadium,19929
+2008,19,Melbourne,Geelong,MCG,34610
+2008,19,North Melbourne,Western Bulldogs,Marvel Stadium,31957
+2008,19,Sydney,Fremantle,SCG,20846
+2008,19,West Coast,Essendon,Subiaco,35288
+2008,20,Brisbane,Western Bulldogs,Gabba,27315
+2008,20,Carlton,North Melbourne,Marvel Stadium,43406
+2008,20,Essendon,Adelaide,Marvel Stadium,32184
+2008,20,Fremantle,St Kilda,Subiaco,34014
+2008,20,Melbourne,West Coast,MCG,17958
+2008,20,Port Adelaide,Collingwood,Football Park,23694
+2008,20,Richmond,Hawthorn,MCG,44523
+2008,20,Sydney,Geelong,ANZ Stadium,44955
+2008,21,Brisbane,Carlton,Gabba,34327
+2008,21,Collingwood,Sydney,Marvel Stadium,45570
+2008,21,Geelong,North Melbourne,GMHBA Stadium,24288
+2008,21,Port Adelaide,Melbourne,Football Park,18875
+2008,21,Richmond,Fremantle,MCG,24881
+2008,21,St Kilda,Adelaide,Marvel Stadium,33811
+2008,21,West Coast,Hawthorn,Subiaco,37040
+2008,21,Western Bulldogs,Essendon,Marvel Stadium,37294
+2008,22,Adelaide,Western Bulldogs,Football Park,37543
+2008,22,Carlton,Hawthorn,Marvel Stadium,49057
+2008,22,Essendon,St Kilda,Marvel Stadium,46161
+2008,22,Fremantle,Collingwood,Subiaco,35106
+2008,22,Geelong,West Coast,GMHBA Stadium,21752
+2008,22,Melbourne,Richmond,MCG,37046
+2008,22,North Melbourne,Port Adelaide,MCG,22144
+2008,22,Sydney,Brisbane,SCG,24076
+2009,1,Brisbane,West Coast,Gabba,26800
+2009,1,Collingwood,Adelaide,MCG,41588
+2009,1,Fremantle,Western Bulldogs,Subiaco,34634
+2009,1,Hawthorn,Geelong,MCG,69564
+2009,1,Melbourne,North Melbourne,MCG,28707
+2009,1,Port Adelaide,Essendon,Football Park,28315
+2009,1,Richmond,Carlton,MCG,87043
+2009,1,St Kilda,Sydney,Marvel Stadium,32442
+2009,2,Adelaide,St Kilda,Football Park,41189
+2009,2,Carlton,Brisbane,Marvel Stadium,42496
+2009,2,Collingwood,Melbourne,MCG,43169
+2009,2,Essendon,Fremantle,Marvel Stadium,27461
+2009,2,Geelong,Richmond,GMHBA Stadium,22128
+2009,2,Sydney,Hawthorn,ANZ Stadium,33116
+2009,2,West Coast,Port Adelaide,Subiaco,37826
+2009,2,Western Bulldogs,North Melbourne,MCG,34459
+2009,3,Brisbane,Sydney,Gabba,24984
+2009,3,Carlton,Essendon,MCG,70370
+2009,3,Fremantle,Adelaide,Subiaco,30035
+2009,3,Geelong,Collingwood,MCG,58521
+2009,3,North Melbourne,Hawthorn,Marvel Stadium,34893
+2009,3,Port Adelaide,Melbourne,Football Park,21030
+2009,3,St Kilda,West Coast,Marvel Stadium,29066
+2009,3,Western Bulldogs,Richmond,Marvel Stadium,46261
+2009,4,Adelaide,Geelong,Football Park,40418
+2009,4,Brisbane,Collingwood,Gabba,34912
+2009,4,Hawthorn,Port Adelaide,MCG,33274
+2009,4,North Melbourne,Essendon,Marvel Stadium,33842
+2009,4,Richmond,Melbourne,MCG,40765
+2009,4,St Kilda,Fremantle,Marvel Stadium,26326
+2009,4,Sydney,Carlton,SCG,30824
+2009,4,West Coast,Western Bulldogs,Subiaco,37758
+2009,5,Essendon,Collingwood,MCG,84829
+2009,5,Fremantle,Sydney,Subiaco,32884
+2009,5,Geelong,Brisbane,GMHBA Stadium,15580
+2009,5,Hawthorn,West Coast,University of Tasmania Stadium,17880
+2009,5,Melbourne,Adelaide,MCG,14129
+2009,5,North Melbourne,Richmond,Marvel Stadium,29224
+2009,5,Port Adelaide,St Kilda,Football Park,25426
+2009,5,Western Bulldogs,Carlton,Marvel Stadium,44268
+2009,6,Brisbane,Essendon,Gabba,29252
+2009,6,Hawthorn,Carlton,MCG,69814
+2009,6,Melbourne,Geelong,MCG,36932
+2009,6,North Melbourne,Collingwood,Marvel Stadium,40087
+2009,6,Port Adelaide,Adelaide,Football Park,41558
+2009,6,Sydney,Richmond,SCG,25410
+2009,6,West Coast,Fremantle,Subiaco,41654
+2009,6,Western Bulldogs,St Kilda,Marvel Stadium,36302
+2009,7,Adelaide,Western Bulldogs,Football Park,31742
+2009,7,Carlton,Fremantle,Metricon Stadium,10294
+2009,7,Collingwood,St Kilda,Marvel Stadium,46880
+2009,7,Essendon,Hawthorn,Marvel Stadium,50475
+2009,7,Geelong,Sydney,GMHBA Stadium,22050
+2009,7,North Melbourne,Port Adelaide,Marvel Stadium,14342
+2009,7,Richmond,Brisbane,MCG,34646
+2009,7,West Coast,Melbourne,Subiaco,35209
+2009,8,Brisbane,Adelaide,Gabba,27767
+2009,8,Collingwood,Carlton,MCG,82834
+2009,8,Fremantle,Hawthorn,Subiaco,39135
+2009,8,Geelong,North Melbourne,GMHBA Stadium,20873
+2009,8,Melbourne,Western Bulldogs,MCG,28279
+2009,8,Port Adelaide,Richmond,Football Park,22034
+2009,8,St Kilda,Essendon,Marvel Stadium,45594
+2009,8,Sydney,West Coast,ANZ Stadium,33079
+2009,9,Adelaide,Carlton,Football Park,41107
+2009,9,Geelong,Western Bulldogs,Marvel Stadium,44620
+2009,9,Hawthorn,Melbourne,MCG,39395
+2009,9,North Melbourne,Fremantle,Marvel Stadium,15436
+2009,9,Richmond,Essendon,MCG,73625
+2009,9,St Kilda,Brisbane,Marvel Stadium,30673
+2009,9,Sydney,Port Adelaide,SCG,23229
+2009,9,West Coast,Collingwood,Subiaco,36658
+2009,10,Adelaide,Hawthorn,Football Park,40035
+2009,10,Carlton,West Coast,Marvel Stadium,39611
+2009,10,Collingwood,Port Adelaide,MCG,34793
+2009,10,Essendon,Geelong,Marvel Stadium,48852
+2009,10,Fremantle,Richmond,Subiaco,35395
+2009,10,North Melbourne,Brisbane,Marvel Stadium,21583
+2009,10,St Kilda,Melbourne,Metricon Stadium,9112
+2009,10,Western Bulldogs,Sydney,UNSW Canberra Oval,12542
+2009,11,Brisbane,Carlton,Gabba,33790
+2009,11,Essendon,Adelaide,Marvel Stadium,39458
+2009,11,Hawthorn,Sydney,MCG,44464
+2009,11,Melbourne,Collingwood,MCG,61287
+2009,11,North Melbourne,St Kilda,Marvel Stadium,30962
+2009,11,Port Adelaide,Fremantle,Football Park,18418
+2009,11,Richmond,Western Bulldogs,Marvel Stadium,36483
+2009,11,West Coast,Geelong,Subiaco,35355
+2009,12,Adelaide,North Melbourne,Football Park,30173
+2009,12,Carlton,St Kilda,Marvel Stadium,50820
+2009,12,Essendon,Melbourne,Marvel Stadium,42087
+2009,12,Fremantle,Geelong,Subiaco,33213
+2009,12,Hawthorn,Brisbane,University of Tasmania Stadium,16710
+2009,12,Richmond,West Coast,Marvel Stadium,30117
+2009,12,Sydney,Collingwood,ANZ Stadium,41042
+2009,12,Western Bulldogs,Port Adelaide,TIO Stadium,11306
+2009,13,Adelaide,Sydney,Football Park,38064
+2009,13,Brisbane,Melbourne,Gabba,23750
+2009,13,Collingwood,Fremantle,MCG,44114
+2009,13,Essendon,Carlton,MCG,83407
+2009,13,Geelong,Port Adelaide,GMHBA Stadium,21142
+2009,13,North Melbourne,Western Bulldogs,MCG,31470
+2009,13,St Kilda,Richmond,Marvel Stadium,38196
+2009,13,West Coast,Hawthorn,Subiaco,31441
+2009,14,Collingwood,Essendon,MCG,77699
+2009,14,Fremantle,Carlton,Subiaco,34720
+2009,14,Melbourne,West Coast,MCG,23149
+2009,14,Port Adelaide,Brisbane,Football Park,20293
+2009,14,Richmond,Adelaide,Metricon Stadium,11174
+2009,14,St Kilda,Geelong,Marvel Stadium,54444
+2009,14,Sydney,North Melbourne,SCG,21929
+2009,14,Western Bulldogs,Hawthorn,Marvel Stadium,36827
+2009,15,Adelaide,Fremantle,Football Park,32451
+2009,15,Brisbane,Geelong,Gabba,34274
+2009,15,Carlton,Richmond,MCG,50784
+2009,15,Hawthorn,North Melbourne,University of Tasmania Stadium,15008
+2009,15,Melbourne,Port Adelaide,MCG,15888
+2009,15,Sydney,Essendon,SCG,30924
+2009,15,West Coast,St Kilda,Subiaco,36259
+2009,15,Western Bulldogs,Collingwood,Marvel Stadium,51382
+2009,16,Carlton,Sydney,Marvel Stadium,42018
+2009,16,Collingwood,Hawthorn,MCG,66149
+2009,16,Essendon,Western Bulldogs,Marvel Stadium,47120
+2009,16,Fremantle,Brisbane,Subiaco,22595
+2009,16,Geelong,Melbourne,GMHBA Stadium,21160
+2009,16,Port Adelaide,West Coast,Football Park,21106
+2009,16,Richmond,North Melbourne,MCG,30604
+2009,16,St Kilda,Adelaide,Marvel Stadium,31940
+2009,17,Adelaide,Port Adelaide,Football Park,46859
+2009,17,Brisbane,North Melbourne,Gabba,25509
+2009,17,Carlton,Collingwood,MCG,84938
+2009,17,Essendon,Richmond,MCG,47412
+2009,17,Fremantle,West Coast,Subiaco,39536
+2009,17,Geelong,Hawthorn,MCG,64803
+2009,17,Melbourne,Sydney,UNSW Canberra Oval,7311
+2009,17,St Kilda,Western Bulldogs,Marvel Stadium,45082
+2009,18,Collingwood,Brisbane,MCG,47268
+2009,18,Geelong,Adelaide,GMHBA Stadium,21686
+2009,18,Melbourne,Richmond,MCG,37438
+2009,18,North Melbourne,Carlton,Marvel Stadium,38554
+2009,18,Port Adelaide,Hawthorn,Football Park,25154
+2009,18,Sydney,St Kilda,SCG,27805
+2009,18,West Coast,Essendon,Subiaco,35765
+2009,18,Western Bulldogs,Fremantle,Marvel Stadium,19065
+2009,19,Adelaide,Collingwood,Football Park,45128
+2009,19,Carlton,Geelong,MCG,55057
+2009,19,Essendon,Brisbane,MCG,41636
+2009,19,Fremantle,Port Adelaide,Subiaco,30029
+2009,19,Hawthorn,St Kilda,University of Tasmania Stadium,20011
+2009,19,North Melbourne,Melbourne,Marvel Stadium,16594
+2009,19,Richmond,Sydney,MCG,32216
+2009,19,Western Bulldogs,West Coast,Marvel Stadium,22417
+2009,20,Brisbane,Western Bulldogs,Gabba,33421
+2009,20,Essendon,St Kilda,Marvel Stadium,41410
+2009,20,Hawthorn,Adelaide,MCG,32583
+2009,20,Melbourne,Fremantle,MCG,13004
+2009,20,Port Adelaide,Carlton,Football Park,27221
+2009,20,Richmond,Collingwood,MCG,63366
+2009,20,Sydney,Geelong,ANZ Stadium,40261
+2009,20,West Coast,North Melbourne,Subiaco,32472
+2009,21,Adelaide,West Coast,Football Park,39640
+2009,21,Brisbane,Port Adelaide,Gabba,26437
+2009,21,Carlton,Melbourne,Marvel Stadium,37433
+2009,21,Collingwood,Sydney,MCG,54400
+2009,21,Fremantle,Essendon,Subiaco,32413
+2009,21,Richmond,Hawthorn,MCG,34779
+2009,21,St Kilda,North Melbourne,Marvel Stadium,30522
+2009,21,Western Bulldogs,Geelong,Marvel Stadium,46818
+2009,22,Carlton,Adelaide,Marvel Stadium,42356
+2009,22,Collingwood,Western Bulldogs,Marvel Stadium,48888
+2009,22,Geelong,Fremantle,GMHBA Stadium,18196
+2009,22,Hawthorn,Essendon,MCG,77278
+2009,22,Melbourne,St Kilda,MCG,36748
+2009,22,Port Adelaide,North Melbourne,Football Park,17284
+2009,22,Sydney,Brisbane,SCG,27933
+2009,22,West Coast,Richmond,Subiaco,39755
+2010,1,Brisbane,West Coast,Gabba,29201
+2010,1,Fremantle,Adelaide,Subiaco,30976
+2010,1,Geelong,Essendon,MCG,57772
+2010,1,Melbourne,Hawthorn,MCG,45615
+2010,1,Port Adelaide,North Melbourne,Football Park,21205
+2010,1,Richmond,Carlton,MCG,72010
+2010,1,Sydney,St Kilda,ANZ Stadium,31330
+2010,1,Western Bulldogs,Collingwood,Marvel Stadium,49000
+2010,2,Adelaide,Sydney,Football Park,36041
+2010,2,Brisbane,Carlton,Gabba,36780
+2010,2,Collingwood,Melbourne,MCG,50421
+2010,2,Essendon,Fremantle,Marvel Stadium,29651
+2010,2,Hawthorn,Geelong,MCG,68628
+2010,2,Richmond,Western Bulldogs,MCG,27358
+2010,2,St Kilda,North Melbourne,Marvel Stadium,32006
+2010,2,West Coast,Port Adelaide,Subiaco,37010
+2010,3,Carlton,Essendon,MCG,71006
+2010,3,Fremantle,Geelong,Subiaco,38762
+2010,3,Melbourne,Adelaide,MCG,23335
+2010,3,North Melbourne,West Coast,Marvel Stadium,18394
+2010,3,Port Adelaide,Brisbane,Football Park,23306
+2010,3,St Kilda,Collingwood,Marvel Stadium,49669
+2010,3,Sydney,Richmond,SCG,28414
+2010,3,Western Bulldogs,Hawthorn,Marvel Stadium,35933
+2010,4,Adelaide,Carlton,Football Park,38321
+2010,4,Brisbane,Western Bulldogs,Gabba,33323
+2010,4,Collingwood,Hawthorn,MCG,67668
+2010,4,Geelong,Port Adelaide,GMHBA Stadium,25539
+2010,4,North Melbourne,Sydney,Marvel Stadium,23646
+2010,4,Richmond,Melbourne,MCG,42594
+2010,4,St Kilda,Fremantle,Marvel Stadium,29814
+2010,4,West Coast,Essendon,Subiaco,38676
+2010,5,Carlton,Geelong,MCG,71399
+2010,5,Collingwood,Essendon,MCG,90070
+2010,5,Fremantle,Richmond,Subiaco,38010
+2010,5,Hawthorn,North Melbourne,University of Tasmania Stadium,16301
+2010,5,Melbourne,Brisbane,MCG,36396
+2010,5,Port Adelaide,St Kilda,Football Park,23355
+2010,5,Sydney,West Coast,SCG,28422
+2010,5,Western Bulldogs,Adelaide,Marvel Stadium,26884
+2010,6,Adelaide,Port Adelaide,Football Park,40371
+2010,6,Carlton,Collingwood,MCG,80645
+2010,6,Essendon,Hawthorn,MCG,61006
+2010,6,Geelong,Richmond,GMHBA Stadium,24106
+2010,6,North Melbourne,Melbourne,Marvel Stadium,26763
+2010,6,Sydney,Brisbane,SCG,30975
+2010,6,West Coast,Fremantle,Subiaco,40886
+2010,6,Western Bulldogs,St Kilda,Marvel Stadium,43072
+2010,7,Adelaide,Richmond,Football Park,31196
+2010,7,Brisbane,Fremantle,Gabba,27739
+2010,7,Collingwood,North Melbourne,MCG,52696
+2010,7,Essendon,Port Adelaide,Marvel Stadium,29248
+2010,7,Geelong,Sydney,GMHBA Stadium,25970
+2010,7,Melbourne,Western Bulldogs,MCG,45444
+2010,7,St Kilda,Carlton,Marvel Stadium,42866
+2010,7,West Coast,Hawthorn,Subiaco,35864
+2010,8,Brisbane,Geelong,Gabba,33629
+2010,8,Fremantle,Collingwood,Subiaco,41624
+2010,8,Melbourne,West Coast,MCG,28592
+2010,8,North Melbourne,Adelaide,Marvel Stadium,16479
+2010,8,Port Adelaide,Carlton,Football Park,30228
+2010,8,Richmond,Hawthorn,MCG,41563
+2010,8,St Kilda,Essendon,Marvel Stadium,39204
+2010,8,Western Bulldogs,Sydney,UNSW Canberra Oval,14308
+2010,9,Adelaide,Brisbane,Football Park,31517
+2010,9,Carlton,Hawthorn,Marvel Stadium,47484
+2010,9,Collingwood,Geelong,MCG,88115
+2010,9,Essendon,Richmond,MCG,64709
+2010,9,Melbourne,Port Adelaide,TIO Stadium,8848
+2010,9,North Melbourne,Western Bulldogs,Marvel Stadium,30794
+2010,9,Sydney,Fremantle,SCG,24819
+2010,9,West Coast,St Kilda,Subiaco,36244
+2010,10,Brisbane,Collingwood,Gabba,34512
+2010,10,Carlton,West Coast,Marvel Stadium,29175
+2010,10,Essendon,Western Bulldogs,Marvel Stadium,45742
+2010,10,Fremantle,North Melbourne,Subiaco,36175
+2010,10,Geelong,Melbourne,GMHBA Stadium,24525
+2010,10,Hawthorn,Sydney,MCG,36003
+2010,10,Port Adelaide,Richmond,Football Park,16694
+2010,10,St Kilda,Adelaide,Marvel Stadium,28708
+2010,11,Adelaide,Fremantle,Football Park,35605
+2010,11,Carlton,Melbourne,MCG,49745
+2010,11,Collingwood,Western Bulldogs,Marvel Stadium,40813
+2010,11,Hawthorn,Port Adelaide,MCG,21287
+2010,11,North Melbourne,Brisbane,Marvel Stadium,19100
+2010,11,Richmond,St Kilda,Marvel Stadium,32858
+2010,11,Sydney,Essendon,SCG,29329
+2010,11,West Coast,Geelong,Subiaco,33784
+2010,12,Essendon,Geelong,Marvel Stadium,46358
+2010,12,Fremantle,St Kilda,Subiaco,37569
+2010,12,Hawthorn,Adelaide,University of Tasmania Stadium,16167
+2010,12,Melbourne,Collingwood,MCG,67454
+2010,12,North Melbourne,Carlton,Marvel Stadium,43732
+2010,12,Port Adelaide,Sydney,Football Park,20106
+2010,12,Richmond,West Coast,MCG,30870
+2010,12,Western Bulldogs,Brisbane,Marvel Stadium,30831
+2010,13,Adelaide,Melbourne,Football Park,34422
+2010,13,Brisbane,Richmond,Gabba,28415
+2010,13,Carlton,Fremantle,Marvel Stadium,28869
+2010,13,Hawthorn,Essendon,MCG,54148
+2010,13,North Melbourne,Port Adelaide,Marvel Stadium,15109
+2010,13,St Kilda,Geelong,MCG,58208
+2010,13,Sydney,Collingwood,ANZ Stadium,43585
+2010,13,West Coast,Western Bulldogs,Subiaco,34280
+2010,14,Adelaide,Essendon,Football Park,37296
+2010,14,Carlton,Brisbane,Marvel Stadium,35623
+2010,14,Collingwood,West Coast,Marvel Stadium,38781
+2010,14,Fremantle,Port Adelaide,Subiaco,32442
+2010,14,Geelong,North Melbourne,GMHBA Stadium,25159
+2010,14,Hawthorn,Western Bulldogs,MCG,47454
+2010,14,Richmond,Sydney,MCG,39386
+2010,14,St Kilda,Melbourne,Marvel Stadium,31993
+2010,15,Brisbane,St Kilda,Gabba,29329
+2010,15,Carlton,Western Bulldogs,Marvel Stadium,37517
+2010,15,Geelong,Hawthorn,MCG,69220
+2010,15,Melbourne,Essendon,MCG,49203
+2010,15,Port Adelaide,Collingwood,Football Park,24260
+2010,15,Richmond,Fremantle,Marvel Stadium,25707
+2010,15,Sydney,North Melbourne,SCG,23856
+2010,15,West Coast,Adelaide,Subiaco,26976
+2010,16,Adelaide,Geelong,Football Park,41195
+2010,16,Carlton,Sydney,Marvel Stadium,31915
+2010,16,Collingwood,St Kilda,MCG,81386
+2010,16,Essendon,West Coast,Marvel Stadium,26991
+2010,16,Fremantle,Melbourne,Subiaco,32816
+2010,16,Hawthorn,Brisbane,University of Tasmania Stadium,16690
+2010,16,Richmond,North Melbourne,MCG,42723
+2010,16,Western Bulldogs,Port Adelaide,TIO Stadium,11080
+2010,17,Collingwood,Richmond,MCG,66727
+2010,17,Geelong,Brisbane,GMHBA Stadium,24508
+2010,17,Melbourne,Sydney,MCG,29374
+2010,17,North Melbourne,Essendon,Marvel Stadium,30330
+2010,17,Port Adelaide,Adelaide,Football Park,36788
+2010,17,St Kilda,Hawthorn,Marvel Stadium,49373
+2010,17,West Coast,Carlton,Subiaco,35925
+2010,17,Western Bulldogs,Fremantle,Marvel Stadium,26797
+2010,18,Brisbane,Melbourne,Gabba,26144
+2010,18,Collingwood,Carlton,MCG,76980
+2010,18,Essendon,St Kilda,Marvel Stadium,37165
+2010,18,Fremantle,West Coast,Subiaco,40451
+2010,18,Port Adelaide,Hawthorn,Football Park,22340
+2010,18,Richmond,Adelaide,MCG,19226
+2010,18,Sydney,Geelong,ANZ Stadium,30710
+2010,18,Western Bulldogs,North Melbourne,Marvel Stadium,28038
+2010,19,Adelaide,Western Bulldogs,Football Park,29321
+2010,19,Essendon,Carlton,MCG,57095
+2010,19,Geelong,Collingwood,MCG,84401
+2010,19,Melbourne,Richmond,MCG,45844
+2010,19,North Melbourne,Fremantle,Marvel Stadium,14891
+2010,19,St Kilda,Port Adelaide,Marvel Stadium,22467
+2010,19,Sydney,Hawthorn,SCG,29431
+2010,19,West Coast,Brisbane,Subiaco,32587
+2010,20,Brisbane,Adelaide,Gabba,25403
+2010,20,Carlton,Richmond,MCG,44716
+2010,20,Essendon,Collingwood,MCG,59277
+2010,20,Fremantle,Sydney,Subiaco,34087
+2010,20,Hawthorn,Melbourne,MCG,48211
+2010,20,North Melbourne,St Kilda,Marvel Stadium,23118
+2010,20,Port Adelaide,West Coast,Football Park,14113
+2010,20,Western Bulldogs,Geelong,Marvel Stadium,42199
+2010,21,Collingwood,Adelaide,MCG,42159
+2010,21,Essendon,Brisbane,Marvel Stadium,28785
+2010,21,Geelong,Carlton,Marvel Stadium,45172
+2010,21,Hawthorn,Fremantle,University of Tasmania Stadium,15532
+2010,21,Port Adelaide,Melbourne,Football Park,21086
+2010,21,St Kilda,Richmond,Marvel Stadium,33944
+2010,21,Sydney,Western Bulldogs,SCG,36554
+2010,21,West Coast,North Melbourne,Subiaco,32007
+2010,22,Adelaide,St Kilda,Football Park,38121
+2010,22,Brisbane,Sydney,Gabba,24789
+2010,22,Fremantle,Carlton,Subiaco,39376
+2010,22,Geelong,West Coast,GMHBA Stadium,24099
+2010,22,Hawthorn,Collingwood,MCG,76218
+2010,22,Melbourne,North Melbourne,MCG,31064
+2010,22,Richmond,Port Adelaide,Marvel Stadium,37674
+2010,22,Western Bulldogs,Essendon,Marvel Stadium,26776
+2011,1,Adelaide,Hawthorn,Football Park,42536
+2011,1,Brisbane,Fremantle,Gabba,23373
+2011,1,Carlton,Richmond,MCG,60654
+2011,1,Collingwood,Port Adelaide,Marvel Stadium,35773
+2011,1,Essendon,Western Bulldogs,Marvel Stadium,42617
+2011,1,Geelong,St Kilda,MCG,42869
+2011,1,Melbourne,Sydney,MCG,33951
+2011,1,West Coast,North Melbourne,Subiaco,35878
+2011,2,Fremantle,Geelong,Subiaco,37004
+2011,2,Gold Coast,Carlton,Gabba,27914
+2011,2,Hawthorn,Melbourne,MCG,49905
+2011,2,North Melbourne,Collingwood,Marvel Stadium,40578
+2011,2,Port Adelaide,West Coast,Football Park,23214
+2011,2,St Kilda,Richmond,MCG,41465
+2011,2,Sydney,Essendon,ANZ Stadium,28082
+2011,2,Western Bulldogs,Brisbane,Marvel Stadium,22331
+2011,3,Adelaide,Fremantle,Football Park,33414
+2011,3,Collingwood,Carlton,MCG,88181
+2011,3,Geelong,Port Adelaide,GMHBA Stadium,22420
+2011,3,Melbourne,Brisbane,MCG,24380
+2011,3,Richmond,Hawthorn,MCG,46368
+2011,3,St Kilda,Essendon,Marvel Stadium,47762
+2011,3,West Coast,Sydney,Subiaco,37288
+2011,3,Western Bulldogs,Gold Coast,Marvel Stadium,21373
+2011,4,Carlton,Essendon,MCG,78065
+2011,4,Fremantle,North Melbourne,Subiaco,34779
+2011,4,Gold Coast,Melbourne,Gabba,12111
+2011,4,Hawthorn,West Coast,University of Tasmania Stadium,15063
+2011,4,Port Adelaide,Adelaide,Football Park,33143
+2011,4,Richmond,Collingwood,MCG,58050
+2011,4,Sydney,Geelong,SCG,25300
+2011,5,Brisbane,St Kilda,Gabba,22543
+2011,5,Carlton,Adelaide,Marvel Stadium,37607
+2011,5,Essendon,Collingwood,MCG,89626
+2011,5,Fremantle,Western Bulldogs,Subiaco,37551
+2011,5,Hawthorn,Geelong,MCG,78579
+2011,5,North Melbourne,Richmond,Marvel Stadium,36461
+2011,5,Port Adelaide,Gold Coast,Football Park,21287
+2011,6,Adelaide,St Kilda,Football Park,33854
+2011,6,Collingwood,Western Bulldogs,MCG,53776
+2011,6,Essendon,Gold Coast,Marvel Stadium,33710
+2011,6,North Melbourne,Port Adelaide,Marvel Stadium,16014
+2011,6,Richmond,Brisbane,MCG,37438
+2011,6,Sydney,Carlton,SCG,28081
+2011,6,West Coast,Melbourne,Subiaco,36298
+2011,7,Essendon,West Coast,Marvel Stadium,33631
+2011,7,Geelong,North Melbourne,GMHBA Stadium,23669
+2011,7,Gold Coast,Brisbane,Gabba,25501
+2011,7,Melbourne,Adelaide,MCG,19987
+2011,7,Port Adelaide,Hawthorn,Football Park,21819
+2011,7,Richmond,Fremantle,MCG,34090
+2011,7,St Kilda,Carlton,Marvel Stadium,41576
+2011,7,Western Bulldogs,Sydney,UNSW Canberra Oval,10184
+2011,8,Adelaide,Gold Coast,Football Park,36056
+2011,8,Brisbane,Essendon,Gabba,24921
+2011,8,Geelong,Collingwood,MCG,81691
+2011,8,Hawthorn,St Kilda,MCG,42453
+2011,8,North Melbourne,Melbourne,Marvel Stadium,23536
+2011,8,Sydney,Port Adelaide,SCG,20719
+2011,8,West Coast,Fremantle,Subiaco,40567
+2011,8,Western Bulldogs,Richmond,Marvel Stadium,39141
+2011,9,Brisbane,North Melbourne,Gabba,18404
+2011,9,Carlton,Geelong,Marvel Stadium,48429
+2011,9,Collingwood,Adelaide,Marvel Stadium,38849
+2011,9,Port Adelaide,Fremantle,Football Park,16274
+2011,9,Richmond,Essendon,MCG,83563
+2011,9,St Kilda,Melbourne,Marvel Stadium,28863
+2011,9,Sydney,Hawthorn,SCG,33136
+2011,9,West Coast,Western Bulldogs,Subiaco,37308
+2011,10,Adelaide,Brisbane,Football Park,34583
+2011,10,Collingwood,West Coast,MCG,52560
+2011,10,Fremantle,St Kilda,Subiaco,35483
+2011,10,Gold Coast,Geelong,Metricon Stadium,21485
+2011,10,Melbourne,Carlton,MCG,47464
+2011,10,North Melbourne,Sydney,Marvel Stadium,24267
+2011,10,Richmond,Port Adelaide,TIO Stadium,11506
+2011,10,Western Bulldogs,Hawthorn,Marvel Stadium,30747
+2011,11,Brisbane,Sydney,Gabba,22150
+2011,11,Collingwood,St Kilda,MCG,62991
+2011,11,Essendon,Melbourne,MCG,53077
+2011,11,Geelong,Western Bulldogs,GMHBA Stadium,25078
+2011,11,Hawthorn,Fremantle,MCG,31925
+2011,11,North Melbourne,Adelaide,Marvel Stadium,18185
+2011,11,Port Adelaide,Carlton,Football Park,23192
+2011,11,West Coast,Gold Coast,Subiaco,36815
+2011,12,Adelaide,West Coast,Football Park,31412
+2011,12,Carlton,Brisbane,Marvel Stadium,43617
+2011,12,Fremantle,Essendon,Subiaco,35824
+2011,12,Geelong,Hawthorn,MCG,63476
+2011,12,Gold Coast,North Melbourne,Metricon Stadium,14945
+2011,12,Melbourne,Collingwood,MCG,75998
+2011,12,St Kilda,Western Bulldogs,Marvel Stadium,31237
+2011,12,Sydney,Richmond,SCG,23782
+2011,13,Brisbane,Richmond,Gabba,21510
+2011,13,Carlton,Sydney,Marvel Stadium,42788
+2011,13,Essendon,North Melbourne,Marvel Stadium,42329
+2011,13,Hawthorn,Gold Coast,University of Tasmania Stadium,16377
+2011,13,Melbourne,Fremantle,MCG,19092
+2011,13,St Kilda,Geelong,MCG,39539
+2011,13,West Coast,Port Adelaide,Subiaco,35059
+2011,13,Western Bulldogs,Adelaide,Marvel Stadium,19363
+2011,14,Carlton,West Coast,Marvel Stadium,38241
+2011,14,Fremantle,Brisbane,Subiaco,30330
+2011,14,Geelong,Adelaide,GMHBA Stadium,23246
+2011,14,Gold Coast,Western Bulldogs,Metricon Stadium,16149
+2011,14,Hawthorn,Essendon,MCG,64537
+2011,14,Port Adelaide,North Melbourne,Football Park,17275
+2011,14,Richmond,Melbourne,MCG,61900
+2011,14,Sydney,Collingwood,ANZ Stadium,38053
+2011,15,Adelaide,Sydney,Football Park,23063
+2011,15,Brisbane,Port Adelaide,Gabba,17276
+2011,15,Collingwood,Hawthorn,MCG,83985
+2011,15,Essendon,Geelong,Marvel Stadium,43806
+2011,15,Fremantle,Gold Coast,Subiaco,28646
+2011,15,North Melbourne,St Kilda,Marvel Stadium,29693
+2011,15,Richmond,Carlton,MCG,59650
+2011,15,Western Bulldogs,Melbourne,Marvel Stadium,29516
+2011,16,Collingwood,North Melbourne,MCG,53601
+2011,16,Essendon,Richmond,MCG,55442
+2011,16,Gold Coast,Sydney,Metricon Stadium,16488
+2011,16,Hawthorn,Brisbane,University of Tasmania Stadium,14604
+2011,16,Port Adelaide,St Kilda,Football Park,16887
+2011,16,West Coast,Geelong,Subiaco,40164
+2011,16,Western Bulldogs,Carlton,Marvel Stadium,38582
+2011,17,Adelaide,Essendon,Football Park,38118
+2011,17,Brisbane,Geelong,Gabba,19906
+2011,17,Carlton,Collingwood,MCG,85936
+2011,17,Melbourne,Port Adelaide,TIO Stadium,7255
+2011,17,North Melbourne,Western Bulldogs,Marvel Stadium,22754
+2011,17,Richmond,Gold Coast,Cazaly's Stadium,10832
+2011,17,St Kilda,West Coast,Marvel Stadium,31416
+2011,17,Sydney,Fremantle,SCG,23415
+2011,18,Essendon,Carlton,MCG,74123
+2011,18,Fremantle,West Coast,Subiaco,41055
+2011,18,Geelong,Richmond,Marvel Stadium,33761
+2011,18,Gold Coast,Collingwood,Metricon Stadium,23302
+2011,18,Melbourne,Hawthorn,MCG,39782
+2011,18,North Melbourne,Brisbane,Marvel Stadium,20809
+2011,18,St Kilda,Adelaide,Marvel Stadium,26546
+2011,18,Sydney,Western Bulldogs,SCG,19449
+2011,19,Adelaide,Port Adelaide,Football Park,40586
+2011,19,Collingwood,Essendon,MCG,73163
+2011,19,Fremantle,Hawthorn,Subiaco,30937
+2011,19,Geelong,Melbourne,GMHBA Stadium,22716
+2011,19,Gold Coast,St Kilda,Metricon Stadium,17482
+2011,19,North Melbourne,Carlton,Marvel Stadium,41332
+2011,19,Western Bulldogs,West Coast,Marvel Stadium,20883
+2011,20,Brisbane,Adelaide,Gabba,17930
+2011,20,Carlton,Melbourne,MCG,42342
+2011,20,Essendon,Sydney,Marvel Stadium,38722
+2011,20,Geelong,Gold Coast,GMHBA Stadium,24588
+2011,20,Hawthorn,North Melbourne,University of Tasmania Stadium,16820
+2011,20,Port Adelaide,Collingwood,Football Park,21863
+2011,20,St Kilda,Fremantle,Marvel Stadium,26181
+2011,20,West Coast,Richmond,Subiaco,38106
+2011,21,Adelaide,Geelong,Football Park,33576
+2011,21,Brisbane,Gold Coast,Gabba,23565
+2011,21,Fremantle,Carlton,Subiaco,34737
+2011,21,Hawthorn,Port Adelaide,MCG,27532
+2011,21,Melbourne,West Coast,Marvel Stadium,15740
+2011,21,Richmond,Sydney,MCG,34337
+2011,21,St Kilda,Collingwood,Marvel Stadium,46505
+2011,21,Western Bulldogs,Essendon,Marvel Stadium,38986
+2011,22,Carlton,Hawthorn,Marvel Stadium,52052
+2011,22,Collingwood,Brisbane,MCG,47788
+2011,22,Gold Coast,Adelaide,Metricon Stadium,16168
+2011,22,Melbourne,Richmond,MCG,36321
+2011,22,North Melbourne,Fremantle,Marvel Stadium,17581
+2011,22,Port Adelaide,Western Bulldogs,Football Park,14169
+2011,22,Sydney,St Kilda,ANZ Stadium,25025
+2011,22,West Coast,Essendon,Subiaco,38253
+2011,23,Adelaide,Richmond,Football Park,38023
+2011,23,Brisbane,West Coast,Gabba,13500
+2011,23,Essendon,Port Adelaide,Marvel Stadium,34849
+2011,23,Fremantle,Collingwood,Subiaco,31985
+2011,23,Geelong,Sydney,GMHBA Stadium,25900
+2011,23,Hawthorn,Western Bulldogs,MCG,42198
+2011,23,Melbourne,Gold Coast,MCG,21534
+2011,23,St Kilda,North Melbourne,Marvel Stadium,35848
+2011,24,Carlton,St Kilda,MCG,55606
+2011,24,Collingwood,Geelong,MCG,85705
+2011,24,Gold Coast,Hawthorn,Metricon Stadium,19314
+2011,24,Port Adelaide,Melbourne,Adelaide Oval,29340
+2011,24,Richmond,North Melbourne,Marvel Stadium,32890
+2011,24,Sydney,Brisbane,SCG,27721
+2011,24,West Coast,Adelaide,Subiaco,36062
+2011,24,Western Bulldogs,Fremantle,Marvel Stadium,18128
+2012,1,Fremantle,Geelong,Subiaco,34601
+2012,1,Gold Coast,Adelaide,Metricon Stadium,12790
+2012,1,GWS,Sydney,ANZ Stadium,38203
+2012,1,Hawthorn,Collingwood,MCG,78466
+2012,1,Melbourne,Brisbane,MCG,33473
+2012,1,North Melbourne,Essendon,Marvel Stadium,45818
+2012,1,Port Adelaide,St Kilda,Football Park,21179
+2012,1,Richmond,Carlton,MCG,78285
+2012,1,Western Bulldogs,West Coast,Marvel Stadium,24977
+2012,2,Adelaide,Western Bulldogs,Football Park,34021
+2012,2,Brisbane,Carlton,Gabba,25913
+2012,2,Collingwood,Richmond,MCG,57268
+2012,2,Essendon,Port Adelaide,Marvel Stadium,34118
+2012,2,Geelong,Hawthorn,MCG,69231
+2012,2,North Melbourne,GWS,Blundstone Arena,11127
+2012,2,St Kilda,Gold Coast,Marvel Stadium,21078
+2012,2,Sydney,Fremantle,SCG,22242
+2012,2,West Coast,Melbourne,Subiaco,35674
+2012,3,Carlton,Collingwood,MCG,84259
+2012,3,Fremantle,Brisbane,Subiaco,33473
+2012,3,Gold Coast,Essendon,Metricon Stadium,17069
+2012,3,GWS,West Coast,Blacktown,6875
+2012,3,Hawthorn,Adelaide,MCG,33524
+2012,3,North Melbourne,Geelong,Marvel Stadium,29630
+2012,3,Port Adelaide,Sydney,Football Park,19032
+2012,3,Richmond,Melbourne,MCG,49826
+2012,3,Western Bulldogs,St Kilda,Marvel Stadium,28971
+2012,4,Adelaide,GWS,Football Park,28261
+2012,4,Brisbane,Gold Coast,Gabba,21980
+2012,4,Carlton,Essendon,MCG,73172
+2012,4,Collingwood,Port Adelaide,Marvel Stadium,30741
+2012,4,Geelong,Richmond,GMHBA Stadium,21952
+2012,4,Melbourne,Western Bulldogs,MCG,33565
+2012,4,St Kilda,Fremantle,Marvel Stadium,30172
+2012,4,Sydney,North Melbourne,SCG,21049
+2012,4,West Coast,Hawthorn,Subiaco,40080
+2012,5,Adelaide,Port Adelaide,Football Park,41649
+2012,5,Brisbane,Geelong,Gabba,15534
+2012,5,Collingwood,Essendon,MCG,86932
+2012,5,Fremantle,Carlton,Subiaco,38847
+2012,5,GWS,Western Bulldogs,UNSW Canberra Oval,9128
+2012,5,Hawthorn,Sydney,University of Tasmania Stadium,19217
+2012,5,Melbourne,St Kilda,MCG,24877
+2012,5,North Melbourne,Gold Coast,Marvel Stadium,17680
+2012,5,Richmond,West Coast,Marvel Stadium,28464
+2012,6,Carlton,GWS,Marvel Stadium,28213
+2012,6,Essendon,Brisbane,Marvel Stadium,36361
+2012,6,Geelong,Melbourne,GMHBA Stadium,18010
+2012,6,Gold Coast,Fremantle,Metricon Stadium,11670
+2012,6,Port Adelaide,Richmond,Football Park,18522
+2012,6,St Kilda,Hawthorn,MCG,42290
+2012,6,Sydney,Adelaide,SCG,23969
+2012,6,West Coast,North Melbourne,Subiaco,37202
+2012,6,Western Bulldogs,Collingwood,Marvel Stadium,38155
+2012,7,Adelaide,Geelong,Football Park,35535
+2012,7,Brisbane,Collingwood,Gabba,27926
+2012,7,Essendon,West Coast,Marvel Stadium,43260
+2012,7,Fremantle,Port Adelaide,Subiaco,30079
+2012,7,GWS,Gold Coast,UNSW Canberra Oval,8603
+2012,7,Melbourne,Hawthorn,MCG,36430
+2012,7,North Melbourne,Western Bulldogs,Marvel Stadium,20885
+2012,7,Richmond,Sydney,MCG,40352
+2012,7,St Kilda,Carlton,Marvel Stadium,38823
+2012,8,Brisbane,GWS,Gabba,16049
+2012,8,Carlton,Adelaide,Marvel Stadium,35917
+2012,8,Collingwood,Geelong,MCG,75650
+2012,8,Essendon,Richmond,MCG,80900
+2012,8,Hawthorn,Fremantle,University of Tasmania Stadium,12959
+2012,8,Port Adelaide,North Melbourne,Football Park,14508
+2012,8,Sydney,Melbourne,SCG,20818
+2012,8,West Coast,St Kilda,Subiaco,38174
+2012,8,Western Bulldogs,Gold Coast,TIO Stadium,8724
+2012,9,Adelaide,Collingwood,Football Park,44238
+2012,9,Carlton,Melbourne,MCG,28371
+2012,9,Gold Coast,Port Adelaide,Metricon Stadium,12416
+2012,9,GWS,Essendon,GIANTS Stadium,11887
+2012,9,North Melbourne,Brisbane,Marvel Stadium,19988
+2012,9,Richmond,Hawthorn,MCG,51617
+2012,9,St Kilda,Sydney,Marvel Stadium,34737
+2012,9,West Coast,Fremantle,Subiaco,40905
+2012,9,Western Bulldogs,Geelong,Marvel Stadium,29118
+2012,10,Brisbane,West Coast,Gabba,15546
+2012,10,Collingwood,Gold Coast,MCG,36913
+2012,10,Essendon,Melbourne,MCG,42987
+2012,10,Fremantle,Adelaide,Subiaco,31392
+2012,10,Geelong,GWS,GMHBA Stadium,17243
+2012,10,Hawthorn,North Melbourne,University of Tasmania Stadium,16143
+2012,10,Port Adelaide,Carlton,Football Park,24746
+2012,10,St Kilda,Richmond,Marvel Stadium,49337
+2012,10,Sydney,Western Bulldogs,SCG,13505
+2012,11,Carlton,Geelong,Marvel Stadium,47632
+2012,11,Essendon,Sydney,Marvel Stadium,42785
+2012,11,Gold Coast,St Kilda,Metricon Stadium,12534
+2012,11,Melbourne,Collingwood,MCG,64250
+2012,11,Port Adelaide,Hawthorn,Football Park,26638
+2012,11,Richmond,Fremantle,MCG,43801
+2012,12,Adelaide,St Kilda,Football Park,36394
+2012,12,Gold Coast,North Melbourne,Metricon Stadium,10170
+2012,12,GWS,Richmond,GIANTS Stadium,7538
+2012,12,Hawthorn,Brisbane,MCG,35492
+2012,12,West Coast,Carlton,Subiaco,34224
+2012,12,Western Bulldogs,Port Adelaide,Marvel Stadium,16036
+2012,13,Collingwood,West Coast,MCG,62957
+2012,13,Fremantle,Essendon,Subiaco,34567
+2012,13,Melbourne,GWS,MCG,20070
+2012,13,North Melbourne,Adelaide,Marvel Stadium,18866
+2012,13,Sydney,Geelong,SCG,27400
+2012,13,Western Bulldogs,Brisbane,Marvel Stadium,20146
+2012,14,Adelaide,Richmond,Football Park,33780
+2012,14,Brisbane,Melbourne,Gabba,22144
+2012,14,Carlton,Hawthorn,MCG,65047
+2012,14,Collingwood,Fremantle,MCG,44891
+2012,14,Essendon,Western Bulldogs,Marvel Stadium,40824
+2012,14,Geelong,Port Adelaide,GMHBA Stadium,13736
+2012,14,St Kilda,North Melbourne,Marvel Stadium,33106
+2012,14,Sydney,GWS,ANZ Stadium,22565
+2012,14,West Coast,Gold Coast,Subiaco,34592
+2012,15,Collingwood,Carlton,MCG,75890
+2012,15,Fremantle,Western Bulldogs,Subiaco,30420
+2012,15,Gold Coast,Geelong,Metricon Stadium,15824
+2012,15,Hawthorn,GWS,MCG,26518
+2012,15,Melbourne,Richmond,MCG,46773
+2012,15,North Melbourne,West Coast,Blundstone Arena,14113
+2012,15,Port Adelaide,Adelaide,Football Park,34829
+2012,15,St Kilda,Essendon,Marvel Stadium,45838
+2012,15,Sydney,Brisbane,SCG,19419
+2012,16,Brisbane,St Kilda,Gabba,19228
+2012,16,Geelong,Collingwood,MCG,61717
+2012,16,GWS,Adelaide,GIANTS Stadium,7669
+2012,16,Melbourne,Fremantle,Marvel Stadium,13284
+2012,16,North Melbourne,Carlton,Marvel Stadium,46423
+2012,16,Port Adelaide,Essendon,Football Park,17344
+2012,16,Richmond,Gold Coast,Cazaly's Stadium,10961
+2012,16,West Coast,Sydney,Subiaco,39152
+2012,16,Western Bulldogs,Hawthorn,Marvel Stadium,24754
+2012,17,Adelaide,West Coast,Football Park,40724
+2012,17,Collingwood,Hawthorn,MCG,83714
+2012,17,Fremantle,GWS,Subiaco,28767
+2012,17,Geelong,Essendon,Marvel Stadium,50066
+2012,17,Gold Coast,Brisbane,Metricon Stadium,16550
+2012,17,Melbourne,Port Adelaide,TIO Stadium,6714
+2012,17,Richmond,North Melbourne,MCG,47432
+2012,17,Sydney,St Kilda,SCG,26834
+2012,17,Western Bulldogs,Carlton,Marvel Stadium,24615
+2012,18,Carlton,Richmond,MCG,46013
+2012,18,Essendon,Hawthorn,Marvel Stadium,44899
+2012,18,Geelong,Adelaide,GMHBA Stadium,18377
+2012,18,Gold Coast,Sydney,Metricon Stadium,11169
+2012,18,GWS,Collingwood,GIANTS Stadium,8102
+2012,18,North Melbourne,Melbourne,Marvel Stadium,20816
+2012,18,Port Adelaide,Fremantle,Football Park,14583
+2012,18,St Kilda,Western Bulldogs,Marvel Stadium,23498
+2012,18,West Coast,Brisbane,Subiaco,35767
+2012,19,Adelaide,Essendon,Football Park,40030
+2012,19,Brisbane,Richmond,Gabba,22193
+2012,19,Carlton,Sydney,Marvel Stadium,36942
+2012,19,Collingwood,St Kilda,MCG,57873
+2012,19,Fremantle,West Coast,Subiaco,39694
+2012,19,GWS,Port Adelaide,GIANTS Stadium,6811
+2012,19,Hawthorn,Geelong,MCG,65287
+2012,19,Melbourne,Gold Coast,MCG,18097
+2012,19,Western Bulldogs,North Melbourne,Marvel Stadium,21599
+2012,20,Adelaide,Fremantle,Football Park,35027
+2012,20,Carlton,Brisbane,Marvel Stadium,25977
+2012,20,Essendon,North Melbourne,Marvel Stadium,42674
+2012,20,Gold Coast,GWS,Metricon Stadium,14657
+2012,20,Hawthorn,Port Adelaide,University of Tasmania Stadium,14431
+2012,20,Richmond,Western Bulldogs,MCG,28286
+2012,20,St Kilda,Melbourne,MCG,23464
+2012,20,Sydney,Collingwood,ANZ Stadium,45827
+2012,20,West Coast,Geelong,Subiaco,37812
+2012,21,Brisbane,Adelaide,Gabba,18979
+2012,21,Collingwood,North Melbourne,Marvel Stadium,44956
+2012,21,Essendon,Carlton,MCG,59381
+2012,21,Fremantle,Richmond,Subiaco,32721
+2012,21,Geelong,St Kilda,Marvel Stadium,38169
+2012,21,GWS,Melbourne,UNSW Canberra Oval,7561
+2012,21,Hawthorn,Gold Coast,MCG,23098
+2012,21,Port Adelaide,West Coast,Football Park,13683
+2012,21,Western Bulldogs,Sydney,Marvel Stadium,19396
+2012,22,Geelong,Western Bulldogs,GMHBA Stadium,18047
+2012,22,Gold Coast,Carlton,Metricon Stadium,15251
+2012,22,Melbourne,Adelaide,MCG,18450
+2012,22,North Melbourne,Fremantle,Marvel Stadium,26482
+2012,22,Port Adelaide,Brisbane,Football Park,13953
+2012,22,Richmond,Essendon,MCG,47590
+2012,22,St Kilda,GWS,Marvel Stadium,17327
+2012,22,Sydney,Hawthorn,SCG,31167
+2012,22,West Coast,Collingwood,Subiaco,40527
+2012,23,Adelaide,Gold Coast,Football Park,35463
+2012,23,Brisbane,Western Bulldogs,Gabba,18289
+2012,23,Carlton,St Kilda,Marvel Stadium,31393
+2012,23,Essendon,Collingwood,MCG,56491
+2012,23,Fremantle,Melbourne,Subiaco,32687
+2012,23,Geelong,Sydney,GMHBA Stadium,20045
+2012,23,GWS,North Melbourne,GIANTS Stadium,6696
+2012,23,Hawthorn,West Coast,MCG,50023
+2012,23,Richmond,Port Adelaide,MCG,27893
+2013,1,Adelaide,Essendon,Football Park,42218
+2013,1,Carlton,Richmond,MCG,80971
+2013,1,Fremantle,West Coast,Subiaco,39629
+2013,1,Gold Coast,St Kilda,Metricon Stadium,13832
+2013,1,GWS,Sydney,ANZ Stadium,23690
+2013,1,Hawthorn,Geelong,MCG,76300
+2013,1,Melbourne,Port Adelaide,MCG,22924
+2013,1,North Melbourne,Collingwood,Marvel Stadium,41040
+2013,1,Western Bulldogs,Brisbane,Marvel Stadium,25263
+2013,2,Brisbane,Adelaide,Gabba,21308
+2013,2,Collingwood,Carlton,MCG,84247
+2013,2,Essendon,Melbourne,MCG,51153
+2013,2,Geelong,North Melbourne,Marvel Stadium,34152
+2013,2,Port Adelaide,GWS,Football Park,25122
+2013,2,St Kilda,Richmond,MCG,56783
+2013,2,Sydney,Gold Coast,SCG,20372
+2013,2,West Coast,Hawthorn,Subiaco,38389
+2013,2,Western Bulldogs,Fremantle,Marvel Stadium,19210
+2013,3,Collingwood,Hawthorn,MCG,72254
+2013,3,Fremantle,Essendon,Subiaco,35963
+2013,3,Geelong,Carlton,Marvel Stadium,43241
+2013,3,Gold Coast,Brisbane,Metricon Stadium,12961
+2013,3,GWS,St Kilda,UNSW Canberra Oval,11092
+2013,3,Melbourne,West Coast,MCG,18571
+2013,3,North Melbourne,Sydney,Blundstone Arena,13223
+2013,3,Port Adelaide,Adelaide,Football Park,40707
+2013,3,Richmond,Western Bulldogs,Marvel Stadium,44045
+2013,4,Adelaide,Western Bulldogs,Football Park,24684
+2013,4,Gold Coast,Port Adelaide,Metricon Stadium,11332
+2013,4,Hawthorn,Fremantle,University of Tasmania Stadium,12619
+2013,4,Melbourne,GWS,MCG,20018
+2013,4,North Melbourne,Brisbane,Marvel Stadium,22776
+2013,4,Richmond,Collingwood,MCG,81950
+2013,4,St Kilda,Essendon,Marvel Stadium,46965
+2013,4,Sydney,Geelong,SCG,31060
+2013,4,West Coast,Carlton,Subiaco,38674
+2013,5,Brisbane,Melbourne,Gabba,19018
+2013,5,Carlton,Adelaide,MCG,44711
+2013,5,Essendon,Collingwood,MCG,93373
+2013,5,Fremantle,Richmond,Subiaco,36365
+2013,5,GWS,Gold Coast,UNSW Canberra Oval,6832
+2013,5,Hawthorn,North Melbourne,MCG,42103
+2013,5,Port Adelaide,West Coast,Football Park,26132
+2013,5,St Kilda,Sydney,Wellington,22546
+2013,5,Western Bulldogs,Geelong,Marvel Stadium,26153
+2013,6,Adelaide,Hawthorn,Football Park,37324
+2013,6,Carlton,Melbourne,MCG,35286
+2013,6,Collingwood,St Kilda,Marvel Stadium,40071
+2013,6,Essendon,GWS,Marvel Stadium,30143
+2013,6,Gold Coast,Fremantle,Metricon Stadium,10552
+2013,6,North Melbourne,Port Adelaide,Blundstone Arena,10265
+2013,6,Richmond,Geelong,MCG,55625
+2013,6,Sydney,Brisbane,SCG,23315
+2013,6,West Coast,Western Bulldogs,Subiaco,36163
+2013,7,Brisbane,West Coast,Gabba,17614
+2013,7,Fremantle,Collingwood,Subiaco,37214
+2013,7,Geelong,Essendon,Marvel Stadium,53014
+2013,7,GWS,Adelaide,GIANTS Stadium,5830
+2013,7,Hawthorn,Sydney,MCG,54725
+2013,7,Melbourne,Gold Coast,MCG,13304
+2013,7,Port Adelaide,Richmond,Football Park,25372
+2013,7,St Kilda,Carlton,Marvel Stadium,34054
+2013,7,Western Bulldogs,North Melbourne,Marvel Stadium,23690
+2013,8,Adelaide,St Kilda,Football Park,34605
+2013,8,Carlton,Port Adelaide,Marvel Stadium,29936
+2013,8,Collingwood,Geelong,MCG,66768
+2013,8,Essendon,Brisbane,Marvel Stadium,33915
+2013,8,Gold Coast,Western Bulldogs,Metricon Stadium,13520
+2013,8,Hawthorn,GWS,University of Tasmania Stadium,10513
+2013,8,Richmond,Melbourne,MCG,39148
+2013,8,Sydney,Fremantle,SCG,22546
+2013,8,West Coast,North Melbourne,Subiaco,38146
+2013,9,Brisbane,Carlton,Gabba,24037
+2013,9,Collingwood,Sydney,MCG,65306
+2013,9,Fremantle,Melbourne,Subiaco,32950
+2013,9,GWS,West Coast,GIANTS Stadium,6324
+2013,9,Hawthorn,Gold Coast,MCG,28112
+2013,9,North Melbourne,Adelaide,Marvel Stadium,23033
+2013,9,Port Adelaide,Geelong,Football Park,21309
+2013,9,Richmond,Essendon,MCG,84234
+2013,9,St Kilda,Western Bulldogs,Marvel Stadium,25982
+2013,10,Adelaide,Fremantle,Football Park,27684
+2013,10,Brisbane,Collingwood,Gabba,26626
+2013,10,Carlton,GWS,Marvel Stadium,25008
+2013,10,Geelong,Gold Coast,GMHBA Stadium,30087
+2013,10,Melbourne,Hawthorn,MCG,28546
+2013,10,North Melbourne,St Kilda,Marvel Stadium,25658
+2013,10,Sydney,Essendon,SCG,29792
+2013,10,West Coast,Richmond,Subiaco,37781
+2013,10,Western Bulldogs,Port Adelaide,TIO Stadium,7850
+2013,11,Adelaide,Sydney,Football Park,38374
+2013,11,Essendon,Carlton,MCG,82639
+2013,11,Gold Coast,North Melbourne,Metricon Stadium,10891
+2013,11,GWS,Geelong,GIANTS Stadium,7809
+2013,11,Melbourne,Collingwood,MCG,50835
+2013,11,St Kilda,West Coast,Marvel Stadium,23795
+2013,12,Carlton,Hawthorn,Marvel Stadium,45670
+2013,12,Collingwood,Western Bulldogs,Marvel Stadium,32253
+2013,12,Essendon,Gold Coast,Marvel Stadium,31452
+2013,12,Fremantle,Brisbane,Subiaco,33384
+2013,12,GWS,Port Adelaide,GIANTS Stadium,6601
+2013,12,Richmond,Adelaide,MCG,43615
+2013,13,Brisbane,Geelong,Gabba,24164
+2013,13,Fremantle,North Melbourne,Subiaco,31637
+2013,13,Hawthorn,West Coast,Marvel Stadium,32567
+2013,13,Port Adelaide,Sydney,Football Park,16096
+2013,13,St Kilda,Melbourne,MCG,28751
+2013,13,Western Bulldogs,Richmond,Marvel Stadium,29788
+2013,14,Geelong,Fremantle,GMHBA Stadium,26743
+2013,14,Gold Coast,Adelaide,Metricon Stadium,13791
+2013,14,Hawthorn,Brisbane,University of Tasmania Stadium,15796
+2013,14,Melbourne,Western Bulldogs,MCG,21217
+2013,14,North Melbourne,GWS,Marvel Stadium,15438
+2013,14,Port Adelaide,Collingwood,Football Park,31121
+2013,14,Richmond,St Kilda,MCG,52184
+2013,14,Sydney,Carlton,SCG,25349
+2013,14,West Coast,Essendon,Subiaco,36451
+2013,15,Adelaide,West Coast,Football Park,26426
+2013,15,Brisbane,Gold Coast,Gabba,27170
+2013,15,Carlton,Collingwood,MCG,78224
+2013,15,Essendon,Port Adelaide,Marvel Stadium,40817
+2013,15,Fremantle,St Kilda,Subiaco,34064
+2013,15,Geelong,Hawthorn,MCG,85197
+2013,15,GWS,Western Bulldogs,UNSW Canberra Oval,7132
+2013,15,Melbourne,Sydney,MCG,26216
+2013,15,North Melbourne,Richmond,Marvel Stadium,45966
+2013,16,Brisbane,North Melbourne,Gabba,18131
+2013,16,Carlton,St Kilda,Marvel Stadium,30949
+2013,16,Collingwood,Adelaide,MCG,54790
+2013,16,Geelong,Melbourne,GMHBA Stadium,23172
+2013,16,Port Adelaide,Hawthorn,Football Park,23748
+2013,16,Richmond,Gold Coast,Cazaly's Stadium,11197
+2013,16,Sydney,GWS,SCG,21757
+2013,16,West Coast,Fremantle,Subiaco,39839
+2013,16,Western Bulldogs,Essendon,Marvel Stadium,32500
+2013,17,Adelaide,Geelong,Football Park,28603
+2013,17,Gold Coast,Collingwood,Metricon Stadium,19721
+2013,17,GWS,Essendon,GIANTS Stadium,10783
+2013,17,Hawthorn,Western Bulldogs,University of Tasmania Stadium,14022
+2013,17,Melbourne,Brisbane,TIO Stadium,7615
+2013,17,North Melbourne,Carlton,Marvel Stadium,37443
+2013,17,Richmond,Fremantle,MCG,40125
+2013,17,St Kilda,Port Adelaide,Marvel Stadium,14878
+2013,17,West Coast,Sydney,Subiaco,35166
+2013,18,Collingwood,GWS,MCG,32691
+2013,18,Essendon,Hawthorn,Marvel Stadium,49505
+2013,18,Fremantle,Adelaide,Subiaco,28765
+2013,18,Geelong,St Kilda,GMHBA Stadium,26833
+2013,18,Gold Coast,Carlton,Metricon Stadium,19460
+2013,18,Melbourne,North Melbourne,Marvel Stadium,16962
+2013,18,Port Adelaide,Brisbane,Football Park,22631
+2013,18,Sydney,Richmond,SCG,29738
+2013,18,Western Bulldogs,West Coast,Marvel Stadium,17019
+2013,19,Adelaide,Port Adelaide,Football Park,43368
+2013,19,Brisbane,St Kilda,Gabba,19856
+2013,19,Carlton,Fremantle,Marvel Stadium,30457
+2013,19,Collingwood,Essendon,MCG,69821
+2013,19,GWS,Melbourne,GIANTS Stadium,8308
+2013,19,Hawthorn,Richmond,MCG,64324
+2013,19,North Melbourne,Geelong,Marvel Stadium,33584
+2013,19,West Coast,Gold Coast,Subiaco,32140
+2013,19,Western Bulldogs,Sydney,Marvel Stadium,22647
+2013,20,Adelaide,North Melbourne,Football Park,31801
+2013,20,Carlton,Western Bulldogs,Marvel Stadium,31126
+2013,20,Essendon,West Coast,Marvel Stadium,32595
+2013,20,Fremantle,GWS,Subiaco,31390
+2013,20,Geelong,Port Adelaide,GMHBA Stadium,24784
+2013,20,Gold Coast,Melbourne,Metricon Stadium,13840
+2013,20,Richmond,Brisbane,MCG,46961
+2013,20,St Kilda,Hawthorn,Marvel Stadium,24765
+2013,20,Sydney,Collingwood,ANZ Stadium,42627
+2013,21,Brisbane,GWS,Gabba,13855
+2013,21,Essendon,North Melbourne,Marvel Stadium,34102
+2013,21,Hawthorn,Collingwood,MCG,71533
+2013,21,Melbourne,Fremantle,MCG,13768
+2013,21,Port Adelaide,Gold Coast,Football Park,18703
+2013,21,Richmond,Carlton,MCG,60825
+2013,21,Sydney,St Kilda,SCG,26730
+2013,21,West Coast,Geelong,Subiaco,34394
+2013,21,Western Bulldogs,Adelaide,Marvel Stadium,17159
+2013,22,Adelaide,Melbourne,Football Park,34653
+2013,22,Brisbane,Western Bulldogs,Gabba,20130
+2013,22,Carlton,Essendon,MCG,53630
+2013,22,Collingwood,West Coast,MCG,41198
+2013,22,Fremantle,Port Adelaide,Subiaco,35565
+2013,22,Geelong,Sydney,GMHBA Stadium,28459
+2013,22,GWS,Richmond,GIANTS Stadium,12314
+2013,22,North Melbourne,Hawthorn,Marvel Stadium,33039
+2013,22,St Kilda,Gold Coast,Marvel Stadium,17622
+2013,23,Collingwood,North Melbourne,MCG,50958
+2013,23,Essendon,Richmond,MCG,60979
+2013,23,Geelong,Brisbane,GMHBA Stadium,27467
+2013,23,Gold Coast,GWS,Metricon Stadium,13080
+2013,23,Port Adelaide,Carlton,Football Park,45127
+2013,23,St Kilda,Fremantle,Marvel Stadium,22476
+2013,23,Sydney,Hawthorn,ANZ Stadium,37980
+2013,23,West Coast,Adelaide,Subiaco,29416
+2013,23,Western Bulldogs,Melbourne,Marvel Stadium,22176
+2014,1,Carlton,Port Adelaide,Marvel Stadium,24640
+2014,1,Collingwood,Fremantle,Marvel Stadium,37571
+2014,1,Geelong,Adelaide,GMHBA Stadium,23622
+2014,1,Gold Coast,Richmond,Metricon Stadium,19425
+2014,1,GWS,Sydney,GIANTS Stadium,17102
+2014,1,Hawthorn,Brisbane,University of Tasmania Stadium,12430
+2014,1,North Melbourne,Essendon,Marvel Stadium,42332
+2014,1,St Kilda,Melbourne,Marvel Stadium,31657
+2014,1,West Coast,Western Bulldogs,Subiaco,36752
+2014,2,Brisbane,Geelong,Gabba,20933
+2014,2,Essendon,Hawthorn,Marvel Stadium,44163
+2014,2,Fremantle,Gold Coast,Subiaco,35583
+2014,2,Melbourne,West Coast,MCG,22230
+2014,2,Port Adelaide,Adelaide,Adelaide Oval,50397
+2014,2,Richmond,Carlton,MCG,62037
+2014,2,St Kilda,GWS,Marvel Stadium,19640
+2014,2,Sydney,Collingwood,ANZ Stadium,32347
+2014,2,Western Bulldogs,North Melbourne,Marvel Stadium,28512
+2014,3,Adelaide,Sydney,Adelaide Oval,47426
+2014,3,Collingwood,Geelong,MCG,63152
+2014,3,Essendon,Carlton,MCG,62730
+2014,3,Gold Coast,Brisbane,Metricon Stadium,16593
+2014,3,GWS,Melbourne,GIANTS Stadium,7016
+2014,3,Hawthorn,Fremantle,MCG,43583
+2014,3,North Melbourne,Port Adelaide,Marvel Stadium,19111
+2014,3,West Coast,St Kilda,Subiaco,36448
+2014,3,Western Bulldogs,Richmond,Marvel Stadium,31724
+2014,4,Carlton,Melbourne,MCG,37323
+2014,4,Fremantle,Essendon,Subiaco,36722
+2014,4,Geelong,West Coast,GMHBA Stadium,25271
+2014,4,Gold Coast,Hawthorn,Metricon Stadium,17729
+2014,4,GWS,Western Bulldogs,UNSW Canberra Oval,7863
+2014,4,Port Adelaide,Brisbane,Adelaide Oval,36231
+2014,4,Richmond,Collingwood,MCG,62100
+2014,4,St Kilda,Adelaide,Marvel Stadium,22923
+2014,4,Sydney,North Melbourne,SCG,25505
+2014,5,Adelaide,GWS,Adelaide Oval,44770
+2014,5,Brisbane,Richmond,Gabba,20676
+2014,5,Collingwood,North Melbourne,MCG,57116
+2014,5,Essendon,St Kilda,Marvel Stadium,36041
+2014,5,Geelong,Hawthorn,MCG,80222
+2014,5,Melbourne,Gold Coast,MCG,17243
+2014,5,Sydney,Fremantle,SCG,25376
+2014,5,West Coast,Port Adelaide,Subiaco,35366
+2014,5,Western Bulldogs,Carlton,Marvel Stadium,27986
+2014,6,Carlton,West Coast,Marvel Stadium,31005
+2014,6,Collingwood,Essendon,MCG,91731
+2014,6,Fremantle,North Melbourne,Subiaco,37624
+2014,6,Gold Coast,GWS,Metricon Stadium,11504
+2014,6,Melbourne,Sydney,MCG,24855
+2014,6,Port Adelaide,Geelong,Adelaide Oval,47007
+2014,6,Richmond,Hawthorn,MCG,52990
+2014,6,St Kilda,Brisbane,Wellington,13409
+2014,6,Western Bulldogs,Adelaide,Marvel Stadium,17404
+2014,7,Adelaide,Melbourne,Adelaide Oval,44216
+2014,7,Brisbane,Sydney,Gabba,17953
+2014,7,Carlton,Collingwood,MCG,68251
+2014,7,Essendon,Western Bulldogs,Marvel Stadium,33289
+2014,7,Geelong,Richmond,MCG,34377
+2014,7,GWS,Port Adelaide,UNSW Canberra Oval,6549
+2014,7,Hawthorn,St Kilda,MCG,32924
+2014,7,North Melbourne,Gold Coast,Marvel Stadium,19819
+2014,7,West Coast,Fremantle,Subiaco,40476
+2014,8,Brisbane,Essendon,Gabba,26522
+2014,8,Melbourne,Western Bulldogs,MCG,36326
+2014,8,Port Adelaide,Fremantle,Adelaide Oval,38234
+2014,8,St Kilda,Carlton,Marvel Stadium,26708
+2014,8,Sydney,Hawthorn,ANZ Stadium,34506
+2014,8,West Coast,GWS,Subiaco,29391
+2014,9,Adelaide,Collingwood,Adelaide Oval,50051
+2014,9,Essendon,Sydney,Marvel Stadium,41098
+2014,9,Fremantle,Geelong,Subiaco,38565
+2014,9,North Melbourne,Brisbane,Marvel Stadium,21152
+2014,9,Richmond,Melbourne,MCG,56910
+2014,9,St Kilda,Gold Coast,Marvel Stadium,14625
+2014,10,Carlton,Adelaide,MCG,32419
+2014,10,Collingwood,West Coast,MCG,53049
+2014,10,Geelong,North Melbourne,GMHBA Stadium,27402
+2014,10,Gold Coast,Western Bulldogs,Metricon Stadium,14235
+2014,10,GWS,Richmond,GIANTS Stadium,8331
+2014,10,Port Adelaide,Hawthorn,Adelaide Oval,52233
+2014,11,Adelaide,Gold Coast,Adelaide Oval,49069
+2014,11,Brisbane,Carlton,Gabba,24625
+2014,11,Essendon,Richmond,MCG,74664
+2014,11,Hawthorn,GWS,MCG,17906
+2014,11,Melbourne,Port Adelaide,TIO Traeger Park,5655
+2014,11,St Kilda,Collingwood,Marvel Stadium,34855
+2014,11,Sydney,Geelong,SCG,37355
+2014,11,West Coast,North Melbourne,Subiaco,35914
+2014,11,Western Bulldogs,Fremantle,Marvel Stadium,14913
+2014,12,Fremantle,Adelaide,Subiaco,35389
+2014,12,Geelong,Carlton,Marvel Stadium,36952
+2014,12,Gold Coast,Sydney,Metricon Stadium,21354
+2014,12,GWS,Essendon,GIANTS Stadium,8429
+2014,12,Hawthorn,West Coast,University of Tasmania Stadium,15504
+2014,12,Melbourne,Collingwood,MCG,68130
+2014,12,North Melbourne,Richmond,Marvel Stadium,32977
+2014,12,Port Adelaide,St Kilda,Adelaide Oval,42374
+2014,12,Western Bulldogs,Brisbane,Marvel Stadium,18054
+2014,13,Adelaide,North Melbourne,Adelaide Oval,47205
+2014,13,Brisbane,GWS,Gabba,12700
+2014,13,Carlton,Hawthorn,MCG,49624
+2014,13,Collingwood,Western Bulldogs,Marvel Stadium,28339
+2014,13,Essendon,Melbourne,MCG,44626
+2014,13,Geelong,St Kilda,GMHBA Stadium,25180
+2014,13,Richmond,Fremantle,MCG,22083
+2014,13,Sydney,Port Adelaide,SCG,41317
+2014,13,West Coast,Gold Coast,Subiaco,32942
+2014,14,Essendon,Adelaide,Marvel Stadium,30948
+2014,14,Fremantle,Brisbane,Subiaco,25152
+2014,14,Gold Coast,Geelong,Metricon Stadium,18236
+2014,14,GWS,Carlton,GIANTS Stadium,9059
+2014,14,Hawthorn,Collingwood,MCG,70516
+2014,14,Melbourne,North Melbourne,MCG,26615
+2014,14,Port Adelaide,Western Bulldogs,Adelaide Oval,34258
+2014,14,Richmond,Sydney,MCG,34648
+2014,14,St Kilda,West Coast,Marvel Stadium,17317
+2014,15,Adelaide,Port Adelaide,Adelaide Oval,50552
+2014,15,Brisbane,North Melbourne,Gabba,15862
+2014,15,Collingwood,Carlton,MCG,40939
+2014,15,Fremantle,West Coast,Subiaco,40490
+2014,15,Geelong,Essendon,Marvel Stadium,43732
+2014,15,Hawthorn,Gold Coast,University of Tasmania Stadium,13178
+2014,15,St Kilda,Richmond,Marvel Stadium,28487
+2014,15,Sydney,GWS,SCG,27778
+2014,15,Western Bulldogs,Melbourne,Marvel Stadium,24953
+2014,16,Carlton,St Kilda,Marvel Stadium,29297
+2014,16,Geelong,Western Bulldogs,GMHBA Stadium,24766
+2014,16,Gold Coast,Collingwood,Metricon Stadium,24032
+2014,16,GWS,Adelaide,GIANTS Stadium,8383
+2014,16,Melbourne,Fremantle,TIO Stadium,9290
+2014,16,North Melbourne,Hawthorn,Marvel Stadium,35025
+2014,16,Port Adelaide,Essendon,Adelaide Oval,46786
+2014,16,Richmond,Brisbane,MCG,34577
+2014,16,West Coast,Sydney,Subiaco,25076
+2014,17,Adelaide,Hawthorn,Adelaide Oval,50321
+2014,17,Brisbane,West Coast,Gabba,13610
+2014,17,Essendon,Collingwood,MCG,58996
+2014,17,Fremantle,GWS,Subiaco,33597
+2014,17,Melbourne,Geelong,MCG,36385
+2014,17,North Melbourne,St Kilda,Blundstone Arena,10641
+2014,17,Richmond,Port Adelaide,Marvel Stadium,21483
+2014,17,Sydney,Carlton,SCG,34965
+2014,17,Western Bulldogs,Gold Coast,Cazaly's Stadium,9746
+2014,18,Brisbane,Gold Coast,Gabba,27167
+2014,18,Carlton,North Melbourne,Marvel Stadium,36689
+2014,18,Collingwood,Adelaide,MCG,41486
+2014,18,GWS,Geelong,GIANTS Stadium,7697
+2014,18,Hawthorn,Sydney,MCG,72768
+2014,18,Port Adelaide,Melbourne,Adelaide Oval,37894
+2014,18,St Kilda,Fremantle,Marvel Stadium,16594
+2014,18,West Coast,Richmond,Subiaco,32270
+2014,18,Western Bulldogs,Essendon,Marvel Stadium,34476
+2014,19,Adelaide,West Coast,Adelaide Oval,49470
+2014,19,Collingwood,Port Adelaide,MCG,32807
+2014,19,Fremantle,Carlton,Subiaco,35401
+2014,19,Gold Coast,St Kilda,Metricon Stadium,12027
+2014,19,Hawthorn,Western Bulldogs,University of Tasmania Stadium,14187
+2014,19,Melbourne,Brisbane,Marvel Stadium,18079
+2014,19,North Melbourne,Geelong,Marvel Stadium,32564
+2014,19,Richmond,GWS,MCG,23095
+2014,19,Sydney,Essendon,SCG,36804
+2014,20,Brisbane,Adelaide,Gabba,19657
+2014,20,Carlton,Gold Coast,Marvel Stadium,28840
+2014,20,Geelong,Fremantle,GMHBA Stadium,26885
+2014,20,GWS,North Melbourne,UNSW Canberra Oval,10211
+2014,20,Hawthorn,Melbourne,MCG,37088
+2014,20,Port Adelaide,Sydney,Adelaide Oval,50087
+2014,20,Richmond,Essendon,MCG,58032
+2014,20,St Kilda,Western Bulldogs,Marvel Stadium,30095
+2014,20,West Coast,Collingwood,Subiaco,36458
+2014,21,Adelaide,Richmond,Adelaide Oval,50459
+2014,21,Carlton,Geelong,Marvel Stadium,38812
+2014,21,Collingwood,Brisbane,MCG,32929
+2014,21,Essendon,West Coast,Marvel Stadium,35905
+2014,21,Fremantle,Hawthorn,Subiaco,38506
+2014,21,Gold Coast,Port Adelaide,Metricon Stadium,10042
+2014,21,Melbourne,GWS,MCG,17227
+2014,21,North Melbourne,Western Bulldogs,Marvel Stadium,27164
+2014,21,Sydney,St Kilda,SCG,31361
+2014,22,Brisbane,Fremantle,Gabba,17473
+2014,22,Essendon,Gold Coast,Marvel Stadium,33281
+2014,22,GWS,Collingwood,GIANTS Stadium,10851
+2014,22,Hawthorn,Geelong,MCG,72216
+2014,22,North Melbourne,Adelaide,Blundstone Arena,10702
+2014,22,Port Adelaide,Carlton,Adelaide Oval,52505
+2014,22,Richmond,St Kilda,MCG,47200
+2014,22,West Coast,Melbourne,Subiaco,35083
+2014,22,Western Bulldogs,Sydney,Marvel Stadium,22430
+2014,23,Adelaide,St Kilda,Adelaide Oval,44969
+2014,23,Carlton,Essendon,MCG,56663
+2014,23,Collingwood,Hawthorn,MCG,48980
+2014,23,Fremantle,Port Adelaide,Subiaco,38209
+2014,23,Geelong,Brisbane,GMHBA Stadium,24659
+2014,23,Gold Coast,West Coast,Metricon Stadium,11840
+2014,23,North Melbourne,Melbourne,Marvel Stadium,17174
+2014,23,Sydney,Richmond,ANZ Stadium,31227
+2014,23,Western Bulldogs,GWS,Marvel Stadium,14725
+2015,1,Adelaide,North Melbourne,Adelaide Oval,45607
+2015,1,Brisbane,Collingwood,Gabba,31240
+2015,1,Carlton,Richmond,MCG,83493
+2015,1,Fremantle,Port Adelaide,Subiaco,34099
+2015,1,Hawthorn,Geelong,MCG,73584
+2015,1,Melbourne,Gold Coast,MCG,27013
+2015,1,St Kilda,GWS,Marvel Stadium,18794
+2015,1,Sydney,Essendon,ANZ Stadium,23274
+2015,1,Western Bulldogs,West Coast,Marvel Stadium,22366
+2015,2,Collingwood,Adelaide,Marvel Stadium,33771
+2015,2,Essendon,Hawthorn,MCG,59866
+2015,2,Geelong,Fremantle,GMHBA Stadium,23723
+2015,2,Gold Coast,St Kilda,Metricon Stadium,13649
+2015,2,GWS,Melbourne,UNSW Canberra Oval,8811
+2015,2,North Melbourne,Brisbane,Marvel Stadium,22275
+2015,2,Port Adelaide,Sydney,Adelaide Oval,49765
+2015,2,Richmond,Western Bulldogs,MCG,49945
+2015,2,West Coast,Carlton,Subiaco,34588
+2015,3,Adelaide,Melbourne,Adelaide Oval,43713
+2015,3,Brisbane,Richmond,Gabba,22441
+2015,3,Carlton,Essendon,MCG,54854
+2015,3,Collingwood,St Kilda,MCG,45197
+2015,3,Geelong,Gold Coast,GMHBA Stadium,20813
+2015,3,Hawthorn,Western Bulldogs,University of Tasmania Stadium,15559
+2015,3,North Melbourne,Port Adelaide,Marvel Stadium,22586
+2015,3,Sydney,GWS,SCG,31966
+2015,3,West Coast,Fremantle,Subiaco,39138
+2015,4,Brisbane,West Coast,Gabba,16632
+2015,4,Essendon,Collingwood,MCG,88395
+2015,4,Fremantle,Sydney,Subiaco,39009
+2015,4,Geelong,North Melbourne,GMHBA Stadium,23452
+2015,4,GWS,Gold Coast,UNSW Canberra Oval,6917
+2015,4,Port Adelaide,Hawthorn,Adelaide Oval,49831
+2015,4,Richmond,Melbourne,MCG,58175
+2015,4,St Kilda,Carlton,Wellington,12125
+2015,4,Western Bulldogs,Adelaide,Marvel Stadium,19915
+2015,5,Adelaide,Port Adelaide,Adelaide Oval,49617
+2015,5,Carlton,Collingwood,MCG,71759
+2015,5,Gold Coast,Brisbane,Metricon Stadium,12464
+2015,5,Melbourne,Fremantle,MCG,22892
+2015,5,North Melbourne,Hawthorn,Marvel Stadium,38077
+2015,5,Richmond,Geelong,MCG,45228
+2015,5,St Kilda,Essendon,Marvel Stadium,29869
+2015,5,Sydney,Western Bulldogs,SCG,25541
+2015,5,West Coast,GWS,Subiaco,34554
+2015,6,Carlton,Brisbane,Marvel Stadium,20273
+2015,6,Collingwood,Geelong,MCG,52152
+2015,6,Fremantle,Essendon,Subiaco,37535
+2015,6,Gold Coast,Adelaide,Metricon Stadium,12464
+2015,6,GWS,Hawthorn,GIANTS Stadium,13556
+2015,6,Melbourne,Sydney,MCG,26894
+2015,6,North Melbourne,Richmond,Blundstone Arena,17544
+2015,6,Port Adelaide,West Coast,Adelaide Oval,38508
+2015,6,Western Bulldogs,St Kilda,Marvel Stadium,29619
+2015,7,Adelaide,St Kilda,Adelaide Oval,43532
+2015,7,Brisbane,Port Adelaide,Gabba,15957
+2015,7,Carlton,GWS,Marvel Stadium,16676
+2015,7,Essendon,North Melbourne,Marvel Stadium,43972
+2015,7,Hawthorn,Melbourne,MCG,41935
+2015,7,Richmond,Collingwood,MCG,59034
+2015,7,Sydney,Geelong,ANZ Stadium,28063
+2015,7,West Coast,Gold Coast,Subiaco,26964
+2015,7,Western Bulldogs,Fremantle,Marvel Stadium,18170
+2015,8,Essendon,Brisbane,Marvel Stadium,36857
+2015,8,Fremantle,North Melbourne,Subiaco,35836
+2015,8,Geelong,Carlton,Marvel Stadium,32032
+2015,8,Gold Coast,Collingwood,Metricon Stadium,16440
+2015,8,GWS,Adelaide,GIANTS Stadium,9481
+2015,8,Hawthorn,Sydney,MCG,63319
+2015,8,Melbourne,Western Bulldogs,MCG,29381
+2015,8,Port Adelaide,Richmond,Adelaide Oval,44451
+2015,8,St Kilda,West Coast,Marvel Stadium,23598
+2015,9,Adelaide,Fremantle,Adelaide Oval,45518
+2015,9,Brisbane,St Kilda,Gabba,16898
+2015,9,Collingwood,North Melbourne,MCG,43452
+2015,9,Hawthorn,Gold Coast,University of Tasmania Stadium,11320
+2015,9,Melbourne,Port Adelaide,TIO Traeger Park,4866
+2015,9,Richmond,Essendon,MCG,83804
+2015,9,Sydney,Carlton,SCG,32105
+2015,9,West Coast,Geelong,Subiaco,37676
+2015,9,Western Bulldogs,GWS,Marvel Stadium,16395
+2015,10,Carlton,Adelaide,MCG,32035
+2015,10,Essendon,Geelong,Marvel Stadium,40632
+2015,10,Fremantle,Richmond,Subiaco,38019
+2015,10,Gold Coast,Sydney,Metricon Stadium,13068
+2015,10,GWS,Brisbane,GIANTS Stadium,9079
+2015,10,Melbourne,Collingwood,MCG,66120
+2015,10,North Melbourne,West Coast,Blundstone Arena,12011
+2015,10,Port Adelaide,Western Bulldogs,Adelaide Oval,40907
+2015,10,St Kilda,Hawthorn,Marvel Stadium,33886
+2015,11,Collingwood,GWS,MCG,43390
+2015,11,Gold Coast,Fremantle,Metricon Stadium,8911
+2015,11,North Melbourne,Sydney,Marvel Stadium,32127
+2015,11,Port Adelaide,Geelong,Adelaide Oval,46140
+2015,11,St Kilda,Melbourne,Marvel Stadium,25217
+2015,11,West Coast,Essendon,Subiaco,37306
+2015,12,Adelaide,Hawthorn,Adelaide Oval,49108
+2015,12,Carlton,Port Adelaide,MCG,27693
+2015,12,Geelong,Melbourne,GMHBA Stadium,28007
+2015,12,GWS,North Melbourne,GIANTS Stadium,7824
+2015,12,Richmond,West Coast,MCG,45178
+2015,12,Western Bulldogs,Brisbane,Marvel Stadium,21129
+2015,13,Brisbane,Adelaide,Gabba,18146
+2015,13,Carlton,Gold Coast,Marvel Stadium,30207
+2015,13,Fremantle,Collingwood,Subiaco,37145
+2015,13,Hawthorn,Essendon,MCG,62500
+2015,13,St Kilda,Western Bulldogs,Marvel Stadium,26511
+2015,13,Sydney,Richmond,SCG,37579
+2015,14,Collingwood,Hawthorn,MCG,75880
+2015,14,Essendon,St Kilda,Marvel Stadium,38020
+2015,14,Fremantle,Brisbane,Subiaco,32970
+2015,14,Gold Coast,North Melbourne,Metricon Stadium,14444
+2015,14,Melbourne,West Coast,TIO Stadium,11873
+2015,14,Richmond,GWS,MCG,35968
+2015,14,Sydney,Port Adelaide,SCG,28316
+2015,14,Western Bulldogs,Carlton,Marvel Stadium,31445
+2015,15,Brisbane,Sydney,Gabba,16936
+2015,15,Essendon,Melbourne,MCG,38861
+2015,15,GWS,St Kilda,GIANTS Stadium,9178
+2015,15,Hawthorn,Fremantle,University of Tasmania Stadium,16792
+2015,15,North Melbourne,Geelong,Marvel Stadium,31270
+2015,15,Port Adelaide,Collingwood,Adelaide Oval,44496
+2015,15,Richmond,Carlton,MCG,52564
+2015,15,West Coast,Adelaide,Subiaco,38133
+2015,15,Western Bulldogs,Gold Coast,Cazaly's Stadium,9449
+2015,16,Collingwood,West Coast,Marvel Stadium,36527
+2015,16,Fremantle,Carlton,Subiaco,33581
+2015,16,Geelong,Western Bulldogs,GMHBA Stadium,25041
+2015,16,Gold Coast,GWS,Metricon Stadium,9589
+2015,16,Melbourne,Brisbane,MCG,25149
+2015,16,North Melbourne,Essendon,Marvel Stadium,31025
+2015,16,Port Adelaide,Adelaide,Adelaide Oval,53518
+2015,16,St Kilda,Richmond,Marvel Stadium,45722
+2015,16,Sydney,Hawthorn,ANZ Stadium,37369
+2015,17,Adelaide,Gold Coast,Adelaide Oval,41715
+2015,17,Brisbane,North Melbourne,Gabba,15563
+2015,17,Carlton,Hawthorn,Marvel Stadium,26815
+2015,17,Essendon,Port Adelaide,Marvel Stadium,23705
+2015,17,GWS,Geelong,UNSW Canberra Oval,14667
+2015,17,Melbourne,St Kilda,MCG,22945
+2015,17,Richmond,Fremantle,MCG,39777
+2015,17,West Coast,Sydney,Subiaco,38760
+2015,17,Western Bulldogs,Collingwood,Marvel Stadium,40581
+2015,18,Carlton,North Melbourne,Marvel Stadium,25251
+2015,18,Collingwood,Melbourne,MCG,37894
+2015,18,Essendon,Western Bulldogs,Marvel Stadium,33466
+2015,18,Fremantle,GWS,Subiaco,34625
+2015,18,Geelong,Brisbane,GMHBA Stadium,21913
+2015,18,Gold Coast,West Coast,Metricon Stadium,9341
+2015,18,Hawthorn,Richmond,MCG,66305
+2015,18,Port Adelaide,St Kilda,Adelaide Oval,35977
+2015,18,Sydney,Adelaide,SCG,38690
+2015,19,Adelaide,Richmond,Adelaide Oval,49116
+2015,19,Brisbane,Gold Coast,Gabba,19920
+2015,19,Collingwood,Carlton,MCG,48133
+2015,19,Geelong,Sydney,GMHBA Stadium,27910
+2015,19,GWS,Essendon,GIANTS Stadium,10093
+2015,19,Melbourne,North Melbourne,MCG,30695
+2015,19,St Kilda,Fremantle,Marvel Stadium,16409
+2015,19,West Coast,Hawthorn,Subiaco,34843
+2015,19,Western Bulldogs,Port Adelaide,Marvel Stadium,20590
+2015,20,Brisbane,Carlton,Gabba,17744
+2015,20,Essendon,Adelaide,Marvel Stadium,25914
+2015,20,Fremantle,West Coast,Subiaco,41959
+2015,20,Geelong,Hawthorn,MCG,55802
+2015,20,North Melbourne,St Kilda,Blundstone Arena,14346
+2015,20,Port Adelaide,GWS,Adelaide Oval,32436
+2015,20,Richmond,Gold Coast,MCG,38508
+2015,20,Sydney,Collingwood,SCG,38408
+2015,20,Western Bulldogs,Melbourne,Marvel Stadium,27805
+2015,21,Adelaide,Brisbane,Adelaide Oval,46609
+2015,21,Carlton,Melbourne,MCG,33962
+2015,21,Collingwood,Richmond,MCG,63178
+2015,21,Gold Coast,Essendon,Metricon Stadium,16253
+2015,21,GWS,Sydney,GIANTS Stadium,19507
+2015,21,Hawthorn,Port Adelaide,Marvel Stadium,28657
+2015,21,North Melbourne,Fremantle,Marvel Stadium,23857
+2015,21,St Kilda,Geelong,Marvel Stadium,25245
+2015,21,West Coast,Western Bulldogs,Subiaco,37733
+2015,22,Adelaide,West Coast,Adelaide Oval,52460
+2015,22,Essendon,Richmond,MCG,37864
+2015,22,Fremantle,Melbourne,Subiaco,33529
+2015,22,Geelong,Collingwood,MCG,40582
+2015,22,Gold Coast,Port Adelaide,Metricon Stadium,9343
+2015,22,GWS,Carlton,GIANTS Stadium,9538
+2015,22,Hawthorn,Brisbane,University of Tasmania Stadium,11731
+2015,22,North Melbourne,Western Bulldogs,Marvel Stadium,37299
+2015,22,St Kilda,Sydney,Marvel Stadium,27856
+2015,23,Brisbane,Western Bulldogs,Gabba,15434
+2015,23,Collingwood,Essendon,MCG,40270
+2015,23,Geelong,Adelaide,GMHBA Stadium,26128
+2015,23,Hawthorn,Carlton,MCG,33182
+2015,23,Melbourne,GWS,Marvel Stadium,8974
+2015,23,Port Adelaide,Fremantle,Adelaide Oval,37922
+2015,23,Richmond,North Melbourne,Marvel Stadium,40461
+2015,23,Sydney,Gold Coast,SCG,25424
+2015,23,West Coast,St Kilda,Subiaco,36165
+2016,1,Geelong,Hawthorn,MCG,74218
+2016,1,Gold Coast,Essendon,Metricon Stadium,16239
+2016,1,Melbourne,GWS,MCG,28505
+2016,1,North Melbourne,Adelaide,Marvel Stadium,25485
+2016,1,Port Adelaide,St Kilda,Adelaide Oval,42896
+2016,1,Richmond,Carlton,MCG,75706
+2016,1,Sydney,Collingwood,SCG,33857
+2016,1,West Coast,Brisbane,Subiaco,35201
+2016,1,Western Bulldogs,Fremantle,Marvel Stadium,27832
+2016,2,Adelaide,Port Adelaide,Adelaide Oval,50555
+2016,2,Brisbane,North Melbourne,Gabba,18021
+2016,2,Carlton,Sydney,Marvel Stadium,33146
+2016,2,Collingwood,Richmond,MCG,72761
+2016,2,Essendon,Melbourne,MCG,50424
+2016,2,Fremantle,Gold Coast,Subiaco,34208
+2016,2,GWS,Geelong,UNSW Canberra Oval,13656
+2016,2,Hawthorn,West Coast,MCG,42977
+2016,2,St Kilda,Western Bulldogs,Marvel Stadium,37353
+2016,3,Geelong,Brisbane,GMHBA Stadium,23320
+2016,3,Gold Coast,Carlton,Metricon Stadium,13885
+2016,3,North Melbourne,Melbourne,Blundstone Arena,12607
+2016,3,Port Adelaide,Essendon,Adelaide Oval,43663
+2016,3,Richmond,Adelaide,Marvel Stadium,29951
+2016,3,St Kilda,Collingwood,MCG,50903
+2016,3,Sydney,GWS,SCG,37045
+2016,3,West Coast,Fremantle,Subiaco,40555
+2016,3,Western Bulldogs,Hawthorn,Marvel Stadium,46808
+2016,4,Adelaide,Sydney,Adelaide Oval,50369
+2016,4,Brisbane,Gold Coast,Gabba,20041
+2016,4,Carlton,Western Bulldogs,Marvel Stadium,27622
+2016,4,Collingwood,Melbourne,MCG,47558
+2016,4,Essendon,Geelong,MCG,42723
+2016,4,GWS,Port Adelaide,UNSW Canberra Oval,10028
+2016,4,Hawthorn,St Kilda,University of Tasmania Stadium,17052
+2016,4,North Melbourne,Fremantle,Marvel Stadium,23393
+2016,4,West Coast,Richmond,Subiaco,38860
+2016,5,Collingwood,Essendon,MCG,85082
+2016,5,Fremantle,Carlton,Subiaco,34796
+2016,5,Gold Coast,North Melbourne,Metricon Stadium,13351
+2016,5,Hawthorn,Adelaide,MCG,45781
+2016,5,Melbourne,Richmond,MCG,60867
+2016,5,Port Adelaide,Geelong,Adelaide Oval,43984
+2016,5,St Kilda,GWS,Marvel Stadium,21052
+2016,5,Sydney,West Coast,SCG,35427
+2016,5,Western Bulldogs,Brisbane,Marvel Stadium,25097
+2016,6,Adelaide,Fremantle,Adelaide Oval,46431
+2016,6,Brisbane,Sydney,Gabba,14646
+2016,6,Carlton,Essendon,MCG,43827
+2016,6,Geelong,Gold Coast,GMHBA Stadium,23007
+2016,6,GWS,Hawthorn,GIANTS Stadium,13766
+2016,6,Melbourne,St Kilda,Marvel Stadium,27260
+2016,6,North Melbourne,Western Bulldogs,Marvel Stadium,47622
+2016,6,Richmond,Port Adelaide,MCG,27077
+2016,6,West Coast,Collingwood,Subiaco,37931
+2016,7,Collingwood,Carlton,MCG,60222
+2016,7,Fremantle,GWS,Subiaco,28201
+2016,7,Geelong,West Coast,GMHBA Stadium,25429
+2016,7,Gold Coast,Melbourne,Metricon Stadium,12780
+2016,7,Port Adelaide,Brisbane,Adelaide Oval,31544
+2016,7,Richmond,Hawthorn,MCG,49678
+2016,7,St Kilda,North Melbourne,Marvel Stadium,27254
+2016,7,Sydney,Essendon,SCG,29527
+2016,7,Western Bulldogs,Adelaide,Marvel Stadium,26984
+2016,8,Adelaide,Geelong,Adelaide Oval,53141
+2016,8,Brisbane,Collingwood,Gabba,24552
+2016,8,Carlton,Port Adelaide,Marvel Stadium,26924
+2016,8,Essendon,North Melbourne,Marvel Stadium,30321
+2016,8,GWS,Gold Coast,GIANTS Stadium,8308
+2016,8,Hawthorn,Fremantle,University of Tasmania Stadium,12012
+2016,8,Melbourne,Western Bulldogs,MCG,39921
+2016,8,Richmond,Sydney,MCG,36014
+2016,8,West Coast,St Kilda,Subiaco,36140
+2016,9,Collingwood,Geelong,MCG,59864
+2016,9,Fremantle,Richmond,Subiaco,20184
+2016,9,Gold Coast,Adelaide,Metricon Stadium,11692
+2016,9,GWS,Western Bulldogs,GIANTS Stadium,9612
+2016,9,Hawthorn,Sydney,MCG,61552
+2016,9,Melbourne,Brisbane,MCG,26892
+2016,9,North Melbourne,Carlton,Marvel Stadium,38419
+2016,9,Port Adelaide,West Coast,Adelaide Oval,38695
+2016,9,St Kilda,Essendon,Marvel Stadium,29026
+2016,10,Adelaide,GWS,Adelaide Oval,46737
+2016,10,Brisbane,Hawthorn,Gabba,23691
+2016,10,Carlton,Geelong,Marvel Stadium,33535
+2016,10,Collingwood,Western Bulldogs,MCG,45078
+2016,10,Essendon,Richmond,MCG,56948
+2016,10,Melbourne,Port Adelaide,TIO Traeger Park,5146
+2016,10,St Kilda,Fremantle,Marvel Stadium,17927
+2016,10,Sydney,North Melbourne,SCG,38498
+2016,10,West Coast,Gold Coast,Subiaco,34945
+2016,11,Adelaide,St Kilda,Adelaide Oval,40896
+2016,11,Carlton,Brisbane,Marvel Stadium,30722
+2016,11,Collingwood,Port Adelaide,MCG,28567
+2016,11,Fremantle,Essendon,Subiaco,31199
+2016,11,Geelong,GWS,GMHBA Stadium,22007
+2016,11,Gold Coast,Sydney,Metricon Stadium,4368
+2016,11,Hawthorn,Melbourne,MCG,41833
+2016,11,North Melbourne,Richmond,Blundstone Arena,17844
+2016,11,Western Bulldogs,West Coast,Marvel Stadium,28769
+2016,12,Brisbane,Fremantle,Gabba,12899
+2016,12,Essendon,Hawthorn,Marvel Stadium,27567
+2016,12,Geelong,North Melbourne,Marvel Stadium,44025
+2016,12,GWS,Sydney,GIANTS Stadium,21541
+2016,12,Melbourne,Collingwood,MCG,60158
+2016,12,Port Adelaide,Western Bulldogs,Adelaide Oval,40096
+2016,12,Richmond,Gold Coast,MCG,30448
+2016,12,St Kilda,Carlton,Marvel Stadium,47945
+2016,12,West Coast,Adelaide,Subiaco,37591
+2016,13,Brisbane,West Coast,Gabba,12777
+2016,13,Essendon,GWS,Marvel Stadium,14463
+2016,13,Fremantle,Port Adelaide,Subiaco,32448
+2016,13,North Melbourne,Hawthorn,Marvel Stadium,37073
+2016,13,Sydney,Melbourne,SCG,19086
+2016,13,Western Bulldogs,Geelong,Marvel Stadium,41725
+2016,14,Adelaide,North Melbourne,Adelaide Oval,37890
+2016,14,Collingwood,Fremantle,MCG,20320
+2016,14,GWS,Carlton,GIANTS Stadium,10355
+2016,14,Hawthorn,Gold Coast,University of Tasmania Stadium,10121
+2016,14,Richmond,Brisbane,MCG,28883
+2016,14,St Kilda,Geelong,Marvel Stadium,28745
+2016,15,Carlton,Collingwood,MCG,56157
+2016,15,Gold Coast,St Kilda,Metricon Stadium,14071
+2016,15,Melbourne,Adelaide,MCG,29133
+2016,15,Port Adelaide,Richmond,Adelaide Oval,37848
+2016,15,Sydney,Western Bulldogs,SCG,33386
+2016,15,West Coast,Essendon,Subiaco,33117
+2016,16,Carlton,Adelaide,MCG,32430
+2016,16,Essendon,St Kilda,Marvel Stadium,25204
+2016,16,Geelong,Sydney,GMHBA Stadium,24339
+2016,16,Gold Coast,Brisbane,Metricon Stadium,13528
+2016,16,GWS,Collingwood,GIANTS Stadium,13483
+2016,16,Melbourne,Fremantle,TIO Stadium,8163
+2016,16,Port Adelaide,Hawthorn,Adelaide Oval,43025
+2016,16,West Coast,North Melbourne,Subiaco,35618
+2016,16,Western Bulldogs,Richmond,Marvel Stadium,39679
+2016,17,Adelaide,Collingwood,Adelaide Oval,50002
+2016,17,Brisbane,GWS,Gabba,10195
+2016,17,Carlton,West Coast,MCG,26389
+2016,17,Fremantle,Geelong,Subiaco,31042
+2016,17,North Melbourne,Port Adelaide,Marvel Stadium,24361
+2016,17,Richmond,Essendon,MCG,44908
+2016,17,St Kilda,Melbourne,Marvel Stadium,25322
+2016,17,Sydney,Hawthorn,SCG,42314
+2016,17,Western Bulldogs,Gold Coast,Cazaly's Stadium,8509
+2016,18,Collingwood,North Melbourne,Marvel Stadium,36041
+2016,18,Essendon,Brisbane,Marvel Stadium,34869
+2016,18,Geelong,Adelaide,GMHBA Stadium,21127
+2016,18,Gold Coast,Fremantle,Metricon Stadium,8933
+2016,18,Hawthorn,Richmond,MCG,51892
+2016,18,Port Adelaide,GWS,Adelaide Oval,27935
+2016,18,Sydney,Carlton,SCG,31765
+2016,18,West Coast,Melbourne,Subiaco,33908
+2016,18,Western Bulldogs,St Kilda,Marvel Stadium,26532
+2016,19,Adelaide,Essendon,Adelaide Oval,44264
+2016,19,Brisbane,Port Adelaide,Gabba,13085
+2016,19,Collingwood,West Coast,MCG,34929
+2016,19,Fremantle,Sydney,Subiaco,32401
+2016,19,Geelong,Western Bulldogs,GMHBA Stadium,24331
+2016,19,GWS,Richmond,UNSW Canberra Oval,14974
+2016,19,Hawthorn,Carlton,University of Tasmania Stadium,18112
+2016,19,Melbourne,Gold Coast,MCG,20627
+2016,19,North Melbourne,St Kilda,Marvel Stadium,44287
+2016,20,Adelaide,Brisbane,Adelaide Oval,43549
+2016,20,Carlton,St Kilda,MCG,37797
+2016,20,Fremantle,West Coast,Subiaco,36215
+2016,20,Geelong,Essendon,Marvel Stadium,29254
+2016,20,Gold Coast,GWS,Metricon Stadium,9108
+2016,20,Melbourne,Hawthorn,MCG,38818
+2016,20,Richmond,Collingwood,MCG,49122
+2016,20,Sydney,Port Adelaide,SCG,30204
+2016,20,Western Bulldogs,North Melbourne,Marvel Stadium,30740
+2016,21,Brisbane,Carlton,Gabba,17432
+2016,21,Essendon,Gold Coast,Marvel Stadium,16622
+2016,21,Fremantle,Adelaide,Subiaco,30116
+2016,21,GWS,West Coast,GIANTS Stadium,10385
+2016,21,Hawthorn,North Melbourne,MCG,50657
+2016,21,Port Adelaide,Melbourne,Adelaide Oval,33426
+2016,21,Richmond,Geelong,MCG,45667
+2016,21,St Kilda,Sydney,Marvel Stadium,33059
+2016,21,Western Bulldogs,Collingwood,Marvel Stadium,35010
+2016,22,Brisbane,Geelong,Gabba,20477
+2016,22,Carlton,Melbourne,MCG,40693
+2016,22,Collingwood,Gold Coast,Marvel Stadium,17644
+2016,22,Essendon,Western Bulldogs,Marvel Stadium,25308
+2016,22,GWS,Fremantle,GIANTS Stadium,9556
+2016,22,North Melbourne,Sydney,Blundstone Arena,16495
+2016,22,Port Adelaide,Adelaide,Adelaide Oval,49541
+2016,22,Richmond,St Kilda,MCG,35255
+2016,22,West Coast,Hawthorn,Subiaco,38581
+2016,23,Adelaide,West Coast,Adelaide Oval,50785
+2016,23,Essendon,Carlton,MCG,46566
+2016,23,Fremantle,Western Bulldogs,Subiaco,34765
+2016,23,Geelong,Melbourne,GMHBA Stadium,24413
+2016,23,Gold Coast,Port Adelaide,Metricon Stadium,9213
+2016,23,Hawthorn,Collingwood,MCG,52968
+2016,23,North Melbourne,GWS,Marvel Stadium,22295
+2016,23,St Kilda,Brisbane,Marvel Stadium,19633
+2016,23,Sydney,Richmond,SCG,36570
+2017,1,Adelaide,GWS,Adelaide Oval,43993
+2017,1,Carlton,Richmond,MCG,73137
+2017,1,Collingwood,Western Bulldogs,MCG,66254
+2017,1,Essendon,Hawthorn,MCG,78294
+2017,1,Fremantle,Geelong,Subiaco,34638
+2017,1,Gold Coast,Brisbane,Metricon Stadium,12710
+2017,1,North Melbourne,West Coast,Marvel Stadium,21997
+2017,1,St Kilda,Melbourne,Marvel Stadium,36249
+2017,1,Sydney,Port Adelaide,SCG,33129
+2017,2,Brisbane,Essendon,Gabba,21749
+2017,2,Geelong,North Melbourne,Marvel Stadium,30917
+2017,2,GWS,Gold Coast,GIANTS Stadium,8022
+2017,2,Hawthorn,Adelaide,MCG,37420
+2017,2,Melbourne,Carlton,MCG,46727
+2017,2,Port Adelaide,Fremantle,Adelaide Oval,38388
+2017,2,Richmond,Collingwood,MCG,58236
+2017,2,West Coast,St Kilda,Subiaco,37749
+2017,2,Western Bulldogs,Sydney,Marvel Stadium,42834
+2017,3,Carlton,Essendon,MCG,48022
+2017,3,Fremantle,Western Bulldogs,Subiaco,28865
+2017,3,Geelong,Melbourne,Marvel Stadium,29733
+2017,3,Gold Coast,Hawthorn,Metricon Stadium,14728
+2017,3,North Melbourne,GWS,Blundstone Arena,8758
+2017,3,Port Adelaide,Adelaide,Adelaide Oval,53698
+2017,3,Richmond,West Coast,MCG,42523
+2017,3,St Kilda,Brisbane,Marvel Stadium,23097
+2017,3,Sydney,Collingwood,SCG,35310
+2017,4,Adelaide,Essendon,Adelaide Oval,47492
+2017,4,Brisbane,Richmond,Gabba,21669
+2017,4,Carlton,Gold Coast,Marvel Stadium,24968
+2017,4,Collingwood,St Kilda,Marvel Stadium,36650
+2017,4,GWS,Port Adelaide,UNSW Canberra Oval,9185
+2017,4,Hawthorn,Geelong,MCG,62360
+2017,4,Melbourne,Fremantle,MCG,27829
+2017,4,North Melbourne,Western Bulldogs,Marvel Stadium,42814
+2017,4,West Coast,Sydney,Subiaco,38063
+2017,5,Essendon,Collingwood,MCG,87685
+2017,5,Fremantle,North Melbourne,Subiaco,33319
+2017,5,Gold Coast,Adelaide,Metricon Stadium,12672
+2017,5,Hawthorn,West Coast,MCG,28997
+2017,5,Port Adelaide,Carlton,Adelaide Oval,43120
+2017,5,Richmond,Melbourne,MCG,85657
+2017,5,St Kilda,Geelong,Marvel Stadium,33884
+2017,5,Sydney,GWS,SCG,34824
+2017,5,Western Bulldogs,Brisbane,Marvel Stadium,31822
+2017,6,Adelaide,Richmond,Adelaide Oval,51069
+2017,6,Brisbane,Port Adelaide,Gabba,13638
+2017,6,Carlton,Sydney,MCG,32678
+2017,6,Essendon,Melbourne,Marvel Stadium,44040
+2017,6,Geelong,Collingwood,MCG,46457
+2017,6,GWS,Western Bulldogs,UNSW Canberra Oval,14048
+2017,6,Hawthorn,St Kilda,University of Tasmania Stadium,15571
+2017,6,North Melbourne,Gold Coast,Marvel Stadium,15431
+2017,6,West Coast,Fremantle,Subiaco,40836
+2017,7,Collingwood,Carlton,MCG,70279
+2017,7,Fremantle,Essendon,Subiaco,33393
+2017,7,Gold Coast,Geelong,Metricon Stadium,13648
+2017,7,Melbourne,Hawthorn,MCG,38693
+2017,7,North Melbourne,Adelaide,Blundstone Arena,10064
+2017,7,Port Adelaide,West Coast,Adelaide Oval,38333
+2017,7,St Kilda,GWS,Marvel Stadium,21160
+2017,7,Sydney,Brisbane,SCG,25619
+2017,7,Western Bulldogs,Richmond,Marvel Stadium,46387
+2017,8,Adelaide,Melbourne,Adelaide Oval,47882
+2017,8,Essendon,Geelong,MCG,57173
+2017,8,Gold Coast,Port Adelaide,Jiangwan Stadium,10118
+2017,8,GWS,Collingwood,GIANTS Stadium,11360
+2017,8,Hawthorn,Brisbane,University of Tasmania Stadium,10553
+2017,8,North Melbourne,Sydney,Marvel Stadium,21589
+2017,8,Richmond,Fremantle,MCG,31200
+2017,8,St Kilda,Carlton,Marvel Stadium,38014
+2017,8,West Coast,Western Bulldogs,Subiaco,38934
+2017,9,Brisbane,Adelaide,Gabba,13802
+2017,9,Collingwood,Hawthorn,MCG,54252
+2017,9,Essendon,West Coast,Marvel Stadium,36403
+2017,9,Fremantle,Carlton,Subiaco,30313
+2017,9,Geelong,Western Bulldogs,GMHBA Stadium,30275
+2017,9,GWS,Richmond,GIANTS Stadium,10677
+2017,9,Melbourne,North Melbourne,MCG,33218
+2017,9,St Kilda,Sydney,Marvel Stadium,29778
+2017,10,Adelaide,Fremantle,Adelaide Oval,42415
+2017,10,Carlton,North Melbourne,Marvel Stadium,32802
+2017,10,Collingwood,Brisbane,MCG,32750
+2017,10,Geelong,Port Adelaide,GMHBA Stadium,24909
+2017,10,Melbourne,Gold Coast,TIO Traeger Park,5072
+2017,10,Richmond,Essendon,MCG,85565
+2017,10,Sydney,Hawthorn,SCG,36221
+2017,10,West Coast,GWS,Subiaco,37057
+2017,10,Western Bulldogs,St Kilda,Marvel Stadium,34685
+2017,11,Fremantle,Collingwood,Subiaco,34259
+2017,11,Geelong,Adelaide,GMHBA Stadium,30458
+2017,11,Gold Coast,West Coast,Metricon Stadium,11402
+2017,11,GWS,Essendon,GIANTS Stadium,13671
+2017,11,North Melbourne,Richmond,Marvel Stadium,36100
+2017,11,Port Adelaide,Hawthorn,Adelaide Oval,37910
+2017,12,Adelaide,St Kilda,Adelaide Oval,46082
+2017,12,Brisbane,Fremantle,Gabba,11742
+2017,12,Carlton,GWS,Marvel Stadium,23194
+2017,12,Essendon,Port Adelaide,Marvel Stadium,34022
+2017,12,Hawthorn,Gold Coast,MCG,27392
+2017,12,Melbourne,Collingwood,MCG,70926
+2017,12,Sydney,Western Bulldogs,SCG,20692
+2017,13,Gold Coast,Carlton,Metricon Stadium,11936
+2017,13,North Melbourne,St Kilda,Marvel Stadium,26107
+2017,13,Port Adelaide,Brisbane,Adelaide Oval,31772
+2017,13,Richmond,Sydney,MCG,58721
+2017,13,West Coast,Geelong,Subiaco,35719
+2017,13,Western Bulldogs,Melbourne,Marvel Stadium,33667
+2017,14,Adelaide,Hawthorn,Adelaide Oval,45312
+2017,14,Brisbane,GWS,Gabba,11455
+2017,14,Collingwood,Port Adelaide,MCG,35933
+2017,14,Geelong,Fremantle,GMHBA Stadium,29928
+2017,14,Richmond,Carlton,MCG,64448
+2017,14,St Kilda,Gold Coast,Marvel Stadium,16844
+2017,14,Sydney,Essendon,SCG,34575
+2017,14,West Coast,Melbourne,Subiaco,36622
+2017,14,Western Bulldogs,North Melbourne,Marvel Stadium,28263
+2017,15,Carlton,Adelaide,MCG,33433
+2017,15,Essendon,Brisbane,Marvel Stadium,41246
+2017,15,Fremantle,St Kilda,Subiaco,30541
+2017,15,Gold Coast,North Melbourne,Metricon Stadium,12779
+2017,15,GWS,Geelong,GIANTS Stadium,15007
+2017,15,Hawthorn,Collingwood,MCG,56593
+2017,15,Melbourne,Sydney,MCG,47464
+2017,15,Port Adelaide,Richmond,Adelaide Oval,39979
+2017,15,Western Bulldogs,West Coast,Marvel Stadium,29671
+2017,16,Adelaide,Western Bulldogs,Adelaide Oval,41948
+2017,16,Brisbane,Geelong,Gabba,18769
+2017,16,Carlton,Melbourne,MCG,47266
+2017,16,Collingwood,Essendon,MCG,63537
+2017,16,Hawthorn,GWS,University of Tasmania Stadium,12156
+2017,16,North Melbourne,Fremantle,Marvel Stadium,19267
+2017,16,St Kilda,Richmond,Marvel Stadium,47514
+2017,16,Sydney,Gold Coast,SCG,32987
+2017,16,West Coast,Port Adelaide,Subiaco,36766
+2017,17,Carlton,Western Bulldogs,MCG,35157
+2017,17,Fremantle,West Coast,Subiaco,38722
+2017,17,Geelong,Hawthorn,MCG,70345
+2017,17,Gold Coast,Collingwood,Metricon Stadium,17275
+2017,17,GWS,Sydney,GIANTS Stadium,21924
+2017,17,Melbourne,Adelaide,TIO Stadium,12104
+2017,17,Port Adelaide,North Melbourne,Adelaide Oval,34138
+2017,17,Richmond,Brisbane,Marvel Stadium,28188
+2017,17,St Kilda,Essendon,Marvel Stadium,47156
+2017,18,Adelaide,Geelong,Adelaide Oval,50464
+2017,18,Brisbane,Carlton,Gabba,18847
+2017,18,Collingwood,West Coast,Marvel Stadium,22927
+2017,18,Essendon,North Melbourne,Marvel Stadium,40359
+2017,18,Fremantle,Hawthorn,Subiaco,30818
+2017,18,Melbourne,Port Adelaide,MCG,27068
+2017,18,Richmond,GWS,MCG,33467
+2017,18,Sydney,St Kilda,SCG,35773
+2017,18,Western Bulldogs,Gold Coast,Cazaly's Stadium,9364
+2017,19,Carlton,Geelong,Marvel Stadium,35460
+2017,19,Collingwood,Adelaide,MCG,33269
+2017,19,Gold Coast,Richmond,Metricon Stadium,16207
+2017,19,GWS,Fremantle,GIANTS Stadium,11233
+2017,19,Hawthorn,Sydney,MCG,52181
+2017,19,North Melbourne,Melbourne,Blundstone Arena,13939
+2017,19,Port Adelaide,St Kilda,Adelaide Oval,30335
+2017,19,West Coast,Brisbane,Subiaco,32652
+2017,19,Western Bulldogs,Essendon,Marvel Stadium,48754
+2017,20,Adelaide,Port Adelaide,Adelaide Oval,45028
+2017,20,Brisbane,Western Bulldogs,Gabba,16148
+2017,20,Essendon,Carlton,MCG,58562
+2017,20,Fremantle,Gold Coast,Subiaco,27050
+2017,20,Geelong,Sydney,GMHBA Stadium,30833
+2017,20,GWS,Melbourne,UNSW Canberra Oval,14274
+2017,20,North Melbourne,Collingwood,Marvel Stadium,33394
+2017,20,Richmond,Hawthorn,MCG,58342
+2017,20,St Kilda,West Coast,Marvel Stadium,22688
+2017,21,Brisbane,Gold Coast,Gabba,17772
+2017,21,Essendon,Adelaide,Marvel Stadium,38487
+2017,21,Geelong,Richmond,GMHBA Stadium,32266
+2017,21,Hawthorn,North Melbourne,University of Tasmania Stadium,14509
+2017,21,Melbourne,St Kilda,MCG,53115
+2017,21,Port Adelaide,Collingwood,Adelaide Oval,37533
+2017,21,Sydney,Fremantle,SCG,39281
+2017,21,West Coast,Carlton,Subiaco,30491
+2017,21,Western Bulldogs,GWS,Marvel Stadium,30672
+2017,22,Adelaide,Sydney,Adelaide Oval,51466
+2017,22,Carlton,Hawthorn,Marvel Stadium,35799
+2017,22,Collingwood,Geelong,MCG,47889
+2017,22,Fremantle,Richmond,Subiaco,34204
+2017,22,Gold Coast,Essendon,Metricon Stadium,16817
+2017,22,GWS,West Coast,GIANTS Stadium,15751
+2017,22,Melbourne,Brisbane,MCG,30422
+2017,22,St Kilda,North Melbourne,Marvel Stadium,29126
+2017,22,Western Bulldogs,Port Adelaide,Mars Stadium,10087
+2017,23,Brisbane,North Melbourne,Gabba,15416
+2017,23,Collingwood,Melbourne,MCG,51223
+2017,23,Essendon,Fremantle,Marvel Stadium,42665
+2017,23,Geelong,GWS,GMHBA Stadium,30087
+2017,23,Hawthorn,Western Bulldogs,Marvel Stadium,48090
+2017,23,Port Adelaide,Gold Coast,Adelaide Oval,34288
+2017,23,Richmond,St Kilda,MCG,69104
+2017,23,Sydney,Carlton,SCG,38965
+2017,23,West Coast,Adelaide,Subiaco,39367
+2018,1,Essendon,Adelaide,Marvel Stadium,43016
+2018,1,Gold Coast,North Melbourne,Cazaly's Stadium,3722
+2018,1,GWS,Western Bulldogs,UNSW Canberra Oval,10454
+2018,1,Hawthorn,Collingwood,MCG,58051
+2018,1,Melbourne,Geelong,MCG,54112
+2018,1,Port Adelaide,Fremantle,Adelaide Oval,38324
+2018,1,Richmond,Carlton,MCG,90151
+2018,1,St Kilda,Brisbane,Marvel Stadium,23731
+2018,1,West Coast,Sydney,Optus Stadium,53553
+2018,2,Adelaide,Richmond,Adelaide Oval,49743
+2018,2,Brisbane,Melbourne,Gabba,17141
+2018,2,Carlton,Gold Coast,Marvel Stadium,28025
+2018,2,Collingwood,GWS,MCG,30941
+2018,2,Fremantle,Essendon,Optus Stadium,49021
+2018,2,Geelong,Hawthorn,MCG,73189
+2018,2,North Melbourne,St Kilda,Marvel Stadium,33966
+2018,2,Sydney,Port Adelaide,SCG,34636
+2018,2,Western Bulldogs,West Coast,Marvel Stadium,22868
+2018,3,Carlton,Collingwood,MCG,68548
+2018,3,Gold Coast,Fremantle,Optus Stadium,33388
+2018,3,Melbourne,North Melbourne,MCG,35518
+2018,3,Port Adelaide,Brisbane,Adelaide Oval,36363
+2018,3,Richmond,Hawthorn,MCG,70701
+2018,3,St Kilda,Adelaide,Marvel Stadium,19324
+2018,3,Sydney,GWS,SCG,34711
+2018,3,West Coast,Geelong,Optus Stadium,54535
+2018,3,Western Bulldogs,Essendon,Marvel Stadium,40499
+2018,4,Adelaide,Collingwood,Adelaide Oval,45495
+2018,4,Essendon,Port Adelaide,Marvel Stadium,30900
+2018,4,Geelong,St Kilda,GMHBA Stadium,27338
+2018,4,GWS,Fremantle,UNSW Canberra Oval,11356
+2018,4,Hawthorn,Melbourne,MCG,41973
+2018,4,North Melbourne,Carlton,Blundstone Arena,14266
+2018,4,Richmond,Brisbane,MCG,32870
+2018,4,West Coast,Gold Coast,Optus Stadium,51774
+2018,4,Western Bulldogs,Sydney,Marvel Stadium,28058
+2018,5,Brisbane,Gold Coast,Gabba,16087
+2018,5,Carlton,West Coast,MCG,27900
+2018,5,Collingwood,Essendon,MCG,91440
+2018,5,Fremantle,Western Bulldogs,Optus Stadium,43056
+2018,5,Melbourne,Richmond,MCG,77071
+2018,5,North Melbourne,Hawthorn,Marvel Stadium,27981
+2018,5,Port Adelaide,Geelong,Adelaide Oval,45372
+2018,5,St Kilda,GWS,Marvel Stadium,14956
+2018,5,Sydney,Adelaide,SCG,38017
+2018,6,Adelaide,Gold Coast,Adelaide Oval,44835
+2018,6,Collingwood,Richmond,MCG,72157
+2018,6,Essendon,Melbourne,Marvel Stadium,35964
+2018,6,Fremantle,West Coast,Optus Stadium,56521
+2018,6,Geelong,Sydney,GMHBA Stadium,31036
+2018,6,GWS,Brisbane,GIANTS Stadium,10046
+2018,6,Hawthorn,St Kilda,University of Tasmania Stadium,15741
+2018,6,North Melbourne,Port Adelaide,Marvel Stadium,17617
+2018,6,Western Bulldogs,Carlton,Marvel Stadium,33915
+2018,7,Adelaide,Carlton,Adelaide Oval,47422
+2018,7,Brisbane,Collingwood,Gabba,21850
+2018,7,Essendon,Hawthorn,MCG,53018
+2018,7,Geelong,GWS,GMHBA Stadium,25079
+2018,7,Richmond,Fremantle,MCG,43240
+2018,7,St Kilda,Melbourne,Marvel Stadium,25496
+2018,7,Sydney,North Melbourne,SCG,29124
+2018,7,West Coast,Port Adelaide,Optus Stadium,50516
+2018,7,Western Bulldogs,Gold Coast,Mars Stadium,6833
+2018,8,Carlton,Essendon,MCG,44669
+2018,8,Collingwood,Geelong,MCG,44602
+2018,8,Fremantle,St Kilda,Optus Stadium,41752
+2018,8,Gold Coast,Melbourne,Gabba,6060
+2018,8,GWS,West Coast,GIANTS Stadium,9253
+2018,8,Hawthorn,Sydney,MCG,32784
+2018,8,North Melbourne,Richmond,Marvel Stadium,29153
+2018,8,Port Adelaide,Adelaide,Adelaide Oval,50967
+2018,8,Western Bulldogs,Brisbane,Marvel Stadium,20865
+2018,9,Adelaide,Western Bulldogs,Adelaide Oval,39407
+2018,9,Brisbane,Hawthorn,Gabba,20628
+2018,9,Carlton,Melbourne,MCG,44142
+2018,9,Essendon,Geelong,MCG,50228
+2018,9,Gold Coast,Port Adelaide,Jiangwan Stadium,10689
+2018,9,North Melbourne,GWS,Blundstone Arena,7194
+2018,9,St Kilda,Collingwood,Marvel Stadium,33994
+2018,9,Sydney,Fremantle,SCG,27481
+2018,9,West Coast,Richmond,Optus Stadium,57616
+2018,10,Brisbane,Sydney,Gabba,18702
+2018,10,Collingwood,Western Bulldogs,Marvel Stadium,37985
+2018,10,Fremantle,North Melbourne,Optus Stadium,37575
+2018,10,Geelong,Carlton,GMHBA Stadium,31090
+2018,10,GWS,Essendon,GIANTS Stadium,10789
+2018,10,Hawthorn,West Coast,Marvel Stadium,28077
+2018,10,Melbourne,Adelaide,TIO Traeger Park,6989
+2018,10,Richmond,St Kilda,MCG,48850
+2018,11,Adelaide,GWS,Adelaide Oval,44120
+2018,11,Collingwood,Fremantle,MCG,34542
+2018,11,Essendon,Richmond,MCG,81046
+2018,11,Gold Coast,Geelong,Metricon Stadium,17490
+2018,11,Hawthorn,Port Adelaide,University of Tasmania Stadium,13007
+2018,11,North Melbourne,Brisbane,Marvel Stadium,22133
+2018,11,Sydney,Carlton,SCG,27351
+2018,11,West Coast,St Kilda,Optus Stadium,54188
+2018,11,Western Bulldogs,Melbourne,Marvel Stadium,28485
+2018,12,Brisbane,Essendon,Gabba,20476
+2018,12,Fremantle,Adelaide,Optus Stadium,33421
+2018,12,Geelong,North Melbourne,GMHBA Stadium,31265
+2018,12,GWS,Gold Coast,GIANTS Stadium,7131
+2018,12,Melbourne,Collingwood,MCG,83518
+2018,12,Port Adelaide,Richmond,Adelaide Oval,39936
+2018,12,St Kilda,Sydney,Marvel Stadium,27569
+2018,13,Carlton,Fremantle,Marvel Stadium,21430
+2018,13,Geelong,Richmond,MCG,46423
+2018,13,Gold Coast,St Kilda,Metricon Stadium,10181
+2018,13,Hawthorn,Adelaide,MCG,26693
+2018,13,Port Adelaide,Western Bulldogs,Adelaide Oval,26137
+2018,13,Sydney,West Coast,SCG,36402
+2018,14,Brisbane,GWS,Gabba,11267
+2018,14,Collingwood,Carlton,MCG,53706
+2018,14,Hawthorn,Gold Coast,University of Tasmania Stadium,9007
+2018,14,Port Adelaide,Melbourne,Adelaide Oval,40751
+2018,14,West Coast,Essendon,Optus Stadium,51409
+2018,14,Western Bulldogs,North Melbourne,Marvel Stadium,26301
+2018,15,Adelaide,West Coast,Adelaide Oval,44771
+2018,15,Carlton,Port Adelaide,MCG,26562
+2018,15,Essendon,North Melbourne,Marvel Stadium,45580
+2018,15,Fremantle,Brisbane,Optus Stadium,41674
+2018,15,Gold Coast,Collingwood,Metricon Stadium,13637
+2018,15,GWS,Hawthorn,GIANTS Stadium,10866
+2018,15,Melbourne,St Kilda,MCG,38910
+2018,15,Richmond,Sydney,Marvel Stadium,43519
+2018,15,Western Bulldogs,Geelong,Marvel Stadium,29499
+2018,16,Brisbane,Carlton,Gabba,21074
+2018,16,Essendon,Collingwood,MCG,69868
+2018,16,Melbourne,Fremantle,TIO Stadium,8689
+2018,16,North Melbourne,Gold Coast,Marvel Stadium,14389
+2018,16,Port Adelaide,St Kilda,Adelaide Oval,36253
+2018,16,Richmond,Adelaide,MCG,54934
+2018,16,Sydney,Geelong,SCG,34363
+2018,16,West Coast,GWS,Optus Stadium,52105
+2018,16,Western Bulldogs,Hawthorn,Marvel Stadium,35320
+2018,17,Adelaide,Geelong,Adelaide Oval,46095
+2018,17,Collingwood,West Coast,MCG,53439
+2018,17,Fremantle,Port Adelaide,Optus Stadium,33190
+2018,17,Gold Coast,Essendon,Metricon Stadium,13061
+2018,17,GWS,Richmond,GIANTS Stadium,14456
+2018,17,Hawthorn,Brisbane,University of Tasmania Stadium,12557
+2018,17,Melbourne,Western Bulldogs,MCG,31053
+2018,17,North Melbourne,Sydney,Marvel Stadium,25633
+2018,17,St Kilda,Carlton,Marvel Stadium,33780
+2018,18,Brisbane,Adelaide,Gabba,20475
+2018,18,Carlton,Hawthorn,Marvel Stadium,30405
+2018,18,Collingwood,North Melbourne,MCG,50393
+2018,18,Essendon,Fremantle,Marvel Stadium,31564
+2018,18,Geelong,Melbourne,GMHBA Stadium,30125
+2018,18,Port Adelaide,GWS,Adelaide Oval,34693
+2018,18,St Kilda,Richmond,Marvel Stadium,36269
+2018,18,Sydney,Gold Coast,SCG,32565
+2018,18,West Coast,Western Bulldogs,Optus Stadium,46854
+2018,19,Adelaide,Melbourne,Adelaide Oval,45880
+2018,19,Essendon,Sydney,Marvel Stadium,42251
+2018,19,Fremantle,Hawthorn,Optus Stadium,41845
+2018,19,Geelong,Brisbane,GMHBA Stadium,28226
+2018,19,Gold Coast,Carlton,Metricon Stadium,10776
+2018,19,GWS,St Kilda,GIANTS Stadium,12014
+2018,19,North Melbourne,West Coast,Blundstone Arena,11176
+2018,19,Richmond,Collingwood,MCG,88180
+2018,19,Western Bulldogs,Port Adelaide,Mars Stadium,6450
+2018,20,Adelaide,Port Adelaide,Adelaide Oval,50377
+2018,20,Brisbane,North Melbourne,Gabba,18395
+2018,20,Carlton,GWS,Marvel Stadium,16697
+2018,20,Hawthorn,Essendon,MCG,68857
+2018,20,Melbourne,Gold Coast,MCG,23072
+2018,20,Richmond,Geelong,MCG,67054
+2018,20,St Kilda,Western Bulldogs,Marvel Stadium,20748
+2018,20,Sydney,Collingwood,SCG,39238
+2018,20,West Coast,Fremantle,Optus Stadium,57375
+2018,21,Collingwood,Brisbane,Marvel Stadium,33390
+2018,21,Essendon,St Kilda,Marvel Stadium,37483
+2018,21,Fremantle,Carlton,Optus Stadium,40028
+2018,21,Gold Coast,Richmond,Metricon Stadium,18102
+2018,21,GWS,Adelaide,UNSW Canberra Oval,13249
+2018,21,Hawthorn,Geelong,MCG,59529
+2018,21,Melbourne,Sydney,MCG,51424
+2018,21,North Melbourne,Western Bulldogs,Marvel Stadium,27031
+2018,21,Port Adelaide,West Coast,Adelaide Oval,32534
+2018,22,Adelaide,North Melbourne,Adelaide Oval,41444
+2018,22,Carlton,Western Bulldogs,Marvel Stadium,24143
+2018,22,Collingwood,Port Adelaide,MCG,46286
+2018,22,Geelong,Fremantle,GMHBA Stadium,24507
+2018,22,Gold Coast,Brisbane,Metricon Stadium,11907
+2018,22,GWS,Sydney,GIANTS Stadium,21433
+2018,22,Richmond,Essendon,MCG,76424
+2018,22,St Kilda,Hawthorn,Marvel Stadium,24795
+2018,22,West Coast,Melbourne,Optus Stadium,55824
+2018,23,Brisbane,West Coast,Gabba,16367
+2018,23,Carlton,Adelaide,Marvel Stadium,17000
+2018,23,Fremantle,Collingwood,Optus Stadium,41320
+2018,23,Geelong,Gold Coast,GMHBA Stadium,28004
+2018,23,Melbourne,GWS,MCG,37285
+2018,23,Port Adelaide,Essendon,Adelaide Oval,39168
+2018,23,Richmond,Western Bulldogs,MCG,56998
+2018,23,St Kilda,North Melbourne,Marvel Stadium,19866
+2018,23,Sydney,Hawthorn,SCG,39660
+2019,1,Adelaide,Hawthorn,Adelaide Oval,50180
+2019,1,Brisbane,West Coast,Gabba,20029
+2019,1,Carlton,Richmond,MCG,85016
+2019,1,Collingwood,Geelong,MCG,78017
+2019,1,Fremantle,North Melbourne,Optus Stadium,40033
+2019,1,GWS,Essendon,GIANTS Stadium,15424
+2019,1,Melbourne,Port Adelaide,MCG,38866
+2019,1,St Kilda,Gold Coast,Marvel Stadium,20291
+2019,1,Western Bulldogs,Sydney,Marvel Stadium,32303
+2019,2,Essendon,St Kilda,Marvel Stadium,44252
+2019,2,Geelong,Melbourne,GMHBA Stadium,27561
+2019,2,Gold Coast,Fremantle,Metricon Stadium,10119
+2019,2,Hawthorn,Western Bulldogs,MCG,39368
+2019,2,North Melbourne,Brisbane,Marvel Stadium,23100
+2019,2,Port Adelaide,Carlton,Adelaide Oval,41552
+2019,2,Richmond,Collingwood,MCG,70699
+2019,2,Sydney,Adelaide,SCG,32575
+2019,2,West Coast,GWS,Optus Stadium,54985
+2019,3,Adelaide,Geelong,Adelaide Oval,45631
+2019,3,Brisbane,Port Adelaide,Gabba,19958
+2019,3,Carlton,Sydney,Marvel Stadium,39290
+2019,3,Collingwood,West Coast,MCG,60878
+2019,3,Fremantle,St Kilda,Optus Stadium,38227
+2019,3,GWS,Richmond,GIANTS Stadium,12697
+2019,3,Hawthorn,North Melbourne,MCG,36174
+2019,3,Melbourne,Essendon,MCG,52475
+2019,3,Western Bulldogs,Gold Coast,Marvel Stadium,22499
+2019,4,Collingwood,Western Bulldogs,MCG,59257
+2019,4,Essendon,Brisbane,MCG,48289
+2019,4,Geelong,GWS,GMHBA Stadium,28780
+2019,4,Gold Coast,Carlton,Metricon Stadium,14176
+2019,4,North Melbourne,Adelaide,Marvel Stadium,17207
+2019,4,Port Adelaide,Richmond,Adelaide Oval,38864
+2019,4,St Kilda,Hawthorn,Marvel Stadium,35883
+2019,4,Sydney,Melbourne,SCG,26669
+2019,4,West Coast,Fremantle,Optus Stadium,58219
+2019,5,Adelaide,Gold Coast,Adelaide Oval,40847
+2019,5,Brisbane,Collingwood,Gabba,34017
+2019,5,GWS,Fremantle,UNSW Canberra Oval,11277
+2019,5,Hawthorn,Geelong,MCG,66347
+2019,5,Melbourne,St Kilda,MCG,35558
+2019,5,North Melbourne,Essendon,Marvel Stadium,48278
+2019,5,Richmond,Sydney,Marvel Stadium,40053
+2019,5,West Coast,Port Adelaide,Optus Stadium,49290
+2019,5,Western Bulldogs,Carlton,Marvel Stadium,35069
+2019,6,Essendon,Collingwood,MCG,92241
+2019,6,Fremantle,Western Bulldogs,Optus Stadium,43732
+2019,6,Geelong,West Coast,GMHBA Stadium,28085
+2019,6,Gold Coast,Brisbane,Metricon Stadium,13694
+2019,6,Hawthorn,Carlton,University of Tasmania Stadium,15888
+2019,6,Port Adelaide,North Melbourne,Adelaide Oval,36099
+2019,6,Richmond,Melbourne,MCG,72704
+2019,6,St Kilda,Adelaide,Marvel Stadium,28404
+2019,6,Sydney,GWS,SCG,29780
+2019,7,Adelaide,Fremantle,Adelaide Oval,42383
+2019,7,Brisbane,Sydney,Gabba,20075
+2019,7,Carlton,North Melbourne,Marvel Stadium,42430
+2019,7,Collingwood,Port Adelaide,Marvel Stadium,37559
+2019,7,Geelong,Essendon,MCG,63527
+2019,7,GWS,St Kilda,UNSW Canberra Oval,12633
+2019,7,Melbourne,Hawthorn,MCG,40864
+2019,7,West Coast,Gold Coast,Optus Stadium,47497
+2019,7,Western Bulldogs,Richmond,Marvel Stadium,36151
+2019,8,Carlton,Collingwood,MCG,69289
+2019,8,Fremantle,Richmond,Optus Stadium,42641
+2019,8,Gold Coast,Melbourne,Metricon Stadium,9765
+2019,8,Hawthorn,GWS,MCG,14636
+2019,8,North Melbourne,Geelong,Marvel Stadium,21156
+2019,8,Port Adelaide,Adelaide,Adelaide Oval,49675
+2019,8,St Kilda,West Coast,Marvel Stadium,24246
+2019,8,Sydney,Essendon,SCG,26502
+2019,8,Western Bulldogs,Brisbane,Mars Stadium,9039
+2019,9,Brisbane,Adelaide,Gabba,20405
+2019,9,Collingwood,St Kilda,MCG,60702
+2019,9,Essendon,Fremantle,Marvel Stadium,29176
+2019,9,Geelong,Western Bulldogs,GMHBA Stadium,31373
+2019,9,GWS,Carlton,GIANTS Stadium,9599
+2019,9,North Melbourne,Sydney,Blundstone Arena,12799
+2019,9,Port Adelaide,Gold Coast,Adelaide Oval,26129
+2019,9,Richmond,Hawthorn,MCG,64936
+2019,9,West Coast,Melbourne,Optus Stadium,51162
+2019,10,Adelaide,West Coast,Adelaide Oval,41630
+2019,10,Fremantle,Brisbane,Optus Stadium,36383
+2019,10,Gold Coast,Geelong,Metricon Stadium,13144
+2019,10,Hawthorn,Port Adelaide,University of Tasmania Stadium,11637
+2019,10,Melbourne,GWS,MCG,20023
+2019,10,Richmond,Essendon,MCG,80176
+2019,10,St Kilda,Carlton,Marvel Stadium,35058
+2019,10,Sydney,Collingwood,SCG,34649
+2019,10,Western Bulldogs,North Melbourne,Marvel Stadium,26156
+2019,11,Brisbane,Hawthorn,Gabba,25051
+2019,11,Collingwood,Fremantle,MCG,41774
+2019,11,Essendon,Carlton,MCG,50423
+2019,11,Geelong,Sydney,GMHBA Stadium,29021
+2019,11,GWS,Gold Coast,GIANTS Stadium,7581
+2019,11,Melbourne,Adelaide,TIO Stadium,10634
+2019,11,North Melbourne,Richmond,Marvel Stadium,29326
+2019,11,St Kilda,Port Adelaide,Jiangwan Stadium,9412
+2019,11,West Coast,Western Bulldogs,Optus Stadium,53195
+2019,12,Adelaide,GWS,Adelaide Oval,41710
+2019,12,Carlton,Brisbane,Marvel Stadium,32211
+2019,12,Collingwood,Melbourne,MCG,74036
+2019,12,Gold Coast,North Melbourne,Metricon Stadium,9305
+2019,12,Richmond,Geelong,MCG,65214
+2019,12,Sydney,West Coast,SCG,36640
+2019,13,Adelaide,Richmond,Adelaide Oval,40837
+2019,13,Carlton,Western Bulldogs,Marvel Stadium,35479
+2019,13,Essendon,Hawthorn,Marvel Stadium,44846
+2019,13,Fremantle,Port Adelaide,Optus Stadium,37451
+2019,13,Gold Coast,St Kilda,Riverway Stadium,7243
+2019,13,North Melbourne,GWS,Blundstone Arena,7832
+2019,14,Melbourne,Fremantle,MCG,20211
+2019,14,Port Adelaide,Geelong,Adelaide Oval,37726
+2019,14,St Kilda,Brisbane,Marvel Stadium,22885
+2019,14,Sydney,Hawthorn,SCG,29553
+2019,14,West Coast,Essendon,Optus Stadium,52810
+2019,14,Western Bulldogs,Collingwood,Marvel Stadium,39836
+2019,15,Brisbane,Melbourne,Gabba,24809
+2019,15,Collingwood,North Melbourne,Marvel Stadium,38801
+2019,15,Essendon,GWS,Marvel Stadium,25195
+2019,15,Fremantle,Carlton,Optus Stadium,37293
+2019,15,Geelong,Adelaide,GMHBA Stadium,28108
+2019,15,Hawthorn,West Coast,MCG,31895
+2019,15,Port Adelaide,Western Bulldogs,Adelaide Oval,25623
+2019,15,St Kilda,Richmond,Marvel Stadium,40962
+2019,15,Sydney,Gold Coast,SCG,26194
+2019,16,Adelaide,Port Adelaide,Adelaide Oval,50544
+2019,16,Carlton,Melbourne,MCG,55593
+2019,16,Essendon,Sydney,MCG,60199
+2019,16,Fremantle,West Coast,Optus Stadium,56358
+2019,16,Gold Coast,Richmond,Metricon Stadium,16031
+2019,16,GWS,Brisbane,GIANTS Stadium,12268
+2019,16,Hawthorn,Collingwood,MCG,66407
+2019,16,North Melbourne,St Kilda,Blundstone Arena,10696
+2019,16,Western Bulldogs,Geelong,Marvel Stadium,35641
+2019,17,Essendon,North Melbourne,Marvel Stadium,45682
+2019,17,Geelong,St Kilda,GMHBA Stadium,24035
+2019,17,Gold Coast,Adelaide,Metricon Stadium,8741
+2019,17,Hawthorn,Fremantle,University of Tasmania Stadium,13006
+2019,17,Port Adelaide,Brisbane,Adelaide Oval,33118
+2019,17,Richmond,GWS,MCG,38986
+2019,17,Sydney,Carlton,SCG,32570
+2019,17,West Coast,Collingwood,Optus Stadium,56251
+2019,17,Western Bulldogs,Melbourne,Marvel Stadium,26781
+2019,18,Adelaide,Essendon,Adelaide Oval,47735
+2019,18,Brisbane,North Melbourne,Gabba,23833
+2019,18,Carlton,Gold Coast,Marvel Stadium,31765
+2019,18,Fremantle,Sydney,Optus Stadium,33594
+2019,18,Geelong,Hawthorn,MCG,53636
+2019,18,GWS,Collingwood,GIANTS Stadium,15467
+2019,18,Melbourne,West Coast,TIO Traeger Park,7164
+2019,18,Richmond,Port Adelaide,MCG,41642
+2019,18,St Kilda,Western Bulldogs,Marvel Stadium,21705
+2019,19,Carlton,Adelaide,MCG,38369
+2019,19,Collingwood,Richmond,MCG,78722
+2019,19,Gold Coast,Essendon,Metricon Stadium,15759
+2019,19,Hawthorn,Brisbane,University of Tasmania Stadium,15157
+2019,19,Port Adelaide,GWS,Adelaide Oval,27591
+2019,19,St Kilda,Melbourne,Marvel Stadium,22854
+2019,19,Sydney,Geelong,SCG,32911
+2019,19,West Coast,North Melbourne,Optus Stadium,54376
+2019,19,Western Bulldogs,Fremantle,Marvel Stadium,21181
+2019,20,Adelaide,St Kilda,Adelaide Oval,39984
+2019,20,Brisbane,Western Bulldogs,Gabba,25831
+2019,20,Carlton,West Coast,Marvel Stadium,32802
+2019,20,Collingwood,Gold Coast,MCG,33577
+2019,20,Essendon,Port Adelaide,Marvel Stadium,42940
+2019,20,Fremantle,Geelong,Optus Stadium,36310
+2019,20,GWS,Sydney,GIANTS Stadium,16116
+2019,20,Melbourne,Richmond,MCG,37254
+2019,20,North Melbourne,Hawthorn,Marvel Stadium,33226
+2019,21,Brisbane,Gold Coast,Gabba,22530
+2019,21,Essendon,Western Bulldogs,Marvel Stadium,41816
+2019,21,Geelong,North Melbourne,GMHBA Stadium,21664
+2019,21,GWS,Hawthorn,UNSW Canberra Oval,11741
+2019,21,Melbourne,Collingwood,MCG,31903
+2019,21,Port Adelaide,Sydney,Adelaide Oval,29568
+2019,21,Richmond,Carlton,MCG,51039
+2019,21,St Kilda,Fremantle,Marvel Stadium,17715
+2019,21,West Coast,Adelaide,Optus Stadium,54994
+2019,22,Adelaide,Collingwood,Adelaide Oval,48175
+2019,22,Brisbane,Geelong,Gabba,35608
+2019,22,Carlton,St Kilda,MCG,51786
+2019,22,Fremantle,Essendon,Optus Stadium,47833
+2019,22,GWS,Western Bulldogs,GIANTS Stadium,10139
+2019,22,Hawthorn,Gold Coast,Marvel Stadium,31331
+2019,22,Melbourne,Sydney,MCG,23700
+2019,22,North Melbourne,Port Adelaide,Marvel Stadium,17063
+2019,22,Richmond,West Coast,MCG,57415
+2019,23,Collingwood,Essendon,MCG,85405
+2019,23,Geelong,Carlton,GMHBA Stadium,31669
+2019,23,Gold Coast,GWS,Metricon Stadium,7610
+2019,23,North Melbourne,Melbourne,Blundstone Arena,8202
+2019,23,Port Adelaide,Fremantle,Adelaide Oval,27504
+2019,23,Richmond,Brisbane,MCG,76995
+2019,23,Sydney,St Kilda,SCG,33722
+2019,23,West Coast,Hawthorn,Optus Stadium,55859
+2019,23,Western Bulldogs,Adelaide,Mars Stadium,9560
